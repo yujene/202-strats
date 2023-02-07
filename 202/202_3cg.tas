@@ -49,11 +49,9 @@ console rmx2 Celeste/3-CelestialResort
    6,U,J,C,O
    2,J,C,O
    5,J
-   8,K
-   3,K
+  11,K
    1,R,K
-   8,R,J
-   1,R,J
+   9,R,J
   16,R
    5,R,J
   13,R
@@ -85,8 +83,7 @@ console rmx2 Celeste/3-CelestialResort
    3,J,G,N
   14,G,N
   22,R,J,G,N
-   9,R,K,G,N
-   1,R,K,G,N
+  10,R,K,G,N
    3,R,G,N
    3,R
    9,R,D
@@ -111,15 +108,13 @@ console rmx2 Celeste/3-CelestialResort
    3
    1,L
   17,L,J
-  17,R,K
-   1,R,K
+  18,R,K
   40,R
    5,R,U,Z,O
    2,R,U,Z,G,N,O
   16,R,U,G,N
   13,R,U,J,G,N
-  14,R,U,K,G,N
-   1,R,U,K,G,N
+  15,R,U,K,G,N
    9,R,U,G,N
    4,R,G,N
    9,R
@@ -131,10 +126,8 @@ console rmx2 Celeste/3-CelestialResort
    5,R,J,G,N
    5,J
    9,K
-   1,R,K,G,N
-  14,R,K,G,N
-  26,R,J,G,N
-   1,R,J,G,N
+  15,R,K,G,N
+  27,R,J,G,N
    9,R,J
   27,R
   15,R,Z,O
@@ -217,4 +210,4 @@ console rmx2 Celeste/3-CelestialResort
    1,O
   31
 
-ChapterTime: 0:29.138(1714)
+FileTime: 0:30.430(1790)

@@ -59,8 +59,7 @@ console rmx2 Celeste/7-Summit
   25,R
    4,R,Z,O
   30,R
-  92
-  40
+ 132
 
 # 02
   70,U
@@ -105,8 +104,7 @@ console rmx2 Celeste/7-Summit
   13,R,U,J,C,O
    1,R,U,J
    6,R,U
-  64
-  40
+ 104
 
 # 03
   69
@@ -319,4 +317,4 @@ console rmx2 Celeste/7-Summit
    1,O
   31
 
-ChapterTime: 0:52.360(3080)
+FileTime: 0:53.397(3141)
