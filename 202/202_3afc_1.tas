@@ -640,64 +640,62 @@ console load Celeste/3-CelestialResort
    2,R,K
    8,R,K,Z,O
    1,R,D,K,Z,O
-  40,R,D
-   3,R
-   2,R,Z,O
-   3,R,U,Z,G,N,O
-   6,R,U,G,N
-   6,R,U,J,G,N
+  30,R,D
+   2
+   6,C,O
+   6
+  12,J
+   8,R,U,J,Z,O
   40
 
 # 07-a
-   9,R,J,G,N
-   1,R,U,J
-   1,R,U,J,C,O
-  11,U,C,O
-   2,C,O
-   2,R,C,O
-  13,R,J,C,O
+   9
+  10,U,C,O
+   4,C,O
+   1,J,C,O
+   2,R,J,C,O
+   8,R,J
   40
 
 # 07-b
-  12,L,J,G,N
-  11,L,K,G,N
-   2,L,G,N
-   6,L
-  10
-   7,R,D,C,O
-   2,R,D
-   2,L
-   3,L,J
-   4,L
+   5
+   5,J,G,N
+  14,K,G,N
+   1,K,Z,G,N,O
+   5,L,K,Z,G,N,O
+   1,L,Z,G,N,O
+   4,L,G,N
+   5,L,J,G,N
   40
 
 # 06-b
-   2,L,D
-   9,L,D,C,O
-   1,L,D
-   2,L
-   1,L,J
-  35,L,J,G,N
-  12,L,K,G,N
-   1,K,G,N
-   1,K,C,G,N,O
-   1,U,K,C,G,N,O
-   7,U,K,C,O
-   2,U,C,O
+   2
+   8,L,D,C,O
+   5,L,D
+  16,L,D,J
+  13,L,J
+   7,L,J,G,N
+   4,L,K,G,N
+   7,K,G,N
+   1,U,K,G,N
+   3,U,K,C,G,N,O
+   3,U,K,C,O
+   1,U,C,O
    1,C,O
-  10,L
-  11
-   1,L,C,O
-   7,L,C,G,N,O
-   4,L,G,N
+   5
+   8,L
+  15
+   2,L
+   6,L,C,G,N,O
+   5,L,G,N
   12,L,J,G,N
-  12,L,K,G,N
-   2,K
-   1,K,C,O
-   1,U,K,C,O
-   8,U,C,O
-   2,U
-  42
+  11,L,K,G,N
+   1,K,G,N
+   3,K
+   1,U,K
+   3,U,K,C,O
+   6,U,C,O
+  45
 
 # 06-c
    1,R
@@ -1445,4 +1443,4 @@ console load Celeste/3-CelestialResort
    1,S,O,F,180
   31
 
-FileTime: 2:59.945(10585)
+FileTime: 2:59.656(10568)
