@@ -28,75 +28,82 @@ console rmx2 Celeste/1-ForsakenCity
   31,R
   14,R,G,N
    5,G,N
-   8,D,G,N
-  15,G,N
-   2,U,C,G,N,O
-   8,U,C,O
-   2,C,O
-  12
-   9,L
-   1,J
-   5,R,J
-  16,R
-   6,R,U,Z,O
-   2,R,U
-   5,R
-   5,R,G,N
-  11,R,J,G,N
-   8,R,J,C,G,N,O
-   2,R,C,G,N,O
-   1,R,G,N
-  24,R
-   9,R,D
-   2,R,D,C,O
-   4,R,D,J,C,O
-   1,R,D,J
+   9,D,G,N
+  14,G,N
+   7,G,S,N
+  10,G,N
+   8,U,G,N
+   7,U,G,S,N
+   4,U
+  15,U,C,O
+   1,U
+   3
+  26,L
+   2
+  27,R,J
+   1,R,J,G,N
+   7,R,U,J,Z,G,N,O
+   3,R,U,J,G,N
+   6,R,J,G,N
+  11,R,K,G,N
+   7,R,K,C,O
+   5,R,C,O
+   2,R
+  30,R,D
+   3,R,D,C,O
+   3,R,D,J,C,O
+   1,R,D,C,O
    4,R,D
    4,R
   40
 
 # 01
-   2,R
-  22,R,J
+  24,R,J
+   1,R,D,J
    2,R,D,J,C,O
    7,R,D,C,O
-   2,R,C,O
-   2,R
-  19,R,J
-   8,R,J,Z,O
-   1,R,Z,O
+   3,R,C,O
    1,R
-  16
-   2,D,C,O
-   6,R,D,C,O
-   1,R,D
-   3,R
-  39,R,J
-  18,R,J,Z,O
-  12
-   1,L
-  15,L,G,N
-   6,G,N
-   7,D,G,N
-   8,G,N
-  12,R,G,N
-  42,R,J,G,N
-   1,R,U,G,N
-  17,U,G,N
-  17,L,G,N
-   5,L,J,G,N
-  19,R,J,G,N
-   2,R,G,N
+  19,R,J
+  12,R,J,Z,O
    2,R
+  13
+   1,D,C,O
+   8,R,D,C,O
+   1,R,D
+   2,R
+  39,R,J
+  13,R,J,Z,O
+   5,R,J
+   2,R
+  12
+   2,L
+  20,L,G,N
+   2,G,N
+   2,U,G,N
+   6,G,N
+  17,R,G,N
+  41,R,J,G,N
+   2,R,G,N
+   1,R,U,G,N
+  12,U,G,N
+   2,G,N
+  21,L,G,N
+   1,L,J,G,N
+   3,J,G,N
+  18,R,J,G,N
+   1,R,G,N
+   3,R
    3,R,D
-   3,R,D,C,O
-   7,R,D,J,C,O
-   8,R,D
-   7,D
+   4,R,D,C,O
+   4,R,D,J,C,O
+   1,R,D,C,O
+  13,R,D
+   2,D
    1,L,D
-   9,L,D,C,O
-   2,D,C,O
-  12,D
+  10,L,D,C,O
+   1,L,D
+  13,D
    6,R,D,C,O
    9,R,D
    1,R,D,C,O
@@ -125,8 +132,8 @@ console rmx2 Celeste/1-ForsakenCity
   11,R,J,G,N
    7,R,G,N
    1,R,J,G,N
-   6,J,G,N
-  15,G,N
+   3,J,G,N
+  12,G,N
   29,L,J,G,N
   17,L,K,G,N
    1,G,N
@@ -187,4 +194,4 @@ console rmx2 Celeste/1-ForsakenCity
    1,O
   31
 
-FileTime: 0:27.506(1618)
+FileTime: 0:28.390(1670)
