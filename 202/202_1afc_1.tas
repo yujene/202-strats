@@ -160,13 +160,15 @@ console load Celeste/1-ForsakenCity
   30,L,D
   29,D
    7,R,D
-  25,D
-   2
-  13,R,C,O
-   9
-  12,R,C,O
+  21,D
+  13,R,D,C,O
+   3,R,D
    1,R
-  11,R,J
+   5,R,J
+   1,R,J,C,O
+   8,R,C,O
+   4,R
+  12,R,J
    9,R,J,Z,O
    1,R,Z,O
    3,R
@@ -324,4 +326,4 @@ console load Celeste/1-ForsakenCity
    1,C,O
   31
 
-FileTime: 0:41.514(2442)
+FileTime: 0:41.429(2437)
