@@ -558,55 +558,50 @@ console hard Celeste/1-ForsakenCity
    1,R,G,N
    5,R,J,G,N
   15,R,G,N
-  12,R,C,G,N,O
-   1,R,G,N
+   2,R,D,C,O
+   3,R,D,J,C,O
+   1,R,D,C,O
+   5,R,D
   40
 
 # 10
-   1,R,U
-  18,R,U,Z,O
-  12,R,U
-  50
-   2,J
-  28,R,J
-   1,R,U,J
-   5,R,U,J,C,O
-   1,R,U,C,O
-  30,R
-   9
-  12,L,G,N
-   2,G,N
-  14,R,J,G,N
-   1,J,G,N
-  31,J
-  27,L,J
+  46,R,U,G,N
+  12,R,U,J,G,N
+  18,R,U,G,N
+   6,R,U,C,G,N,O
+  29,R,U,G,N
+   5,G,N
+  17,L,G,N
+   4,R,G,N
+   6,R,J,G,N
+   8,R,G,N
+  13
+  29,L
    1,J
-  31,R,K
-  10,R,K,C,O
-   1,R,C,O
-  19,R
-  30
-   2,R
-   8,R,J
-  11,R,D,J
-  18,R,D
-  17,D
-  10,L,D
-   2,L
+  31,R,J
+  15,R,J,C,O
+  15,R
+  26
    1,R
+   8,R,J
+   2,R
+  27,R,D
+   6,D
+  14,L,D
+   1,L
   33,R,J
    1,J
-   2,U
-   8,U,C,O
-   2,C,O
-   1,R,C,G,N,O
-   1,R,G,N
+   1,U,J
+   1,U,J,C,O
+   6,U,C,O
+   4,C,O
+   2,C,G,N,O
   31,R,J,G,N
    9,R,K,G,N
    7,R,J,G,N
    8,R,G,N
    4,R
-  11,R,C,O
+  10,R,C,O
   40
 
 # 11
@@ -741,4 +736,4 @@ console hard Celeste/1-ForsakenCity
    1,O
   31
 
-FileTime: 1:52.268(6604)
+FileTime: 1:51.163(6539)
