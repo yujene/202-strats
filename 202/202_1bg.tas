@@ -111,24 +111,24 @@ console hard Celeste/1-ForsakenCity
    5,D
    2
    1,J
-  11,R,J,G,N
-  11,R,G,N
+   9,R,J,G,N
+  13,R,G,N
   11,R,U,G,N
   24,R,G,N
-   5,R,J,G,N
-   2,R,J
+   6,R,J,G,N
+  14,R,K,G,N
+   1,K,G,N
+   1,K
+   9,L,J
    3,J
-  10,L,K
-   2,K
-   3,R,K
-  10,R,J
-   2,J
-   3,L,J
-   8,L,K
-   6,L,K,G,N
-  15,L,J,G,N
-  13,L,K,G,N
+   2,R,J
+   9,R,K
+   1,K
+   4,L,K
+   9,L,J
    5,L,J,G,N
+  14,L,K,G,N
+   9,L,J,G,N
   40
 
 # 02b
