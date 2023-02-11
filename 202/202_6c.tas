@@ -111,12 +111,12 @@ console rmx2 Celeste/6-Reflection
 # 02
    1,R,D,J
   19,R,D
-  24,D
-   9,L,D
+  16,D
+  17,L,D
   11,L,D,C,O
    2,L,D
   34
-  18,G,N
+  20,G,N
    5,D,G,N
   15,G,N
    4,D,G,N
@@ -150,25 +150,25 @@ console rmx2 Celeste/6-Reflection
   13,G,N
    6,U,G,N
   92,G,N
-  35
+  37
    1,L
    9,L,C,O
    4
-  26,R
+  25,R
    1
    8,U,C,O
    4,C,O
    6
-  19,L
-  12
+  17,L
+  14
    1,L
   10,L,Z,O
    6,L
   25
    4,R
    7,R,Z,O
-  30,R
-  19
+  33,R
+  16
    2,R
    9,R,J
   20
@@ -201,7 +201,7 @@ console rmx2 Celeste/6-Reflection
   13,L
   11,L,C,O
    1
-  32,R
+  33,R
    2
    1,U
   11,L,U,C,O
@@ -242,10 +242,10 @@ console rmx2 Celeste/6-Reflection
    4,R,U
   17,R,U,C,O
   28,R,U
- 106
+ 107
    1,S
    1,U,J
    1,O
    3
 
-FileTime: 0:46.495(2735)
+FileTime: 0:46.580(2740)
