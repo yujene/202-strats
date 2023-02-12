@@ -123,16 +123,17 @@ console hard Celeste/1-ForsakenCity
   40
 
 # 02b
-  12
-   1,R,D
-   8,R,D,C,O
-   3,R,D
-   1,R
-   4,R,J
-  10,R
-   1,R,U
-   8,R,U,Z,G,N,O
-  57,R,U,G,N
+   1,R,G,N
+   4,R,J,G,N
+  13,R,G,N
+   8,L,D,C,O
+   1
+   2,R
+   5,R,J
+  14,R
+   2,R,U,Z,O
+   7,R,U,Z,G,N,O
+  56,R,U,G,N
   23,R,U,J,G,N
   54,R,J
    1,J
@@ -671,4 +672,4 @@ console hard Celeste/1-ForsakenCity
    1,O
   31
 
-FileTime: 1:38.906(5818)
+FileTime: 1:39.042(5826)
