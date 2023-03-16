@@ -1173,74 +1173,74 @@ console load Celeste/5-MirrorTemple
   11,R
   11
    3,J
-   4,R,J
-   4,R,J,C,O
-   6,R,C,O
-   2,R
-   2
-  11,U,C,O
-   4,C,O
-  42
+   5,R,J
+   1,R,J,C,O
+   8,R,C,O
+   5
+   9,U,C,O
+   2,C,O
+   6
+  40
 
 # b-20
-  18,R,J
-   1,R,D
-   8,R,D,C,O
-   2,R,D
-   3,R,D,J
-   1,R,D
-  11,R
+   1
+   1,R
+  16,R,J
+   1,R,D,J,C,O
+  10,R,D,C,O
+   2,R,D,J,C,O
+   5,R,D
+   8,R
    3,R,Z,O
-   4,R
-  11,R,G,N
-   8,R,J,G,N
-  11,R,G,N
-   2,G,N
-  15,L,G,N
-   4,G,N
-  14,R,G,N
-  13,R
-  14,R,J
-   1,R,J,G,N
-   1,R,U,J,G,N
-   8,R,U,J,C,G,N,O
-   2,R,J,C,G,N,O
-  11,R,J,G,N
-   7,R,K,G,N
-   2,K,G,N
-   1,L,K,G,N
-   9,L,J,G,N
-  11,L,G,N
-   2,L
-   1,L,D
-   9,L,D,C,O
+   5,R
+  13,R,G,N
+   6,R,D,G,N
+   7,R,G,N
+  41,R,J,G,N
+  11,R,K,G,N
+   2,R,K,G,N
+   8,R,U,K,C,G,N,O
+   9,R,K,G,N
+   6,R,J,G,N
+   4,R,J,G,N
+   5,R,K,G,N
+   1,R,K,G,N
+   2,L,K,G,N
+   5,L,J,G,N
+   1,L,J,G,N
+  17,L,G,N
+   7,L,D,C,G,N,O
+   4,L,D,G,N
+   3,L,D,J,G,N
+  10,L,D,G,N
    4,L,D
-   3,L,D,J
-  15,L,D
-  15,L,D,J
-   8,L,D,J,C,O
+  17,L,D,J
+   6,L,D,J,C,O
    3,L,D,C,O
-   1,L,D
+   2,L,D
    3,D
-   9,D,C,O
+   8,D,C,O
+   1,D
+  29,L,D
    3,D
-  28,L,D
   40
 
 # b-01
-   8,D,C,O
+   7,D,C,O
    6,D
-   1,R,D
-  10,R,D,C,O
-   3,R,D
-  13,R,D,J
-  14,R,D,J,C,O
-   5,R,D
+   1,D,C,O
+   8,R,D,C,O
+   4,R,D
+  17,R,D,J
+   8,R,D,J,C,O
+   3,R,D,C,O
+   7,R,D
    9,R,D,C,O
-   5,R,D
+   4,R,D
    2,R,D,J
-   7,R,D,J,C,O
-   4,R,D,C,O
+   3,R,D,J,C,O
+   6,R,D,C,O
+   3,R,D
   40
 
 # b-01b
@@ -2093,4 +2093,4 @@ console load Celeste/5-MirrorTemple
    1,S,O,F,180
   31
 
-FileTime: 4:45.073(16769)
+FileTime: 4:44.937(16761)
