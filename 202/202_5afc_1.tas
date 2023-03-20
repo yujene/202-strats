@@ -27,6 +27,7 @@ console load Celeste/5-MirrorTemple
 
 # a-00x
   14,L,D,J
+# rock
    3,L,D,J,C,O
    5,L,D,C,O
    4,L,D
@@ -192,6 +193,7 @@ console load Celeste/5-MirrorTemple
   10,L,D,C,O
    3,L,D
   29,L,D,J
+# right of spinner
    9,L,D,J,C,O
    2,L,D,C,O
   22,L
@@ -301,6 +303,7 @@ console load Celeste/5-MirrorTemple
 
 # a-06
   36,R,D
+# lower to be safe
    8,R,D,C,O
    5,R,D
    1
@@ -341,6 +344,7 @@ console load Celeste/5-MirrorTemple
    1,L,D,J
    3,L,D,J,C,O
    8,L,D,C,O
+# aim to wavedash around red dot
    2,L,D
    5,L,D,J
   21,L,D
@@ -375,8 +379,10 @@ console load Celeste/5-MirrorTemple
    1,L,G,N
   17,L,J,G,N
    8,L,K,G,N
+# dash soon after jump
   15,L,U,C,O
   10,L,G,N
+# buffer full height
   41,L,J,G,N
    4,L,C,G,N,O
    5,L,J,C,G,N,O
@@ -409,6 +415,7 @@ console load Celeste/5-MirrorTemple
    3
    2,R
   27,R,J
+# big window on this right dash, so delay a lot
    8,R,J,C,O
   10,R,J
    1,R
@@ -419,16 +426,12 @@ console load Celeste/5-MirrorTemple
   40
 
 # a-02
-   4,R,J,G,N
-  14,R,K,G,N
-   1,R
-   1,R,U,C,O
-  11,U,C,O
-   2,C,O
-   5,J,C,O
-   8,J
-  17,R
-   1,R,D
+   4
+  13,R,J
+  13,U,C,O
+  15,J
+   2,K
+  13
    3,R,D,C,O
    3,R,D,J,C,O
   27,R,D
@@ -449,6 +452,7 @@ console load Celeste/5-MirrorTemple
    7,L,D,G,N
    7,L,G,N
   11,L,J,G,N
+# arrive low and don't buffer climbjump
   21,L,K,G,N
    1,L,U,K,G,N
    3,L,U,K,C,G,N,O
@@ -504,6 +508,7 @@ console load Celeste/5-MirrorTemple
 # a-08
   36,D
   11,D,C,O
+# can collect 2 berries
    1,C,O
   14,L
   40
@@ -536,6 +541,7 @@ console load Celeste/5-MirrorTemple
    9,L,J
    2,L
    9,L,C,O
+# middle of exit platform
    1,L,J,C,O
    2,L,J
   40
@@ -546,6 +552,7 @@ console load Celeste/5-MirrorTemple
    7,L,K
    3,L
    3,D
+# idk just be far enough to not die
    8,D,C,O
    2,D
    2
@@ -614,6 +621,7 @@ console load Celeste/5-MirrorTemple
   21,R
    5,L,D,J,C,O
   53,L,D
+# wait to collect
    9,R,D,C,O
    1,R,D
    3,D
@@ -622,6 +630,7 @@ console load Celeste/5-MirrorTemple
 
 # a-08
   31,D
+# wait to land to take a ride
    5,D,C,O
   14,D
    7,L,D,C,O
@@ -700,7 +709,7 @@ console load Celeste/5-MirrorTemple
 # a-12
    1,R
    2,R,J
-   6,R
+  11,R
    2,R,D
    8,R,D,C,O
    6,R,D
@@ -708,20 +717,20 @@ console load Celeste/5-MirrorTemple
    2,R,D,C,O
    3,R,D
    2,R
-  28,R,J
+  24,R,J
   11,R,J,C,O
    2,R,J
    2,J
    2,U,J,C,O
   10,U,C,O
    3,U
-  90
+  88
 
 # a-15
-   7,R
-  11,R,J
-   1,R,J,C,O
-   9,L,U,J,C,O
+# hold upleft the whole time
+   7,L,U
+  11,L,U,J
+  10,L,U,J,C,O
    1,L,U,C,O
    4,L,U
   10,L,U,C,O
@@ -752,6 +761,7 @@ console load Celeste/5-MirrorTemple
    5
    2,L
   29,L,J
+# dash after passing bubble spawn circle
    3,L,J,C,O
    1,L,C,O
   27,L
@@ -778,14 +788,13 @@ console load Celeste/5-MirrorTemple
    3,D
    1,D,C,O
    7,L,C,O
-  44,L
+  50,L
    1,L,D
    7,L,D,C,O
-   6,L,D
-   6,L,D,J,C,O
-   1,L,D,C,O
-   6,L,D
-  15,L,J
+   8,L,D
+# late demohyper to collect
+  13,L,Z,O
+  13,L,J
   40
 
 # a-08
@@ -796,9 +805,7 @@ console load Celeste/5-MirrorTemple
    7,L,D,J,C,O
    1,L,D,C,O
    3,L,D
-   3,L
-   5,L,J
-   3,L
+   6,L
   10,L,C,O
    8,L
    9,L,D,C,O
@@ -847,6 +854,7 @@ console load Celeste/5-MirrorTemple
   42,R,D
   10,R,D,C,O
    3,R,D
+# wavedash on right side of platform to not enter bubble
    1,R,D,J
    9,R,D,J,C,O
    4,R,D,C,O
@@ -978,6 +986,7 @@ console load Celeste/5-MirrorTemple
 
 # b-01
    2,R,D
+# unbuffered dash for instant hyper muscle memory
    2,R,D,C,O
    4,R,D,J,C,O
    5,R,D
@@ -999,18 +1008,13 @@ console load Celeste/5-MirrorTemple
    8,R,D,C,O
    1,R,C,O
    3,R
-  16,R,J
-   5,R,J,G,N
-   8,R,K,G,N
-   3,R,K
-   2,R,U,K,C,O
-   3,U,K,C,O
-   6,U,C,O
-   4,C,O
-   1,L,C,O
-  10,L,J,C,O
-   1,L,J
-  18,L
+  24,R,J
+  14,U,C,O
+  12,L,J
+   5,L,K,G
+   8,L,J,G
+  15,L
+# go left enough to reach wall
   13,L,J
   12,L,U,J,C,O
    2,L,U,J
@@ -1022,8 +1026,7 @@ console load Celeste/5-MirrorTemple
    1,L
    7
    1,D,C,O
-   7,L,D,C,O
-   4,L,D
+   3,L,D,C,O
    2,L,D,J
    9,L
   13,L,J
@@ -1051,6 +1054,7 @@ console load Celeste/5-MirrorTemple
    5,L
   13,L,J
    1,L,U,J
+# use bg to upleft a tile away from wall
    6,L,U,J,Z,O
    2,L,J,Z,O
   20,L,J
@@ -1069,10 +1073,10 @@ console load Celeste/5-MirrorTemple
   40
 
 # b-20
-   9,L,J
-   3,J
-  13,R,K
-   1,R,U,K,C,O
+  12,L,J
+# keep holding left on walljump
+  13,L,K
+   1,L,U,K,C,O
   11,U,K,C,O
    3,U,C,O
    3
@@ -1083,6 +1087,7 @@ console load Celeste/5-MirrorTemple
 
 # b-21
    1,L
+# jump late
   37,L,J
    2,L,J,C,O
    2,L,J,C,G,N,O
@@ -1097,9 +1102,12 @@ console load Celeste/5-MirrorTemple
    1,C,O
    2,R,C,O
    3,R,J,C,O
+# bg swirl wallbounce
   11,R,J
   12,R,D,J
+# fast fall to clear wall
   32,R,D
+# slow fall the rest
    1
   11,L
    1
@@ -1133,6 +1141,7 @@ console load Celeste/5-MirrorTemple
    9,R,D,C,O
    1,R,D
   26,R
+# don't buffer super
    8,R,C,O
    5,R
   13,R,J
@@ -1156,6 +1165,7 @@ console load Celeste/5-MirrorTemple
    8,U,K,C,O
    3,U,C,O
    5,C,O
+# neutral wallbounce
    5,J,C,O
    2,L,J,C,O
    2,L,D,J,C,O
@@ -1179,8 +1189,7 @@ console load Celeste/5-MirrorTemple
    5
    9,U,C,O
    2,C,O
-   6
-  40
+  46
 
 # b-20
    1
@@ -1196,18 +1205,15 @@ console load Celeste/5-MirrorTemple
   13,R,G,N
    6,R,D,G,N
    7,R,G,N
+# climb until feet -> bottom of block
   41,R,J,G,N
-  11,R,K,G,N
-   2,R,K,G,N
+  13,R,K,G,N
    8,R,U,K,C,G,N,O
    9,R,K,G,N
-   6,R,J,G,N
-   4,R,J,G,N
-   5,R,K,G,N
-   1,R,K,G,N
+  10,R,J,G,N
+   6,R,K,G,N
    2,L,K,G,N
-   5,L,J,G,N
-   1,L,J,G,N
+   6,L,J,G,N
   17,L,G,N
    7,L,D,C,G,N,O
    4,L,D,G,N
@@ -1389,11 +1395,14 @@ console load Celeste/5-MirrorTemple
   19,D
   10,L,D
   12,D
+# land right side
    1,R,D
    3,R,D,C,O
+# lowest hyper that clears spinner
    9,R,D,J,C,O
    2,R,D,C,O
   28,R,D
+# land left of chest
    9,R,D,C,O
    1,R,C,O
    4,R
@@ -1419,6 +1428,7 @@ console load Celeste/5-MirrorTemple
    1,J
    2,L,J
   15,L,K
+# jump off left wall to make this free
    1,L,J
    5,J
    4
@@ -1432,6 +1442,7 @@ console load Celeste/5-MirrorTemple
    7,L,D
   25,D
    2,R,D
+# start hyper late to collect
    9,R,D,C,O
    6,R,D
    7,R,D,J,C,O
@@ -1533,6 +1544,7 @@ console load Celeste/5-MirrorTemple
 
 # b-17
   12,L
+# bg rock
    2,L,D
    2,L,D,C,O
    3,L,D,J,C,O
@@ -1584,6 +1596,7 @@ console load Celeste/5-MirrorTemple
   11,R
    5
    1,L
+# idk just slow fall this
   15,L,D
    5,L
    5,L,G,N
@@ -1644,15 +1657,18 @@ console load Celeste/5-MirrorTemple
   10,L
   16,L,D
    3,D
+# turn around in the hole
   16,R,D
   13,D
    1
    8,J
    2
+# dash after feet clear floor
    6,U,C,O
    1,U
    5
    1,J
+# two neutral climbjumps with second buffered for ceiling corner
    3,J,G,N
    7,K,G,N
    8,G,N
@@ -1697,9 +1713,11 @@ console load Celeste/5-MirrorTemple
    3,U
    1,L,U
   13,L,U,C,O
-  11,L,U
-  18,L,U,C,O
-  16,L
+   2,U
+  15,U,C,O
+# small late wallbounce
+   3,L,J
+  15,L
   40
 
 # b-03
@@ -1753,21 +1771,27 @@ console load Celeste/5-MirrorTemple
   40
 
 # b-04
+# hold left, buffer upleft
   11,L,U
   13,L,U,C,O
    1,L,C,O
+# neutral until land
    8
   13,G,N
+# neutral demo
    5,Z,G,N,O
    7,G,N
+# pause until toe passes hole
    7,G,S,N
   18,G,N
    1,D,G,N
   12,R,D,G,N
+# 1f hyper right
    3,X,N
    4,R,D,G,N
    9,R,D,J,G,S,N
    8,R,D,G,N
+# adv 3f right
    3,X,N
    4,R,D,G,N
    7,R,D,G,S,N
@@ -1780,10 +1804,12 @@ console load Celeste/5-MirrorTemple
    4,R,D,G,N
    7,R,D,G,S,N
    9,R,D,G,N
+# 1f half grav
    4,X,N
    4,R,D,G,N
   10,R,D,J,G,S,N
   10,R,D,G,N
+# pause until hands thick
    4,X,N
   10,R,D,G,N
    7,R,D,G,S,N
@@ -1801,12 +1827,15 @@ console load Celeste/5-MirrorTemple
    5,R,D,G,S,N
    9,R,D,G,N
   14,G,N
+# buffer neutral crouch jump
    4,X,N
    3,G,N
    9,J,G,N
    2,K,G,N
+# buffer rcb
   12,L,K,G,N
    9,K,G,N
+# 6f up dash, uncrouch frame 4?
   13,U,K,C,G,N,O
   13,K,C,G,N,O
    1,D,K,C,G,N,O
@@ -1847,8 +1876,9 @@ console load Celeste/5-MirrorTemple
    6,R,J
   12,R
    1,R,U
-   8,R,U,Z,O
-   1,R,Z,O
+# non demo for consistent bubble height
+   8,R,U,C,O
+   1,R,C,O
    2,R
   12,R,G,N
   11,R,J,G,N
@@ -1858,28 +1888,26 @@ console load Celeste/5-MirrorTemple
    6,L,K,C,G,N,O
    4,L,C,G,N,O
    8,L,G,N
-  11,L
+   9,L
    8,L,U,C,O
    2,L,C,O
    4,L
-  48,L,D
+  49,L,D
   13,L,D,J
    5,L,D,J,C,O
    5,L,D,C,O
    3,L,D
    1,L,D,J
    6,L,D,J,C,O
-   2,L,D,C,O
+   3,L,D,C,O
   40
 
 # b-02
-  12,L,D
+   5,L,D
    2,D
   10,D,C,O
    5,D
-   9,L,D
-   4,D
-   1,L,D
+  13,L,D
    1,D
   10,D,C,O
    4,D
@@ -1907,6 +1935,7 @@ console load Celeste/5-MirrorTemple
    1,R,D,J,G,N
    3,R,J,G,N
   11,R,G,N
+# hyper and bhop same button to be low at wall
    8,R,J,G,N
   10,R,G,N
   15,R,J,G,N
@@ -2021,33 +2050,36 @@ console load Celeste/5-MirrorTemple
 
 # b-14
   16,R,D
+# bg tile
   14,R,D,C,O
   16,R,D
    3,R,D,C,O
    3,D,C,O
    1,D
    4,D,J
-  14,D
-   8,R,D
-  13,D
-   3,R,D
+   6,D
+  32,R,D
    2,R,D,C,O
    6,R,D,J,C,O
    2,R,D,C,O
   13,R,D
    5,D
+# go into corner
   13,L,D,C,O
    6,L,D
   13,D
    1,R,D
+# downright, down
    9,R,D,C,O
    5,D
   14,D,C,O
    1,R,D,C,O
   48,R,D
+# go when key disappears
    7,R,D,C,O
    4,R,D
    2,R,D,G,N
+# pause until 1 brown foot pixel
    7,R,D,G,S,N
   11,R,D,G,N
    4,R,D,G,S,N
@@ -2056,6 +2088,7 @@ console load Celeste/5-MirrorTemple
    7,R,D,G,N
    6,R,G,N
   15,R,U,G,N
+# buffer demo+jump
    8,R,U,G,S,N
    1,R,U,G,N
   15,R,U,J,Z,G,N
@@ -2069,6 +2102,7 @@ console load Celeste/5-MirrorTemple
    7,R,G,S,N
    4,R,G,N
    6,L,G,N
+# pause rcb frame 2 transition
    4,L,J,G,S,N
    3,L,G,N
    9,L,J,G,S,N
@@ -2076,10 +2110,12 @@ console load Celeste/5-MirrorTemple
    3,G,N
    4,R,G,N
   32,R,J,G,N
+# bg vine loop
   11,R,U,J,C,G,N,O
    2,R,J,C,G,N,O
   13,R,J,G,N
   12,R,K,G,N
+# high climbjump to reach heart
   14,R,J,G,N
    1,R,J,C,G,N,O
   21,R,U,J,C,G,N,O
@@ -2093,4 +2129,4 @@ console load Celeste/5-MirrorTemple
    1,S,O,F,180
   31
 
-FileTime: 4:44.937(16761)
+FileTime: 4:44.444(16732)
