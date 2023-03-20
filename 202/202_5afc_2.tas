@@ -1,6 +1,7 @@
 console load Celeste/5-MirrorTemple b-14
    1
 
+# setting up s&q from first file
 console givekey
   36
    4,R,J
@@ -125,6 +126,7 @@ console givekey
 # void
  363
  163,R,D
+# go when seeker tangent to wire and turns red
   12,R,D,C,O
    2,R,D
    1,D
@@ -201,6 +203,7 @@ console givekey
   40
 
 # c-01
+# rocks for all cutscenes
   17,R
    3,R,S
    1,R,D,Z,O
@@ -287,6 +290,7 @@ console givekey
    1,C,O
   10,U,C,O
   17,U
+# bg hole
   14,L,U,C,O
    1,L,C,O
   15
@@ -342,6 +346,7 @@ console givekey
    1,R,U
    1,R
    1
+# neutral into ceiling to fall earlier
    3,J
   17
    2,R
@@ -349,6 +354,7 @@ console givekey
    6,R
   11,R,J
    2,J
+# wait until pretty high
   10,U,J,C,O
    2,U,C,O
    2
@@ -385,6 +391,7 @@ console givekey
    3,R,U,J,C,G,N,O
    9,R,U,C,G,N,O
    4,R,U,G,N
+# max height into corner
   17,R,U,J,G,N
    4,R,J,G,N
    3,R,J
@@ -421,6 +428,7 @@ console givekey
   23,J
   12,L,J
    7,J
+# land before reverse to collect
    4,L,D,J
    1,L,D,J,C,O
    6,L,D,C,O
@@ -433,6 +441,7 @@ console givekey
    7,R,K,Z,O
    1,R,Z,O
    4,R
+# jump on right side of block
    1,R,J
   11,R,U,J,C,O
    5,R,U,C,O
@@ -472,6 +481,7 @@ console givekey
    8,R
    1,D
    2,R,D
+# land a bit right of edge
    2,R,D,C,O
    3,R,D,J,C,O
    1,R,D,C,O
@@ -481,6 +491,7 @@ console givekey
 # c-07
    3,R,D
    3,R,D,J
+# earlier downright allowed by prev comment
    3,R,D,J,C,O
    6,R,D,C,O
   24,R,D
@@ -520,6 +531,7 @@ console givekey
    4,R,G,N
   23,G,N
    2,D,G,N
+# seeker near bg vine
    1,D,C,G,N,O
    8,D,C,O
    6,D
@@ -527,22 +539,23 @@ console givekey
   15,D
    3,R,D
    2,R,D,C,O
-   3,R,D,J,C,O
-   4,R,D
-   8,R
-  16,R,J
+   4,R,D,J,C,O
+   3,R,D
+  12,R
+  12,R,J
    4,R
    6
    6,L
-  21,L,J
+  18,L,J
    1,U,J
    2,U,J,C,O
-   9,U,C,O
+  10,U,C,O
    1,C,O
    1,J,C,O
-  32,R,J
-   5,R,J,Z,O
-   5,R
+  25,R,J
+   7,R
+   5,R,Z,O
+   4,R
   40
 
 # c-13
@@ -609,19 +622,13 @@ console givekey
    3,L,D,J,C,O
   19,L,D
    1,L,D,J
-  17,L,J
-   1,J
-   1,J,C,O
-   1,U,J,C,O
-   8,U,C,O
-   2,C,O
-   5,L,J,C,O
+  16,L,J
+  15,L,U,C,O
+   5,L
+  11,L,J,G
   14,L
-   3
-  11,U,C,O
-   2,C,O
-   1,L,C,O
-  13,L,J,C,O
+  13,U,C,O
+  13,L,J
   40
 
 
@@ -715,6 +722,7 @@ console givekey
 # d-15
    7,R,D,C,O
    4,R,D
+# jump late
    5,R,D,J
    5,R,D
    1,D
@@ -770,20 +778,25 @@ console givekey
    5
    1,D
    3,R,D,C,O
+# full height until transition
    8,R,D,J,C,O
   40
 
 # d-15
    6,R,D
    5,D
+# dash near middle
   12,D,C,O
    2,L,D,C,O
    1,L,D
   11,L
+# grab next to blue
    4,L,G,N
+# climbjump soon
   26,L,J,G,N
    1,L,G,N
   28,G,N
+# wait for seeker to see you
    7,R,J,G,N
    9,R,G,N
   13
@@ -814,6 +827,7 @@ console givekey
    6,D
    6
    1,R
+# super downright
    8,R,C,O
    3,R
    4,R,D,J
@@ -821,7 +835,9 @@ console givekey
    7,R,D,C,O
    6,R,D
    3,R
+# second jump
   15,R,J
+# centered at left of glyphs
    9,R,D,J,C,O
    5,R,D,K,C,O
   13,R,K,Z,O
@@ -903,14 +919,16 @@ console givekey
    1,R,D,J
    2,R,D
   12,R,D,C,O
+# kinda low jump
    7,R,D,J,C,O
   10,R,D
    5,D
+# bonk and turn around
   56,L,D
   40
 
 # d-13
-   3,D
+# down dash to collect
    9,D,C,O
    5,D
    1,R,D
@@ -928,6 +946,7 @@ console givekey
    1,D
    2,L
   21,L,J
+# left of vine
   11,L,U,J,C,O
   25,L,J
    1,L,J,C,O
@@ -1000,6 +1019,7 @@ console givekey
    2,L,D,J
    3,L,D
    1,R
+# jump right for good cb
    5,R,J
    1,R
    3,L,D
@@ -1018,6 +1038,7 @@ console givekey
    1,L,D,J
   10,L,J
    3,J
+# just up dashes for easy ending
    9,U,C,O
    2,C,O
    1,C,G,N,O
@@ -1026,18 +1047,12 @@ console givekey
    1,L,C,G,N,O
    7,L,G,N
    7,L
-   8,L,J
-   1,J
-   1
-   9,U,C,O
-   2,C,O
-   1,J,C,O
-   6,L,J,C,O
-   1,L,C,O
+  21,L,J
+  15,U,C,O
   15,L
    2,L,D
    2,L,D,C,O
-   8,L,D,J,C,O
+   9,L,D,J,C,O
   40
 
 # d-04
@@ -1081,17 +1096,20 @@ console givekey
   12,R,U,C,O
    1,R,C,O
    7,R
+# wavedash out
   11,R,D,C,O
    3,R,D,J,C,O
    1,D,J,C,O
   40
 
 # d-01
+# just hold down into hole
   23,D
    1,R,D
   11,R,D,C,O
    1,R,C,O
    5,R
+# failed wavedash
   13,R,J
    1,U,J
    2,U,J,C,O
@@ -1160,6 +1178,7 @@ console givekey
   10,L,C,O
    7,L
   41,L,D
+# right of block
   11,L,D,C,O
    1,L,D
    5,L,D,J
@@ -1183,6 +1202,7 @@ console givekey
   11,D,C,O
    4,D
    1,R,D
+# don't buffer reverse dash for muscle memory purposes
    9,R,D,C,O
    1,D,G,N
    1,L,D,G,N
@@ -1204,12 +1224,14 @@ console givekey
 
 # d-19
   30,L,D
+# pass ceiling, wavedash upleft to reach lock as soon as possible
    9,L,D,C,O
    1,L,D
    2,L
    3,L,J
   15,L,U,C,O
    3,L,G,N
+# horiz close enough to lcok
   21
   15,U,C,O
   16
@@ -1217,6 +1239,7 @@ console givekey
   16
   15,R,C,O
   11
+# so you land on crumble
    3,L
    7,L,J
   13,L,C,O
@@ -1239,6 +1262,7 @@ console givekey
   31,D
   13,L,D
   15,D
+# stop fast fall at track
   28
   15,L
    6,L,D
@@ -1324,6 +1348,7 @@ console givekey
 # d-10
    1,R
   15,R,J
+# ceiling ledge
    8,R,U,J,Z,O
    2,R,U,J
    1,R,U
@@ -1395,6 +1420,7 @@ console givekey
 
 # rescue
 # e-00
+# some rooms will be replaced with golden strats in the future
    8,R,D
    2,R,D,C,O
    3,R,D,J,C,O
@@ -1459,6 +1485,7 @@ console givekey
   17,R,G,N
    1,G,N
    5
+# eye
    3,Z,O
    3,R,Z,O
    5,R
@@ -1471,6 +1498,7 @@ console givekey
    2,R,D,G,N
   11,R,G,N
   26,R,J,G,N
+# eye
    1,R,J,C,O
    9,R,C,O
    1,R,J,C,O
@@ -1489,6 +1517,7 @@ console givekey
    2,R,D,G,N
   16,R,G,N
   13
+# eye
    2,Z,O
    2,R,Z,O
    5,R
@@ -1501,6 +1530,7 @@ console givekey
   12,R,G,N
    8,R,J,G,N
   15,R,G,N
+# right side of platform
   19,R,J,G,N
    1,R,G,N
   13,G,N
@@ -1537,6 +1567,7 @@ console givekey
    3
    1,R,C,O
    1,R,C,G,N,O
+# right side of ceiling
   23,R,J,C,G,N,O
   23,R,G,N
   14,R,J,G,N
@@ -1600,6 +1631,7 @@ console givekey
   17,R,G,N
    3,R,J,G,N
   30,R,G,N
+# eye
    5,R,J,G,N
   16,J,G,N
    3,R,J,G,N
@@ -1827,10 +1859,12 @@ console givekey
   21,R,G,N
    5,R,J,G,N
   23,R,G,N
+# throw low
    3
    5,J
    2
    7,R
+# after shockwave
    6,R,Z,O
    7,R
    4,R,D,J,C,G,N,O
@@ -1846,6 +1880,6 @@ console givekey
    1,D,J
   18
 
-# offset
+# offset for file start setup
 #0:04.913(289)
-FileTime: 4:02.097(14241)
+FileTime: 4:01.978(14234)
