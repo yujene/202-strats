@@ -1,10 +1,12 @@
 console load Celeste/7-Summit e-00b
+Set,Everest.ShowModOptionsInGame,False
    1
 
 console summitgem 0
 console summitgem 1
 console summitgem 2
 console summitgem 3
+console summitgem 4
 
 #Start
   36
@@ -38,8 +40,7 @@ console summitgem 3
    2,U
   12,U,C,O
    2,U
-   1
-  40
+  41
 
 # e-00
 # small left tap
@@ -164,10 +165,8 @@ console summitgem 3
    4,R,D,G,N
    3,R,G,N
   16,R,J,G,N
-   8,R,K,G,N
-   5,R,K,G,N
-   9,R,J,G,N
-   3,R,J,G,N
+  13,R,K,G,N
+  12,R,J,G,N
    1,R,J,C,G,N,O
    9,R,D,C,G,N,O
    2,R,D
@@ -203,10 +202,8 @@ console summitgem 3
    7,R,J,C,O
    1,R,J
   13,R,J,G,N
-   9,R,K,G,N
-   5,R,K,G,N
-   7,R,J,G,N
-   5,R,J,G,N
+  14,R,K,G,N
+  12,R,J,G,N
    8,R,K,G,N
    4,R,G,N
    4,R
@@ -253,8 +250,7 @@ console summitgem 3
    9,R,J,C,G,N,O
   34,R,J,G,N
   31,R,K,G,N
-   1,R,K,C,G,N,O
-   5,R,K,C,G,N,O
+   6,R,K,C,G,N,O
    1,R,C,G,N,O
   12,R,G,N
    3,R
@@ -302,17 +298,13 @@ console summitgem 3
    6,R,J,G,N
   15,R,G,N
   34,R,J,G,N
-  16,R,K,G,N
-   9,R,K,G,N
-   7,R,J,G,N
-   1,R,J,G,N
+  25,R,K,G,N
+   8,R,J,G,N
    3,J,G,N
    1,L,J,G,N
-  20,L,K,G,N
-   7,L,K,G,N
+  27,L,K,G,N
   14,L,K
-  16,L,J
-  13,L,J
+  29,L,J
    2,J
 # bg tile vertical line
   10,U,J,C,O
@@ -333,19 +325,15 @@ console summitgem 3
    3,L
    2,L,J
   15,L,J,G,N
-  13,L,K,G,N
-   6,L,K,G,N
-  12,L,J,G,N
-   6,L,J,G,N
-  12,L,K,G,N
-   5,L,K,G,N
+  19,L,K,G,N
+  18,L,J,G,N
+  17,L,K,G,N
    8,L,J,G,N
    1,J,G,N
    6,J
 # bottom of bg tile
    4,K
-  17,L,K
-   2,L,K
+  19,L,K
    1,K
    1,R,K
   24,R,J
@@ -415,8 +403,7 @@ console summitgem 3
 # e-09
    1,L,J,G,N
   14,L,K,G,N
-   3,L,U,K,C,G,N,O
-   6,L,U,K,C,G,N,O
+   9,L,U,K,C,G,N,O
    4,L,U,K,G,N
    7,L,U,K,C,G,N,O
    3,L,U,C,G,N,O
@@ -462,8 +449,7 @@ console summitgem 3
    4,R,J,G,N
   20,R,K,G,N
    1,U,K
-   3,U,K,C,O
-   8,U,K,C,O
+  11,U,K,C,O
    2,U,K
    5,R,U,K
    2,U,K
@@ -480,18 +466,15 @@ console summitgem 3
    3
    1,L,G,N
   17,L,J,G,N
-   9,L,K,G,N
-   3,L,K,G,N
-   8,L,J,G,N
-   4,L,J,G,N
+  12,L,K,G,N
+  12,L,J,G,N
    7,L,K,G,N
 # bottom of branch
    3,K,G,N
    1,R,K,G,N
   13,R,J,G,N
 # buffered right dashes
-   6,R,J,C,G,N,O
-   3,R,J,C,G,N,O
+   9,R,J,C,G,N,O
    5,R,J,G,N
    7,R,J,C,G,N,O
    2,R,C,G,N,O
@@ -509,8 +492,7 @@ console summitgem 3
    3,J
    2,R,J
   15,R,K
-   4,R,K,C,O
-   3,R,K,C,O
+   7,R,K,C,O
    4,R,C,O
   24,R
   18,R,Z,O
@@ -540,8 +522,7 @@ console summitgem 3
 # buffered full height climbjump
    9,L,K,G,N
    3,L,D,K,G,N
-   6,L,D,K
-  46,L,D,K
+  52,L,D,K
    1,D,K
 # buffered down downleft to collect
   11,D,K,C,O
@@ -807,3 +788,942 @@ console summitgem 3
 # 2500m
 # f-00
   84
+   1,R,C,O
+   1,R,C,G,N,O
+   3,R,J,C,G,N,O
+   4,R,J,G,N
+  15,R,K,G,N
+   8,R,J,G,N
+   2,R,J,Z,G,N,O
+   7,R,U,J,Z,G,N,O
+   1,R,U,J,C,G,N,O
+   1,R,J,C,G,N,O
+   7,R,C,G,N,O
+  33,R,G,N
+  42,R,U,G,N
+# get close before upright buffer right
+   7,R,U,C,G,N,O
+   1,R,U,G,N
+   4,R,G,N
+  10,R,C,G,N,O
+# long climbjump
+   7,R,J,C,G,N,O
+   1,R,J,G,N
+   9,R,G,N
+   7,R
+  13,R,C,O
+   3,R
+   4
+   1,D
+  11,D,C,O
+   1,C,O
+   6
+   9,L,G,N
+  14,L,J,G,N
+   5,L,K,G,N
+   4,K
+  16,J
+# near top spikes
+  11,L,U,J,Z,O
+  19,L,U
+   9,L,U,C,O
+   4,U
+  11,U,C,O
+   2,U
+   1
+  15,R,C,O
+  25,R
+# right of platform
+   3,R,S
+   1,R,D,Z,S,O
+   2,R,Z,O
+   9,R,J,C
+   2,R
+# f-00
+  60
+   2,U,C,O
+   5,R,U,C,O
+   2,R,U
+   2
+   1,C,O
+  12,L,C,O
+  32,L
+  10
+  27,L,U
+  40
+
+# f-01
+# buffer upleft demo
+   4,L,U,Z,G,N,O
+   6,L,U,G,N
+  19,L,U,J,G,N
+   2,L,U,J
+   8,U,J,C,O
+   1,U,C,O
+   2
+   1,L
+# left buffer upleft demo
+  10,L,C,O
+   3,L
+  13,L,U,Z,O
+   2,L,U
+   1
+# neutral
+  12,J
+# hold right on the walljump
+   9,R,J
+   1,J
+   1,L,J
+  21,L,K
+   5,L,K,G,N
+  13,L,J,G,N
+   4,L,G,N
+  10,L
+   7
+   9,R,U,C,O
+   1,R,U
+  34,R
+  11
+  22,R
+   2,L
+   6,L,G,N
+  16,L,U,G,N
+   1,U,G,N
+   3,R,G,N
+   6,R,J,G,N
+   7,R,J
+  25,R
+   9,R,C,O
+  23,R
+  40
+
+# f-00
+ 393
+
+# f-02
+   8
+  72,U
+   9,U,C,O
+  40
+
+# f-02b
+   2
+   4,J
+   6,R,J
+   1
+   7,U,C,O
+   1,C,O
+   1
+   2,R
+   6,R,C,O
+  13,R
+# spinner above
+   8,R,D,C,O
+   1,R,C,O
+   4,R
+   1,R,Z,O
+  10,R,U,Z,O
+   3,R,Z,O
+  27,R
+  19,R,Z,O
+  12,R,U,C,O
+   1,R,U,Z,O
+   1,R,U
+   8,R
+  11,R,C,O
+   7,R
+   1,R,D
+  10,R,D,C,O
+   1,R,C,O
+   5,R
+   9,R,G,N
+   9,R,C,G,N,O
+  10,R,G,N
+# eye
+   8,R,U,Z,G,N,O
+   2,R,U,G,N
+   3,R,G,N
+  11,R,J,G,N
+  16,R,K,G,N
+   6,R,G,N
+   4,G,N
+  30,L,U,G,N
+   1,G,N
+  10,R,G,N
+  13,R,J,G,N
+  20,R,G,N
+   1,R
+  16
+  18,R
+   9,R,U,Z,O
+   2,R,Z,O
+  12,R,G,N
+   5,R,J,G,N
+  14,R,K,G,N
+  24,R,G,N
+   8,R,C,G,N,O
+  23,R,G,N
+  41,R,U,G,N
+# before vine
+  17,R,U,C,G,N,O
+   5,R,C,G,N,O
+   9,R,G,N
+   1,G,N
+   9
+   1,Z,O
+   1,U,Z,G,N,O
+   4,R,U,Z,G,N,O
+   7,R,U,G,N
+  11,R,U,J,G,N
+   1,R,U,G,N
+  13
+   1,U,C,O
+   9,R,U,C,O
+  11,R
+   4,R,D
+  13,R,D,C,O
+  15,R,D
+# max hyper left-mid pillar
+   6,R,D,C,O
+   6,R,D,J,C,O
+  40
+
+# f-07
+   4,R,D,J
+# buffered downright
+  13,R,D,J,C,O
+   2,R,D,C,O
+   6,R,D
+   5,D
+  13,D,C,O
+   1,D
+   3
+# demo to wall and keep holding right until grab
+  12,R,Z,G,N,O
+   7,R,G,N
+  14,L,G,N
+   9,L
+  40
+
+# f-05
+   6,U,C,O
+  40
+
+# f-07
+# hold left on wallbounce
+   8,L,J
+  14,J
+   1,U,J
+   8,U,J,C,O
+   8,U,J
+  10,U,J,C,O
+   1,U,J
+   3,J
+   1,J,G,N
+   5,L,J,G,N
+  10,L,K,G,N
+   6,L,J,G,N
+   1,L,G,N
+  13
+   1,L,D
+   2,L,D,C,O
+   4,L,D,J,C,O
+   8,L,D
+  14,D
+   8,R,D,C,O
+   4,D
+  10,D,J
+# centered at height of right platform
+   9,D,J,C,O
+   3,D
+   2,R,D
+  12,R,D,C,O
+  13,R,D
+   1,D
+  13,D,C,O
+   4,D
+   5
+  10,R,C,O
+   2,R
+   1
+   2,D
+   7,D,C,O
+  40
+
+# f-05
+  13,D
+  13,R,D
+   9,R,D,C,O
+   4,R
+   1,R,C,O
+  10,R,U,C,O
+   1,R,U
+  11,U
+  13,U,C,O
+   1,U
+   2,L,U
+   2,U
+  13,U,C,O
+   2,U
+  40
+
+# f-07
+   2,J
+   4,R,J
+  16,J
+   1,U,J
+   8,U,J,C,O
+   9,U,J
+  10,U,J,C,O
+   1,U,J
+   2,J
+   1,R,J
+   8,R,J,G,N
+   8,R,K,G,N
+   6,R,J,G,N
+   2,R,G,N
+   3,R
+   7
+   1,D
+   3,R,D,C,O
+   3,R,D,J,C,O
+   6,R,D
+  14,D
+   8,L,D,C,O
+   2,L,D
+   2,D
+   8,D,J
+  10,D,J,C,O
+   2,D,C,O
+   2,D
+   1,L,D
+  14,L,D,C,O
+  17,L,D
+  10,L,D,C,O
+   4,L,D
+  13,L,D,C,O
+  40
+
+# f-05
+   2,R,D
+  14,R,D,C,O
+  52,R,D
+   8,R
+  64,R,D
+   2,R,D,C,O
+   8,R,D,J,C,O
+  40
+
+# f-08
+  14,R
+   2,D
+   6,D,C,O
+   4
+   1,C,O
+  10,U,C,O
+  36,U
+  40
+
+# f-08b
+  20,J
+# dark square on left, long wallbounce
+   8,U,J,C,O
+   2,J,C,O
+   1,J
+   1
+   2,R
+   9,R,C,O
+   2,R,J,C,O
+   5,R,J
+  11,R,D,J
+  12,D,J
+  23,L,D,J
+   4,J
+  21,R,J
+   2,J
+   1
+   2,G,N
+  32,L,U,G,N
+   2,L,G,N
+   5,R,G,N
+  16,R,J,G,N
+   6,R,J,C,G,N,O
+   4,R,C,G,N,O
+   1,R,G,N
+   3,R
+  14,R,D
+  10,R,D,C,O
+   1,R,D
+   5,D,J
+# down dash, buffer downright
+   2,D,J,C,O
+   7,D,C,O
+   2,D
+   2,R,D
+  11,R,D,C,O
+   1,R,C,O
+# hold right until pass wall
+  17,R
+   7,R,C,O
+  40
+
+# f-08d
+   7,R,J
+# buffer up dash
+  10,U,C,O
+   1,C,O
+   1,R,C,O
+# top of right wall
+   2,R,J,C,O
+  17,R,J
+   1,R,U,J
+# mid-right button
+   6,U,J,C,O
+   1,U,C,O
+   2,R,C,O
+  29,R
+# fast fall after clearing spinner
+  18,R,D
+   9,R,D,C,O
+   3,R,D
+   1,R
+  15,R,J
+   5,R
+   1
+   2,U
+   8,U,C,O
+   1,C,O
+  23,R
+   9,R,Z,O
+  15,R
+   1,U
+   7,U,C,O
+   2,C,O
+   3
+  11,J
+   9,R,J,Z,O
+   1,R,J
+   2,R
+   4,R,D,J,C,O
+   5,R,D,C,O
+   1,R,D
+  40
+
+# f-08c
+   2,R,J
+  23,R
+   7,R,D,C,O
+   5,R
+   2,R,J
+  22,R,J,G,N
+   6,R,K,G,N
+  13,R,J,G,N
+  10,R,G,N
+  13,R
+# horiz eye
+  10,R,Z,O
+   4,R
+   1,R,U
+   9,R,U,C,O
+  21,R
+   8
+  11,L
+   1
+   1,J
+  30,R,J
+   8,R,J,C,O
+   5,R,J
+   8,R,J,C,O
+   3,R,C,O
+  25,R
+# low jump
+   2,R,J
+   2,J
+   1,D,J
+   3,D,J,C,O
+   8,D,C,O
+   4,D
+  10,D,C,O
+  40
+
+# f-10
+# dash dash from low enough collects
+   5,D
+  15,D,C,O
+   1,R,D
+   3,R,D,C,O
+   7,R,D,J,C,O
+   2,R,D,J
+  40
+
+# f-10b
+  29,R,D
+  15,R,C,O
+  14,R
+   1,R,G,N
+   8,R,Z,G,N,O
+  11,R,G,N
+   6,R,J,G,N
+   7,R,G,N
+   1,R
+   5
+  12,J
+   1,U,J
+   6,R,U,J,C,O
+   3,R,U,C,O
+   1,R,C,O
+   5,R
+  12,R,C,O
+   3,R
+   2,R,D
+  12,R,D,C,O
+  11,R,D
+   8,R
+  10,R,C,O
+  19,R
+  10,R,U,C,O
+   1,R,C,O
+   4,R
+  18,R,Z,O
+   1,R
+# can't buffer out of crystal if too close
+  11,U,C,O
+   6,C,O
+   1
+   2,J
+  17,R,J
+   5,R,J,C,O
+   3,R,C,O
+  19,R
+   7,R,Z,O
+   5,R
+   3,R,J
+  40
+
+# f-11
+   9,R,D,C,O
+   4,R,D
+  13,R,D,J
+# bg 2x2 tile
+  13,R,D,J,C,O
+   1,R,D,J
+  24,R,J
+   9,R,J,C,O
+   3,R,J
+   2,R,U,J
+   9,R,U,J,C,O
+   1,R,J,C,G,N,O
+  12,R,J,G,N
+   9,R,K,G,N
+   6,L,K,G,N
+  10,L,K,C,G,N,O
+   1,L,C,G,N,O
+   2,L
+   1,L,D
+  12,L,D,C,O
+   1,L
+# delay jump
+   9,L,J
+   3,J
+   1,U,J
+  10,U,J,C,O
+   3,U,C,O
+   4
+  33,L
+# bufferable
+  14,L,C,O
+   1,C,O
+  30,R
+# bg 2x2 tile below
+  10,R,C,O
+   7,R
+  10,R,C,O
+  19,R
+  10
+  31,L
+   3,L,U
+   3,L,U,C,O
+   5,L,U,C,G,N,O
+   4,L,U,G,N
+   1,L,U,J,G,N
+   5,L,J,G,N
+   9,L,K,G,N
+   1,L,D,K,G,N
+   1,L,D,C,G,N,O
+   9,L,D,C,O
+   2,L,C,O
+   2,L
+# late
+  23,L,J
+   3,L,U,J
+# vine
+  10,L,U,J,C,O
+  14,L,J,G,N
+   9,L,K,G,N
+   1,L,K
+   1,U,K
+   2,U,K,C,O
+   8,U,C,O
+   3,C,O
+   1,R,J,C,O
+# late
+  38,R,J
+  13,R,J,G,N
+  42,R,G,N
+   1,R,U,G,N
+   2,R,U,J,G,N
+   6,R,U,K,G,N
+   3,R,U,J,G,N
+  22,R,J,G,N
+   3,J,G,N
+  33
+   4,L,U,G,N
+   7,L,U,C,G,N,O
+   2,L,U,G,N
+   3,L,G,N
+   6,L,J,G,N
+  12,L,K,G,N
+   2,L,D,K,G,N
+   1,L,D,K,C,G,N,O
+   6,L,D,C,G,N,O
+   3,L,D,G,N
+   4,L,D,J,G,N
+  15,L,D,K,G,N
+   5,L,D,K
+  14,L,D,K,C,O
+   1,D,K
+   3,D
+   2,R,D
+# vine
+  12,R,D,C,O
+   5,R,D
+   6,R,D,C,O
+   3,R,D
+   9,R,D,J
+   1,R,D
+   4,D
+   1,D,C,O
+   6,L,D,C,O
+   3,L,D
+   3,L,D,J
+   3,L,D
+   6,L
+  11,L,J
+   1,J
+   2,R,J
+  18,R,K
+  24,R
+   2
+   1,J
+  13,R,J,G,N
+   7,R,K,G,N
+   6,R,G,N
+   2,R
+   1,D
+   9,D,C,O
+   2,D
+   4
+  11,J
+  10,R,J
+   1,J
+   9,L,K
+   1,K
+   4,R,K
+   5,R,J
+   1,J
+   5,L,J
+   1,L,K
+  10,L,K,G,N
+   5,L,G,N
+  26,G,N
+   1,R,G,N
+   8,R,J,G,N
+   6,R,G,N
+   1,G,N
+  39
+   1,L
+# close to spinner
+   2,L,C,O
+   5,L,J,C,O
+   8,L,J
+   2,L,U,J
+   4,L,U,J,C,O
+   3,L,U,J,C,G,N,O
+   8,L,J,G,N
+   2,L,K,G,N
+   8,L,G,N
+   6
+   1,L
+   2,L,C,O
+   6,L,J,C,O
+   7,L,J
+   9,R,D,C,O
+   2,R,D
+   7,R,D,J
+   6,R,J
+   1,R,J,C,O
+   8,R,U,J,C,O
+   1,R,U,C,O
+   1,U,C,O
+   3,U
+   1,L,U
+  14,L,U,C,O
+   1,L,U
+   8,L
+   2,L,D
+   8,L,D,C,O
+   2,L,C,O
+   2,L
+   2,L,J
+   1,L,U,J
+   1,U,J
+   3,U,J,C,O
+   3,U,C,O
+   2,C,O
+   4
+   1,D
+  11,D,C,O
+   7,D
+   8,R,D,C,O
+   3,R,D
+   4,R,D,J
+   3,R,D,J,C,O
+   8,R,D,C,O
+   5,R
+   1,R,C,O
+  10,R,U,C,O
+  20,R
+  10,R,C,O
+   1,R
+   2
+   2,U
+   9,U,C,O
+   3,C,O
+   3
+   3,D
+  10,D,C,O
+   3,D
+   2,L,D
+   8,L,D,C,O
+   4,L,D
+   3,L,D,J
+   2,L,D
+   5,D
+  12,D,C,O
+   2,D
+   6,R,D
+  11,R,D,C,O
+   5,R,D
+  12,R,D,J
+   1,D
+   8,L,D,C,O
+   1,L,C,O
+   2,L
+   9,L,J
+   2,L,U,J
+   5,L,U,J,C,O
+   5,L,U,C,O
+   4,U
+   5,U,C,O
+   9,U
+ 218
+   2,S
+   1,D,Z,S,O
+   3,Z,O
+ 139
+
+
+# 3000m
+# g-00
+  81
+   2,R
+   3,R,J
+   4,R
+   2
+   1,U
+   8,U,C,O
+   6,U
+  10,R,U,C,O
+  19,R,U
+   4,U
+   9,U,C,O
+   6,U
+  11,U,C,O
+   4,C,O
+   1,L,C,O
+   1,L
+  21,L,J
+   1,J
+   1,J,C,O
+   1,U,J,C,O
+   2,R,U,J,C,O
+   5,R,U,C,O
+   5,U
+  13,U,C,O
+   1,C,O
+   2,J
+  20,L,J
+   1,J,C,O
+   5,U,J,C,O
+   3,U,C,O
+   5,U
+  10,U,C,O
+   2,C,O
+   1,L,J,C,O
+  19,L,J
+   3,J
+   5,U,J,C,O
+   3,U,C,O
+   5,U
+  10,U,C,O
+   6,C,O
+   1
+   3,J
+  11,L,J
+   1,L,J,G,N
+  10,L,K,G,N
+   6,L,J,G,N
+   6,L,G,N
+   3
+   1,U
+   9,U,C,O
+   5,C,O
+   3,R,C,O
+   1,R,J,C,O
+  10,R,J
+   1,J
+   1,U,J
+   1,U,J,C,O
+  14,U,C,O
+   1,U,J,C,O
+  18,U,J
+  12,U,K
+  11,U,K,C,O
+   6,U,K
+  10,U,K,C,O
+   9,U,K
+   3,U,K,C,O
+   9,U,C,O
+   3,C,O
+   1,J,C,O
+   1,J
+  20,L,J
+   1,J
+   1,J,C,O
+   8,U,J,C,O
+   1,J,C,O
+   2,J
+  14,L,J
+   2,U,J
+   2,U,J,C,O
+   7,U,C,O
+   2,C,O
+   1,C,G,N,O
+   4,R,C,G,N,O
+   3,R,J,C,G,N,O
+   7,R,J,G,N
+   2,U,J
+   1,U,J,C,O
+   9,U,C,O
+   3,C,O
+   1,L,C,O
+   3,L,J,C,O
+  16,L,J
+   6,J
+ 195
+
+# g-00b
+ 115
+   4,R,C,O
+   7,R,J,C,O
+   5,R,J
+   1,R,D,J
+   1,R,D
+   9,R,D,C,O
+   5,R,D
+  10,R,D,C,O
+   2,R,D
+   5,R
+   1,R,C,O
+  10,R,U,C,O
+   7,R
+   7,R,C,O
+   3,R
+   1,R,J
+   2,J
+   2,L,D,J
+   1,L,D
+# after star
+   8,L,D,C,O
+   3,L,D
+   6,L,D,J
+   9,L,D,C,O
+  10,L,D
+   9,L,D,C,O
+   6,L,D
+  11,L,D,C,O
+   9,L,D
+   2,L
+   5
+   6,J
+   9,R,J
+   1,R,K
+  15,K
+   4,U,K,C,O
+  11,U,C,O
+   2,U,J,C,O
+  17,U,J
+   2,U,J,C,O
+   7,U,C,O
+   7,C,O
+   5,J
+   8,L,J
+   3,J
+  12,R,K
+   4,R,K,G,N
+   1,K,G,N
+  12,J,G,N
+   9,K,G,N
+   1,G,N
+   7
+  15,L
+   1
+   1,D
+  10,D,C,O
+  40,D
+   2
+  12,R
+   5,R,C,O
+   7,R,J,C,O
+   9,R
+   1,R,D
+   9,R,D,C,O
+   6,R,D
+   9,R,D,C,O
+   1,R,D
+   6,R
+   1,R,U
+  12,R,U,C,O
+   1,R,U
+   7,R
+   7,R,C,O
+   4,R
+  12,R,J
+   7,R
+  22
+   4,L
+  61
+# after last gem breaks
+   9,D,C,O
+   1,C,O
+   5
+  13,U,C,O
+   1,U
+ 155
+   4,S
+   2,D,S
+   1,D
+   1,O,F,180
+  31
+
+FileTime: 3:47.375(13375)
