@@ -253,6 +253,7 @@ console load Celeste/7-Summit
    9,R,J,C,O
    1,R,C,O
   13,R
+# keep holding right to berry
    3
    9,L,U,C,O
    1,L,C,O
@@ -390,6 +391,7 @@ console load Celeste/7-Summit
    3,L
    4
   44,U
+# bg horiz
    9,U,C,O
    2,U
    3,L,U
@@ -597,20 +599,22 @@ console load Celeste/7-Summit
   17,L,D
    3,D
 # straight down
-   9
-   1,C,O
-   8,L,U,C,O
-   1,L,C,O
-   3
-   8,Z,O
-   7
-   5,J
-  11
-  15,R,G,N
-  13,R,U,G,N
-   2,G,N
+   8
+   7,L,Z
+  13,L
+# hit wall
+   1,L,G,N
+   6,L,Z,G,N
   18,L,G,N
-  22,L,J,G,N
+# can keep holding left for walljump
+   1,R,G,N
+   5,R,J,G,N
+  24,R,G,N
+   4,R,U,G,N
+   2,U,G,N
+   3,G
+  24,L,G
+  22,L,J,G
   13,L,K,G,N
    4,L,J,G,N
    5,J,G,N
@@ -698,14 +702,11 @@ console load Celeste/7-Summit
    3,L,C,O
    4,L
   13,L,D,C,O
-   5,D
-  11,R,D
-# girder
-  11,R,D,C,O
-   1,R,C,O
-   9,R
+  24,L,D
+  12,R,C,O
+  18
   11,R,C,O
-   7,R
+   5,R
   10,R,U,C,O
    2,R,C,O
    5,R
@@ -717,17 +718,17 @@ console load Celeste/7-Summit
   11,L,D,J,C,O
    2,L,D,C,O
   22,L,D
-  10,D,C,O
+   8,D,C,O
   40
 
 # b-02
-   7,R,D
-   8,R,D,C,O
+   8,R,D
+   7,R,D,C,O
    3,R,D
   10,R,D,J
    1,R,D
   10,R,D,C,O
-   3,R,D,J
+   4,R,D,J
   40
 
 # b-03
@@ -750,7 +751,10 @@ console load Celeste/7-Summit
   40
 
 # b-04
-  12,R
+# keep holding jump
+   8,R,J
+   4,R
+# release to bhop
    3,R,J
   15,R
    1,C,O
@@ -1176,8 +1180,8 @@ console load Celeste/7-Summit
    9,L,J,C,O
    2,L,C,O
   25,L
-   4,L,J
-  11,L,K
+# just one jump
+  15,L,J
   13,L,K,Z,O
    3
   17,U
@@ -1304,6 +1308,7 @@ console load Celeste/7-Summit
   13,R,U,C,O
    1,R,C,O
    9,R
+# wait before downright
   11,R,D,C,O
    1,R,D
    3,D
@@ -1478,21 +1483,22 @@ console load Celeste/7-Summit
    8,U,C,O
    1,C,O
    4
-  12,L
+  10,L
+# buffer left dash
    9,L,C,O
-  19,L
+  15,L
    2,L,D
    8,L,D,C,O
    1,L,D
    2,L
-  17,L,J
+  19,L,J
    2,J
    9,U,J,C,O
    1,U,C,O
    5,U
   12,U,C,O
-   4,U
-  41
+   5,U
+  40
 
 # c-07
   15,L,J
@@ -1698,6 +1704,7 @@ console load Celeste/7-Summit
    5,U
   28,L,U
   18,L,U,C,O
+# middle of left bg
   18,L
    3,L,Z,O
    4,L,J,Z,O
@@ -1732,6 +1739,7 @@ console load Celeste/7-Summit
    1,R,C,G,N,O
    4,R,J,C,G,N,O
   10,R,J,G,N
+# 2 neutral dashes to berry
    7,R,J,C,G,N,O
    2,R,C,G,N,O
    5,R,G,N
@@ -1800,8 +1808,9 @@ console load Celeste/7-Summit
    2,C,O
    2,R
   19,R,J
-# left of rug
+# inner corner close to dust bunny
   14,R,J,Z,O
+# buffered dash
    6,R,J,C,O
    5,R,C,O
    1,R
@@ -1997,7 +2006,9 @@ console load Celeste/7-Summit
   40
 
 # d-03b
+# buffered climbjump
   18,R,J,G,N
+# corner correct
    9,R,J,C,G,N,O
    3,R,J,G,N
    7,R,J,C,G,N,O
@@ -2009,6 +2020,7 @@ console load Celeste/7-Summit
    2,R
   13,R,C,O
    8,R
+# buffered jump
   23,R,J
   18,R
    8,R,C,O
@@ -2022,8 +2034,10 @@ console load Celeste/7-Summit
    8,R,U,Z,O
    1,R,U
    4,R
+# late jump, roll 2 jumps optional
   12,R,J
   13,J
+# dash up right side to avoid dust bunny
    6,U,J,C,O
    2,U,C,O
    1,C,O
@@ -2045,6 +2059,7 @@ console load Celeste/7-Summit
    9,R,D,C,O
   12,R,D
    2,R
+# low jump
    5,R,J
    6,R
    2,R,U
@@ -2072,6 +2087,7 @@ console load Celeste/7-Summit
   49,L,D
   10,L,D,C,O
    5,L,D
+# non-wavedash
    6,L,D,J
    5,D,K
    9,D,K,C,O
@@ -2283,6 +2299,7 @@ console load Celeste/7-Summit
   14,R,J
    8,R
    2,R,D
+# centered dust bunny
    9,R,D,C,O
    1,R,D
    7,R
@@ -2339,7 +2356,7 @@ console load Celeste/7-Summit
 
 # d-06
   12,J
-# approaching wall
+# bg horiz bar
    1,U,J,C,O
   10,L,U,J,C,O
    1,L,U,J
@@ -2540,6 +2557,7 @@ console load Celeste/7-Summit
   40
 
 # d-10
+# down dash to collect
    9,D,C,O
    1,D
    1
@@ -2670,6 +2688,7 @@ console load Celeste/7-Summit
 
 # e-00
   15,L,J
+# above wall edge
    9,L,J,C,O
    1,L,C,O
   40
@@ -2733,6 +2752,7 @@ console load Celeste/7-Summit
   40
 
 # e-01c
+# drift left to avoid losing dash attack
   10,L,G,N
    1,D,G,N
    1,R,D,G,N
@@ -2750,4 +2770,4 @@ console load Celeste/7-Summit
    1,O
   31
 
-FileTime: 5:55.640(20920)
+FileTime: 5:56.065(20945)

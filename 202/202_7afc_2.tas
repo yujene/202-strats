@@ -85,6 +85,7 @@ console summitgem 4
    4,R,G,N
    2,R,J,G,N
    3,R,U,J,G,N
+# buffer upright
    2,R,U,J,C,G,N,O
    6,R,U,C,G,N,O
    7,R,C,G,N,O
@@ -201,6 +202,7 @@ console summitgem 4
    6,R,J
    7,R,J,C,O
    1,R,J
+# don't greed height
   13,R,J,G,N
   14,R,K,G,N
   12,R,J,G,N
@@ -243,6 +245,7 @@ console summitgem 4
    4,R,G,N
    5,R,J,G,N
    3,R,G,N
+# climb up
   25,R,U,G,N
    2,R,G,N
   28,R,J,G,N
@@ -255,6 +258,7 @@ console summitgem 4
   12,R,G,N
    3,R
    7
+# neutral jump
    1,J
    2,R,J
    6,R,J,Z,O
@@ -297,107 +301,114 @@ console summitgem 4
    5,R,G,N
    6,R,J,G,N
   15,R,G,N
-  34,R,J,G,N
-  25,R,K,G,N
    8,R,J,G,N
-   3,J,G,N
-   1,L,J,G,N
-  27,L,K,G,N
-  14,L,K
-  29,L,J
-   2,J
-# bg tile vertical line
-  10,U,J,C,O
+  20,R,G,N
+  27,R,J,G,N
+   9,R,K,G,N
+   2,K,G,N
+   1,L,K
+  18,L,J
+  29,L
+  18,L,J
+  15,J
+   8,U,J,C,O
   26,U,J
-   5,R,U,J,C,O
-   2,R,U,C,O
-  31,R,U
-   6,R,U,J
-   5,U,J
-# clear spinner above
-   7,U,J,C,O
-   3,U,C,O
-   4,U
-  10,L,U,C,O
-   4,L,U
-  22,L
-  10,L,C,O
-   3,L
-   2,L,J
-  15,L,J,G,N
-  19,L,K,G,N
-  18,L,J,G,N
-  17,L,K,G,N
-   8,L,J,G,N
-   1,J,G,N
+   1,U,J,Z,O
+   5,R,U,J,Z,O
+   1,R,U,J
+   5,R,U
+  26,R
+   5,R,J
    6,J
-# bottom of bg tile
-   4,K
-  19,L,K
+  10,U,J,C,O
+   2,U,J
+   3,L,U,J
+   4,L,U,J,C,O
+   5,L,U,C,O
+   3,L,U
+  24,L
+   7,L,C,O
+   5,L
+  16,L,J
+   2,J
+   8,K
+  17,L,K
+   2,K
+   5,J
+  21,L,J
+   8,K
+  18,L,K
    1,K
-   1,R,K
-  24,R,J
-   1,R,U,J,C,O
-# left of berry
-  11,U,J,C,O
-   6,U,J
-# wait for height
-  16,R,U,J,C,O
-  10,R,U,J
-   2,R,U,J,C,O
-# buffer up dash
-  11,U,J,C,O
+   6,J
+  19,L,J
+   2,J
+   7,K
+  18,L,K
+   2,K
+   8,J
+  12,L,J
+  14,L,G,N
+   2,G,N
+   4,D,G,N
+# mid-bottom of hole
+  11,G,N
+  23,R,G,N
+# block line up with bg horiz
+  28,R,J,G,N
    1,U,J
-  15,L,U,J
-# clear spinner
-   1,L,U,J,C,O
   10,U,J,C,O
-   1,R,U,J,C,O
-   7,R,J,C,O
-  13,R,J
-  24,R
-# land a bit right
-  28
-  19,J
-   1,U,J
-  11,U,J,C,O
-   9,U,J
-  10,U,J,C,O
-   3,J
-   1,J,G,N
-   5,R,J,G,N
-   7,R,K,G,N
+   2,U,J
+# buffer up upright mid berry
+   3,R,U,J
+   9,R,U,J,C,O
+   3,R,U,J
+   1,R,J
+  13,R,J,G,N
+  14,R,G,N
+   2,L,G,N
+# grab long enough for liftboost
+   1,L,J,G,N
+  18,L,J
+   9,U,J,C,O
+   2,J
+   1
+  11,R,C,O
+   1,R
+  21
+   9,U,C,O
+   4,U
+  11,U,C,O
+   1,U
   40
 
 # e-08
-   1
-   1,L
-# jump left to land near right of cloud
-   7,L,J
-   5
-  10,D,C,O
-   1,D
-   4
-   1,C,O
+  13,L
+   2,D
+   9,D,C,O
+   2,C,O
+   2
+   1,U
   10,U,C,O
    1,C,O
    5
    1,D
-  12,D,C,O
+  11,D,C,O
+   1,C,O
   13
-  17,J
+  20,J
 # height of left spinner
-   9,L,U,J,C,O
-   1,L,U,J
-   3,L,J
-  10,L,J,C,O
-   1,L,C,O
-   1,L,D,C,O
-  31,L,D
+   8,L,U,J,C,O
+   2,L,U,J
+   1,L,J
+   3,L,J,C,O
+   8,L,C,O
+   2,L
+  32,L,D
 # slightly extended for cb
    6,L,D,C,O
-   2,L,D
-   6,L,J,G,N
+   3,L,D
+   2,L,J
+   4,L,J,G,N
   40
 
 # e-09
@@ -428,7 +439,7 @@ console summitgem 4
   13,R,Z,O
    1,R
    1,U
-# exit left
+# exit left, delay up dash to ensure break block
    9,U,C,O
    2,C,O
    3
@@ -558,6 +569,7 @@ console summitgem 4
   10,R,U,C,O
    2,R,U
    4,R
+# time demo visually to recalibrate out of buffered dash timing
   15,R,Z,O
    1,R
    2,U
@@ -594,6 +606,7 @@ console summitgem 4
   14,L,D
    3,D
    1,R,D
+# sit for a bit to collect
   10,R,D,C,O
    2,R,D
    2,R,D,J
@@ -641,7 +654,7 @@ console summitgem 4
 
 # e-10b
    6,R
-# unbuffered demo
+# unbuffered demo for hyper timing
    6,R,Z,O
    6,R
    8,R,J
@@ -856,6 +869,7 @@ console summitgem 4
 # buffer upleft demo
    4,L,U,Z,G,N,O
    6,L,U,G,N
+# late climbjump
   19,L,U,J,G,N
    2,L,U,J
    8,U,J,C,O
@@ -1394,7 +1408,7 @@ console summitgem 4
    1,D,K
    3,D
    2,R,D
-# vine
+# left of vine
   12,R,D,C,O
    5,R,D
    6,R,D,C,O
@@ -1634,96 +1648,101 @@ console summitgem 4
 
 # g-00b
  115
-   4,R,C,O
-   7,R,J,C,O
-   5,R,J
-   1,R,D,J
-   1,R,D
-   9,R,D,C,O
-   5,R,D
-  10,R,D,C,O
-   2,R,D
+   7,R,U,C,O
+   2,R,C,O
    5,R
-   1,R,C,O
-  10,R,U,C,O
-   7,R
-   7,R,C,O
-   3,R
-   1,R,J
+   9,R,D,C,O
+   3,R,D
+   2,R,D,J
+   3,R,D,J,C,O
+   8,R,D,C,O
+   1,R,D
+   4,R
+   2,R,C,O
+   9,R,U,C,O
+   1,R,U
+   5,R
+   8,R,C,O
+   4,R
+   2,R,J
    2,J
-   2,L,D,J
-   1,L,D
+   2,L,D,J,C,O
 # after star
    8,L,D,C,O
    3,L,D
-   6,L,D,J
+   5,L,D,J
+   3,L,D,J,C,O
    9,L,D,C,O
-  10,L,D
-   9,L,D,C,O
-   6,L,D
-  11,L,D,C,O
-   9,L,D
-   2,L
-   5
-   6,J
-   9,R,J
-   1,R,K
-  15,K
+   7,L,D
+   8,L,D,C,O
+   5,L,D
+  14,L,D,C,O
+   4,L,D
+   1,L
+   7
+  11,J
+   4,R,J
+   1,K
+   7,L,K
+   5,K
+   2,U,K
    4,U,K,C,O
   11,U,C,O
    2,U,J,C,O
-  17,U,J
-   2,U,J,C,O
-   7,U,C,O
-   7,C,O
-   5,J
-   8,L,J
-   3,J
-  12,R,K
-   4,R,K,G,N
-   1,K,G,N
-  12,J,G,N
-   9,K,G,N
-   1,G,N
-   7
-  15,L
-   1
-   1,D
-  10,D,C,O
-  40,D
-   2
-  12,R
-   5,R,C,O
-   7,R,J,C,O
-   9,R
-   1,R,D
-   9,R,D,C,O
-   6,R,D
-   9,R,D,C,O
-   1,R,D
-   6,R
-   1,R,U
-  12,R,U,C,O
-   1,R,U
-   7,R
-   7,R,C,O
-   4,R
-  12,R,J
-   7,R
-  22
-   4,L
-  61
-# after last gem breaks
-   9,D,C,O
+  16,U,J
+   3,U,J,C,O
+  12,U,C,O
+   3,C,O
+   2,J,C,O
+   8,J
+   5,L,J
+   4,J
+   1,R,K
+  18,R,K,G,N
+   9,J,G,N
+   7,K,G,N
+   4
+# only get to flag 27 to be safe
+  13,L
    1,C,O
-   5
-  13,U,C,O
-   1,U
- 155
+   9,D,C,O
+   5,D
+  11,D,C,O
+  33,D
+   3
+   7,R
+   9,R,U,C,O
+   2,R,C,O
+   5,R
+   1,R,D
+  10,R,D,C,O
+   2,R,D
+   2,R,D,J
+   6,R,D,J,C,O
+   4,R,D,C,O
+   1,R,D
+   5,R
+   1,R,C,O
+  11,R,U,C,O
+   5,R
+  10,R,C,O
+   1,R
+  10,R,J
+  27
+   5,R
+  72
+# after last gem breaks
+   1,D
+   9,D,C,O
+   2,C,O
+   3
+  15,U,C,O
+   2,U
+ 154
    4,S
    2,D,S
    1,D
    1,O,F,180
   31
 
-FileTime: 3:47.375(13375)
+FileTime: 3:47.953(13409)
