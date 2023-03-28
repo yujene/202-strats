@@ -276,7 +276,7 @@ console load Celeste/3-CelestialResort
    4,L,J,G,S,N
    5,L,J,G,N
    4,L,K,G,S,N
-# long head correct frame
+# long head correct frame (crimson chin)
    6,L,K,G,N
    5,L,J,Z,G,N
    3,L,J,G,N
@@ -581,6 +581,7 @@ console load Celeste/3-CelestialResort
    7,R,U,J,Z,O
    6,R,J
   33,R,J,G,N
+# buffer climbjump
   14,R,K,G,N
   13,R,J,G,N
   12,R,K,G,N

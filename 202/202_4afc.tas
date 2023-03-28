@@ -74,11 +74,14 @@ console load Celeste/4-GoldenRidge
    7,R,D,J,X
   13,R,D
    2,R
+# jump late to clear ceiling
   12,R,J
+# jump into left wall
    7,R,K
   12,R,K,X
    4,R,K
    4,R,D,K
+# delayed downright into water
   13,R,D,K,X
   11,R
    1
@@ -217,6 +220,7 @@ console load Celeste/4-GoldenRidge
 
 # a-04
   19,R,J
+# right of cloud
   24,R,J,X
    1,R,J
    6,R
@@ -295,6 +299,7 @@ console load Celeste/4-GoldenRidge
    4,R,D
   17,D
    3,R,D
+# slide to collect
   12,R
    7,R,Z
    5,R
@@ -349,6 +354,7 @@ console load Celeste/4-GoldenRidge
    1,R,D,X
    4,R
   31,R,J
+# late upright
    5,R,U,J,X
   40
 
@@ -416,7 +422,9 @@ console load Celeste/4-GoldenRidge
   40
 
 # a-11
+# buffer hyper
    3,L,K,G,N
+# buffer cb
   45,L,J,G,N
    1,L,U,J,G,N
    8,L,U,J,X,G,N
@@ -427,8 +435,10 @@ console load Celeste/4-GoldenRidge
   14,L
    7,L,Z
    5,L
+# late jump
   28,L,J
    1,L,U,J
+# left of blue block
   10,L,U,J,X
    3,L,J,X
    1,L,J,X,G,N
@@ -496,6 +506,7 @@ console load Celeste/4-GoldenRidge
    5,R,D,J,C,O
    6,R,D,C,O
   11,R,D
+# don't fast fall
   48,R
    8
    1,R
@@ -526,6 +537,7 @@ console load Celeste/4-GoldenRidge
   15,G,N
    3,U,G,N
   28,G,N
+# hand under crack or darker pixel
   36,L,G,N
    6,L,J,G,N
   36,L,J
@@ -728,12 +740,16 @@ console load Celeste/4-GoldenRidge
   10,L
   13
   12,L,J
+# walljump
    7,L,K
    3,K
+# dash up before wall
   12,U,K,C,O
    5,R,U,K,C,O
+# hold right after dash
   17,R,U
    1,U
+# buffer up dash
   12,U,C,O
    1,U,J,C,O
   10,J,C,O
@@ -758,6 +774,7 @@ console load Celeste/4-GoldenRidge
    5,L
   11,L,J
   26,L
+# vine
    9,L,X
    1,L
   14,L,D
@@ -794,6 +811,7 @@ console load Celeste/4-GoldenRidge
    1,L,X
    2,L
   26,L,J
+# vine
   11,L,J,X
    3,L,X
   32,L
@@ -801,7 +819,9 @@ console load Celeste/4-GoldenRidge
    7,L,U,Z
    1,L
    4
+# neutral
    9,J
+# hold right during jump
   14,R,J
   11,L,K
    4,L
@@ -820,6 +840,7 @@ console load Celeste/4-GoldenRidge
   10,U,X
    2,X
    2,L,X
+# aim jump with bg line
    4,L,J,X
   14,L,J
    7,R,K
@@ -889,6 +910,7 @@ console load Celeste/4-GoldenRidge
 # b-03
    8,R,K
    1,R,D,K
+# bg hole
    9,R,D,K,C,O
    4,R,D,K
    1,R,D,K,C,O
@@ -896,6 +918,7 @@ console load Celeste/4-GoldenRidge
    3,R,D,J,C,O
    1,R,D,J
   11,R,D
+# flower
    1,R,D,C,O
    4,R,D,J,C,O
    1,R,D,C,O
@@ -910,11 +933,14 @@ console load Celeste/4-GoldenRidge
    7,L,U,G,N
   67,L,G,N
   25,L,J,G,N
+# into corner
   12,L,K,G,N
    6,K,G,N
    5,R,K,G,N
+# right walljump
   39,R,J,G,N
    2,R,D,J,G,N
+# release jump and fast fall
   27,R,D,G,N
    3,R,D,J,G,N
   13,R,J,G,N
@@ -1032,6 +1058,7 @@ console load Celeste/4-GoldenRidge
    3,C,O
   38
    3,L
+# above left spinner
    5,L,Z,O
    4,L
   27,L,J
@@ -1063,11 +1090,14 @@ console load Celeste/4-GoldenRidge
    2,G,N
    1,R,G,N
   22,R,J,G,N
+# settle on wall
    3,J,G,N
+# settle on wall
   24,K,G,N
    1,L,K,G,N
    7,L,J,G,N
    4,J,G,N
+# bg tile edge
    1,J,X
    3,U,J,X
   10,U,X
@@ -1105,6 +1135,7 @@ console load Celeste/4-GoldenRidge
    4,L,D,J,X
    6,L,D,X
   14,L,D
+# downleft to collect
   11,L,D,X
    2,L,X
    6,L
@@ -1276,9 +1307,11 @@ console load Celeste/4-GoldenRidge
    4,R,D,J,C,O
    6,R,D,C,O
   45,R,D
+# ultra
    5,R,D,J
    4,R,D,J,G,N
    8,R,J,G,N
+# two climbjumps line up super
   12,R,K,G,N
   18,R,J,G,N
    1,R,J,C,G,N,O
@@ -1379,6 +1412,7 @@ console load Celeste/4-GoldenRidge
    2,R,D,J,G,N
    3,R,J,G,N
   12,R,G,N
+# pole
    9,R,U,X,G,N
    2,R,X,G,N
    9,R,G,N
@@ -1391,6 +1425,7 @@ console load Celeste/4-GoldenRidge
    1,R,X
    2,R
   30,R,J
+# hole
    9,R,U,J,Z
    4,R,J
   13,R
@@ -1586,6 +1621,7 @@ console load Celeste/4-GoldenRidge
   13,L,K
    1,K
   34,R,J
+# bg corner
    8,R,U,J,Z,O
    2,R,U,J
    4,R,J
@@ -1735,7 +1771,9 @@ console load Celeste/4-GoldenRidge
   10,L,U,J,X
    1,L,U,X
    2,L,X
+# wait for wind
    9,L
+# buffer two dashes
    9,L,X
    3,L
   12,L,X
@@ -1850,6 +1888,7 @@ console load Celeste/4-GoldenRidge
   10,L,D,X
    1,L,D
    1,L,D,G,N
+# late jump
    1,L,K,G,N
   47,L,J,G,N
   13,L,J,X,G,N
@@ -2018,8 +2057,10 @@ console load Celeste/4-GoldenRidge
    1,R
    2,R,D
   11,R,D,X
+# buffered wavedash
    4,R,D,J,X
   32,R,D,J
+# buffer hyper
    3,R,D,J,X
   10,R,D,X
    6,R,D,J
@@ -2037,7 +2078,9 @@ console load Celeste/4-GoldenRidge
    4,L,U,J,X,G,N
    9,L,U,X,G,N
    2,L,J,X,G,N
+# neutral climbjump
   21,J,G,N
+# dash as soon as you grab berry
   13,R,J,X,G,N
   19,R,G,N
    1,R

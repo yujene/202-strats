@@ -179,6 +179,7 @@ console hard Celeste/2-OldSite
   13,L,C,O
    3,L
    7
+# buffered up dash
    9,U,C,O
    6,C,O
    4
@@ -192,6 +193,7 @@ console hard Celeste/2-OldSite
    4
    1,R,D
    4,R,D,G,N
+# hyper into grab wall briefly
    2,R,D,C,G,N,O
    5,R,D,J,C,G,N,O
    1,R,C,G,N,O
@@ -329,6 +331,7 @@ console hard Celeste/2-OldSite
   10,R,G,N
    3,G,N
    9,J,G,N
+# pause 2f right
    5,J,G,S,N
    2,J,G,N
   10,R,J,G,N
@@ -378,10 +381,12 @@ console hard Celeste/2-OldSite
    2,U
    7
   24,R
+# dash into wall and grab
    6,R,C,O
    3,R,C,G,N,O
   11,R,G,N
    8
+# right buffer downright
    9,C,O
   10
    1,C,O
@@ -389,6 +394,7 @@ console hard Celeste/2-OldSite
    1,R,D
    1,D
   22
+# buffer downleft
   16,L,D,C,O
    1,L,D
   13,L
@@ -400,20 +406,24 @@ console hard Celeste/2-OldSite
    8,L,J
    2,J
   14,R,K
+# dash high
    8,R,K,C,O
    3,R,C,O
    2,R
    1
    2,L
   41,L,U
+# two upleft buffered
   11,L,U,C,O
    4,L,U
   10,L,U,C,O
    3,L,U
+# left wallkick
   10,L,U,J
    5,L,J
    2,J
    1,J,C,O
+# buffer down dash
   14,D,J,C,O
    5,D,C,O
   21,D
@@ -441,8 +451,10 @@ console hard Celeste/2-OldSite
    3,C,O
    1,R,C,O
    2,R
+# wallbounce high into wall
    8,R,J
    8,R,J,G,N
+# downright to spring
   39,R,D,J,G,N
    4,R,D,G,N
    3,R,D
@@ -573,6 +585,7 @@ console hard Celeste/2-OldSite
    1,C,O
    2
   47,R,G,N
+# release directions briefly
    4,G,N
   38,R,J,G,N
   13,J
@@ -639,6 +652,7 @@ console hard Celeste/2-OldSite
    2,L
   23,L,G,N
    4,L,D,G,N
+# top of door
   10,L,G,N
    1,L,D,G,N
    6,L,D,C,G,N,O

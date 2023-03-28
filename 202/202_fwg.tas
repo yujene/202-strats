@@ -37,7 +37,9 @@ console load Celeste/LostLevels
    4
   11,J
  871
+# hold right on bounce 10
   67,R
+# skip on bounce 11
    1,R,S
    1,R,D,Z,S,O
    3,R,Z,S,O
@@ -64,14 +66,17 @@ console load Celeste/LostLevels
   19,J
    9,R,J
    6,J
+# low neutral
   28,K
    3,K,C,O
    7,C,O
    2
   26,J
+# up demo
    9,U,J,Z,O
    5,J
   15,R,J
+# delay right dash
    9,R,J,C,O
    2,R,C,O
    1,R
@@ -104,6 +109,7 @@ console load Celeste/LostLevels
    7,R,J
    9,R
    9
+# super from mid platform
    3,R,C,O
    4,R,J,C,O
    3,R,J
@@ -119,6 +125,7 @@ console load Celeste/LostLevels
    3,R,D,J
   12,R,D,J,C,O
    2,R,D,C,O
+# get in corner
   17,R,D
    3,R,D,J,G,N
    7,R,D,K,G,N
@@ -141,6 +148,7 @@ console load Celeste/LostLevels
 
 # a-01
   28,R,J
+# under spinner
   10,R,J,C,O
    7,R,J
   10,R,J,C,O
@@ -160,6 +168,7 @@ console load Celeste/LostLevels
 # a-02
   36,R,J
   24,R,K
+# buffer up upright at center
    1,K,C,O
    9,U,K,C,O
    3,U,K
@@ -194,6 +203,7 @@ console load Celeste/LostLevels
   14,L,U,G,N
    1,G,N
   80,R,G,N
+# wait until end of track
   34,R,J,G,N
    8,R,J,C,G,N,O
   11,R,J,G,N
@@ -204,17 +214,22 @@ console load Celeste/LostLevels
 
 # a-04
   30,R,J
+# right of crystal
    6,R,J,C,O
    2,R,C,O
   31,R
+# bg horiz line
   10,R,C,O
   24,R
+# hole height
    1,R,C,O
    8,R,U,C,O
   36,R
+# bg horiz line
    9,R,C,O
   12,R
    2,R,C,O
+# optional buffer
    5,R,U,C,O
    3,R,U
   38,R
@@ -237,16 +252,20 @@ console load Celeste/LostLevels
   40
 
 # a-05
+# buffer downright
   11,R,D,C,O
    1,R,D
    1,D
+# neutral dir
   16
    1,D
    1,D,C,O
    8,R,D,C,O
    3,R,D
    1,R
+# late hyper
   55,R,J
+# coin
    8,R,J,C,O
    3,R,C,O
   26,R
@@ -267,6 +286,7 @@ console load Celeste/LostLevels
 
 # b-00
   25,R,J
+# left of fish
    7,R,U,J,C,O
    1,R,J,C,O
    5,R,J
@@ -284,6 +304,7 @@ console load Celeste/LostLevels
    6,R,K,G,N
    2,R,G,N
    8,G,N
+# climb up
   12,U,G,N
    9,G,N
    3,C,G,N,O
@@ -292,6 +313,7 @@ console load Celeste/LostLevels
   40
 
 # b-01
+# buffer two neutral dashes
    5,J,C,G,N,O
    6,J,G,N
    9,J,C,G,N,O
@@ -311,6 +333,7 @@ console load Celeste/LostLevels
    5,R,J,G,N
   24,R,K,Z,G,N
    6,R,K,G,N
+# hold right+jump
   43,R,K
    9,R,U,K,Z,O
   12,R,U,K
@@ -336,6 +359,7 @@ console load Celeste/LostLevels
    1,L,D
    1,R,D
    1,R
+# reverse into corner
   41,R,J
    2,J
    7,D,J,C,O
@@ -344,6 +368,7 @@ console load Celeste/LostLevels
    3,L,D
   10,L,D,C,O
    2,L,D
+# no fishboost
   25
    1,U,G,N
   11,R,U,C,G,N,O
@@ -365,6 +390,7 @@ console load Celeste/LostLevels
   16,R
    5,R,C,O
   26,R
+# land left side
    3,R,D
   10,R,D,C,O
    1,R
@@ -420,10 +446,12 @@ console load Celeste/LostLevels
    9,L,Z,G,N,O
    8,L,G,N
   13,L,J,G,N
+# grab wall before falling
    9,L,G,N
    2
   29,D
   17
+# bg above
   11,U,C,O
    3,U
    2,R,U
@@ -476,6 +504,7 @@ console load Celeste/LostLevels
   40
 
 # b-06
+# just hold right+jump :thumbsup:
  154,R,J
   10,R,J,C,O
    5,R,C,O
@@ -674,6 +703,7 @@ console load Celeste/LostLevels
    4,R,D,J,G,N
    8,R,J,G,N
   67,R,U,J,G,N
+# middle of spinners
    4,R,U,J
    3,R,U,J,C,O
    7,R,U,J,C,G,N,O
@@ -779,6 +809,7 @@ console load Celeste/LostLevels
    1,R,U,C,G,N,O
    5,R,U,G,N
    2,R,G,N
+# grab wall before wallbounce
   25,G,N
    3,U,C,G,N,O
    5,U,C,O
@@ -804,6 +835,7 @@ console load Celeste/LostLevels
   10
    1,L
    6,L,J
+# left wallkick
   10,L,K
    7,K
   12,U,K,C,O
@@ -819,6 +851,7 @@ console load Celeste/LostLevels
   13,R,C,O
    2,R,C,G,N,O
   16,R,G,N
+# grab wall before falling
    2,G,N
    1
   37,D
@@ -845,6 +878,7 @@ console load Celeste/LostLevels
    6,L,D,C,O
   19,L
    1
+# dash down before button
   14,D,C,O
    2,D
    3
@@ -860,6 +894,7 @@ console load Celeste/LostLevels
    1,R,C,O
    3,R,G,N
   18,R,J,G,N
+# release grab as soon as you pick up
   18,R,J
    1,U,J
    6,U,J,C,O
@@ -925,7 +960,9 @@ console load Celeste/LostLevels
 
 # e-00y
    2,J,G,N
+# grab top of wall and settle
   26,G,N
+# buffer up then right demo
    7,U,C,G,N,O
    2,C,G,N,O
    3,G,N
@@ -1047,6 +1084,7 @@ console load Celeste/LostLevels
    7,U,K
   11,U,K,C,O
    3,U,C,O
+# neutral
   29,U
   12,U,C,O
    3,U
@@ -1085,6 +1123,7 @@ console load Celeste/LostLevels
   10,U,K,C,O
    4,U,K
    5,U
+# late grab
   27,U,G,N
    2,R,U,G,N
    8,R,G,N
@@ -1099,6 +1138,7 @@ console load Celeste/LostLevels
    1,G,N
   20,R,J,G,N
    2,U,J
+# clear spinner
   11,U,J,C,O
    8,U,J
    2,L,U,J
@@ -1271,6 +1311,7 @@ console load Celeste/LostLevels
   15,R
   20
    2,R
+# grounded ultra to kill speed
    5,R,Z,O
    7,R
    4,R,J
@@ -1281,8 +1322,10 @@ console load Celeste/LostLevels
    3,R,D
    1,R
   19
+# hug block
   13,R
   18
+# turn after spinner
    8,L
    2
    1,U,C,O
@@ -1306,6 +1349,7 @@ console load Celeste/LostLevels
   12
    1,D
    1,R,D
+# small hyper
    3,R,D,C,O
    3,R,D,J,C,O
    4,R,D
@@ -1317,6 +1361,7 @@ console load Celeste/LostLevels
   47
 
 # e-05b
+# neutral hyper
   27,J
    2,D,J,C,O
   11,D,C,O
@@ -1332,6 +1377,7 @@ console load Celeste/LostLevels
    7,D,J
   12,J
   21,R,J
+# right of fish
    8,R,J,C,O
   16,R,J
    6,R,J,C,O
@@ -1350,6 +1396,7 @@ console load Celeste/LostLevels
   10,D,C,O
   15,D
   38,R
+# above spinner
    1,R,C,O
    7,R,U,C,O
    6,R,U
@@ -1360,6 +1407,7 @@ console load Celeste/LostLevels
    4,R,U,G,N
   10,R,G,N
    6,R,D,G,N
+# middle of platform
    3,R,D,C,G,N,O
    4,R,D,J,C,G,N,O
   40
@@ -1409,6 +1457,7 @@ console load Celeste/LostLevels
 
 # e-07
    6,R,J
+# right edge
   13,R,J,C,O
    1,R,J
   82
@@ -1445,6 +1494,7 @@ console load Celeste/LostLevels
    4,R,J,Z,G,N
    3,R,J,G,N
   11,R,K,Z,G,N
+# pause until black spinner pixel above forehead
    1,R,K,G,N
   15,R,G,N
    6,R
@@ -1482,6 +1532,7 @@ console load Celeste/LostLevels
   13,G,N
    3,U,G,N
   61,G,N
+# bg hole
   20
    8,L
    8
@@ -1496,6 +1547,7 @@ console load Celeste/LostLevels
   16,R,G,N
    3,R,U,G,N
   45,R,G,N
+# bg tile demo+jump
   13,R,D,J,Z,G,N
    1,R,J,Z,G,N
   20,R,G,N

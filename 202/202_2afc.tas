@@ -1176,6 +1176,7 @@ console load Celeste/2-OldSite
 
 # 2
   80,R,D
+# when you see snow
   11,R,D,C,O
    2,R,D
    2,R,D,J
@@ -1354,13 +1355,12 @@ console load Celeste/2-OldSite
    7,R,J,Z,O
    2,R,Z,O
    3,R
-   5,R,J,Z,O
+   5,R,J
    6,R
    3
    3,S
    1,D,Z,O
-   1,Z,O
- 207
+ 208
 
 
 # awake*
@@ -1582,4 +1582,4 @@ console load Celeste/2-OldSite
    1,D,Z,O
   18
 
-FileTime: 3:25.955(12115)
+FileTime: 3:26.006(12118)
