@@ -21,7 +21,9 @@ console load Celeste/1-ForsakenCity 9b
    1,J,G,N
    3,L,J,G,N
   11,L,K,G,N
+# neutral
    5,J
+# wait to collect
   11
    9,R
    5,R,Z,O
@@ -29,6 +31,7 @@ console load Celeste/1-ForsakenCity 9b
 
 # 9c
    4,R,G,N
+# late jump
   31,R,J,G,N
    1,R,K,G,N
    7,K,G,N
@@ -205,6 +208,7 @@ console load Celeste/1-ForsakenCity 9b
    3,L,G,N
   11,L
   78,R
+# poster
    8,R,D
    2,R,D,J
   25,R,J

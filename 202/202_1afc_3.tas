@@ -69,6 +69,7 @@ console load Celeste/1-ForsakenCity s1
    1,R,J,C,O
    5,R,J
    3,R
+# upright non-demo
   12,R,U,C,O
    1,R
   14
@@ -77,6 +78,7 @@ console load Celeste/1-ForsakenCity s1
    4,R
   24,R,J
    1,R,U,J
+# late upright
    6,R,U,J,Z,O
   40
 
@@ -191,6 +193,7 @@ console load Celeste/1-ForsakenCity s1
 
 # 7a
   16,R,D
+# clear wall
    8,R,D,C,O
    3,R,D
    3,R,D,J
@@ -213,6 +216,7 @@ console load Celeste/1-ForsakenCity s1
    1,L,C,O
   13,L
   11,L,J
+# left+jump until dash
    1,J
   12,R,C,O
    1,R
@@ -312,6 +316,7 @@ console load Celeste/1-ForsakenCity s1
    1
    2,J
    1,J,G,N
+# just hold right
   25,R,J,G,N
   42,R,G,N
   13,R,Z,G,N,O
@@ -339,14 +344,13 @@ console load Celeste/1-ForsakenCity s1
 
 # chasm
 # 9b
-   2,R,D,J
-   3,R,D,J,C,O
-   9,R,D,C,O
-   1,R,D
-   1,R
-   4
+# small hyper to slide off wooden platform
+   2,R,J
+  14,R
+   3
   12,U,C,O
-  23
+# wait to collect
+  20
    9,L,C,O
    3,L,G,N
   10,L,J,G,N
@@ -370,10 +374,13 @@ console load Celeste/1-ForsakenCity s1
 
 # 10
    8
+# neutral dash
   18,C,O
   29
+# dash up at halfway
    1,C,O
    7,U,C,O
+# buffer liftboosted wallbounce
    1,U,J,C,O
   24,U,J
    7,J
@@ -393,6 +400,7 @@ console load Celeste/1-ForsakenCity s1
 # 11
   19,J
    1,G,N
+# turn around late
    7,L,G,N
    1,G,N
    5
@@ -411,6 +419,7 @@ console load Celeste/1-ForsakenCity s1
 # 11z
    5,L
    1,L,D
+# late hyper
    3,L,D,C,O
   14,L,D,J,C,O
   11,L,D
@@ -470,6 +479,7 @@ console load Celeste/1-ForsakenCity s1
    1,R,G,N
   13,R,J,G,N
    3,R,G,N
+# late climbjump
   18,R,J,G,N
   11,R,U,J,C,G,N,O
    1,R,J,C,G,N,O
@@ -498,6 +508,7 @@ console load Celeste/1-ForsakenCity s1
    1,D,C,O
    4,D
   28,L,D
+# land long enough to collect
    9,L,D,C,O
    2,L,D
    9,L,J
@@ -510,7 +521,8 @@ console load Celeste/1-ForsakenCity s1
   40
 
 # 10z
-   3,L,J
+# neutral
+   3,J
    2,L,D,J
    2,L,D,J,C,O
    9,L,D,C,O
@@ -520,7 +532,7 @@ console load Celeste/1-ForsakenCity s1
    2,L,C,O
   12,L
    9
-   1,J
+   1,L,J
    7,L,J
    1,L,U,J,C,O
    1,U,J,C,O
@@ -550,11 +562,8 @@ console load Celeste/1-ForsakenCity s1
    1,R,U
   29
    3,S
-   1,U,S
-   3,U,C,O
-   1,C,O
-   4
-   1,C,O
+   3,U,J
+   1,O
   31
 
-FileTime: 1:14.137(4361)
+FileTime: 1:14.018(4354)

@@ -33,6 +33,7 @@ Set,Everest.ShowModOptionsInGame,False
    9
   12,C,O
   12
+# left wall above
    1,Z,O
    1,U,Z,G,N,O
    6,R,U,Z,G,N,O
@@ -65,6 +66,7 @@ Set,Everest.ShowModOptionsInGame,False
    1,U
   13,U,C,O
    2,C,O
+# buffered wallbounce
    1,J,C,O
   28,R,J
    7,R,J,Z,O
@@ -121,6 +123,7 @@ Set,Everest.ShowModOptionsInGame,False
    5
    6,L,Z,O
    7,L
+# buffered jump
   24,L,J
    8,U,J,C,O
    2,U,C,O
@@ -135,6 +138,7 @@ Set,Everest.ShowModOptionsInGame,False
   13,R
    3
    2,L,D
+# small hyper from right
    2,L,D,C,O
    4,L,D,J,C,O
    4,L,D
