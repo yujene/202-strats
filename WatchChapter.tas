@@ -1,0 +1,411 @@
+# watch chapter, not for encode
+# get filetime
+Unsafe
+console wipedebug
+console cheat
+
+# pick chapter to watch
+#Play, prologue
+Play, 1afc
+#Play, 2afc
+#Play, 3afc
+#Play, 4afc
+#Play, 5afc
+##Play, 6afc
+#Play, 7afc
+##Play, 8afc
+##Play, fwmb
+#Play, 1b
+#Play, 2b
+#Play, 3b
+##Play, 4b
+#Play, 5b
+##Play, 6b
+##Play, 7b
+##Play, 8b
+#Play, 1c
+#Play, 2c
+#Play, 3c
+#Play, 4c
+#Play, 5c
+#Play, 6c
+#Play, 7c
+#Play, 8c
+#Play, fwg
+#Play, 1adg
+#Play, 2ag
+##Play, 3ag
+##Play, 4ag
+##Play, 5ag
+##Play, 6ag
+##Play, 7ag
+##Play, 8ag
+#Play, 1bg
+#Play, 2bg
+#Play, 3bg
+#Play, 4bg
+#Play, 5bg
+#Play, 6bg
+##Play, 7bg
+##Play, 8bg
+#Play, 1cg
+#Play, 2cg
+#Play, 3cg
+#Play, 4cg
+#Play, 5cg
+#Play, 6cg
+#Play, 7cg
+#Play, 8cg
+
+#prologue
+FileTime: 0:28.611(1683)
+
+Read, 202/202_prologue.tas
+
+Play, end
+
+
+#1afc
+FileTime: 2:52.074(10122)
+
+Read, 202/202_1afc_1.tas
+  51
+   1,S
+   1,J
+  30
+   1,R
+   1,J
+  46
+Read, 202/202_1afc_2.tas, Start
+  14
+   1,D
+   1,J
+  33
+Read, 202/202_1afc_3.tas, Start
+  51
+   1,S
+   1,J
+  30
+   1,R
+   1,F,90
+   1,J
+  46
+Read, 202/202_1afc_4.tas, Start
+
+Play, end
+
+
+#2afc
+FileTime: 3:25.955(12115)
+
+Read, 202/202_2afc.tas
+
+Play, end
+
+
+#3afc
+FileTime: 6:10.821(21813)
+
+Read, 202/202_3afc_1.tas
+  14
+   1,D
+   1,J
+  33
+Read, 202/202_3afc_2.tas, Start
+
+Play, end
+
+
+#4afc
+FileTime: 5:04.436(17908)
+
+Read, 202/202_4afc.tas
+
+Play, end
+
+
+#5afc
+FileTime: 8:40.897(30641)
+
+Read, 202/202_5afc_1.tas
+  14
+   1,D
+   1,J
+  33
+Read, 202/202_5afc_2.tas, Start
+
+Play, end
+
+
+#6afc
+#7afc
+FileTime: 12:15.777(43281)
+
+Read, 202/202_7afc_1.tas
+  51
+   1,S
+   1,J
+  30
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,J
+  46
+Read, 202/202_7afc_2.tas, Start
+  14
+   1,D
+   1,J
+  33
+Read, 202/202_7afc_3.tas, Start
+
+Play, end
+
+
+#8afc
+#fwmb
+#1b
+FileTime: 1:39.042(5826)
+
+Read, 202/202_1b.tas
+
+Play, end
+
+
+#2b
+FileTime: 1:35.064(5592)
+
+Read, 202/202_2b.tas
+
+Play, end
+
+
+#3b
+FileTime: 2:18.839(8167)
+
+Read, 202/202_3b.tas
+
+Play, end
+
+
+#4b
+#5b
+FileTime: 2:21.729(8337)
+
+Read, 202/202_5b.tas
+
+Play, end
+
+
+#6b
+#7b
+#8b
+#1c
+FileTime: 0:28.390(1670)
+
+Read, 202/202_1c.tas
+
+Play, end
+
+
+#2c
+FileTime: 0:26.520(1560)
+
+Read, 202/202_2c.tas
+
+Play, end
+
+
+#3c
+FileTime: 0:28.526(1678)
+
+Read, 202/202_3c.tas
+
+Play, end
+
+
+#4c
+FileTime: 0:31.535(1855)
+
+Read, 202/202_4c.tas
+
+Play, end
+
+
+#5c
+FileTime: 0:29.002(1706)
+
+Read, 202/202_5c.tas
+
+Play, end
+
+
+#6c
+FileTime: 0:46.580(2740)
+
+Read, 202/202_6c.tas
+
+Play, end
+
+
+#7c
+FileTime: 0:52.258(3074)
+
+Read, 202/202_7c.tas
+
+Play, end
+
+
+#8c
+FileTime: 1:15.973(4469)
+
+Read, 202/202_8c.tas
+
+Play, end
+
+
+#fwg
+FileTime: 16:47.930(59290)
+
+Read, 202/202_fwg.tas
+
+Play, end
+
+
+#1adg
+FileTime: 2:06.718(7454)
+
+Read, 202/202_1adg.tas
+
+Play, end
+
+
+#2ag
+FileTime: 1:30.814(5342)
+
+Read, 202/202_2ag.tas
+
+Play, end
+
+
+#3ag
+#4ag
+#5ag
+#6ag
+#7ag
+#8ag
+#1bg
+FileTime: 1:51.163(6539)
+
+Read, 202/202_1bg.tas
+
+Play, end
+
+
+#2bg
+FileTime: 1:44.754(6162)
+
+Read, 202/202_2bg.tas
+
+Play, end
+
+
+#3bg
+FileTime: 2:22.324(8372)
+
+Read, 202/202_3bg.tas
+
+Play, end
+
+
+#4bg
+FileTime: 3:05.929(10937)
+
+Read, 202/202_4bg.tas
+
+Play, end
+
+
+#5bg
+FileTime: 2:51.751(10103)
+
+Read, 202/202_5bg.tas
+
+Play, end
+
+
+#6bg
+FileTime: 5:00.390(17670)
+
+Read, 202/202_6bg.tas
+
+Play, end
+
+
+#7bg
+#8bg
+#1cg
+FileTime: 0:32.640(1920)
+
+Read, 202/202_1cg.tas
+
+Play, end
+
+
+#2cg
+FileTime: 0:26.996(1588)
+
+Read, 202/202_2cg.tas
+
+Play, end
+
+
+#3cg
+FileTime: 0:30.345(1785)
+
+Read, 202/202_3cg.tas
+
+Play, end
+
+
+#4cg
+FileTime: 0:33.184(1952)
+
+Read, 202/202_4cg.tas
+
+Play, end
+
+
+#5cg
+FileTime: 0:30.804(1812)
+
+Read, 202/202_5cg.tas
+
+Play, end
+
+
+#6cg
+FileTime: 0:51.680(3040)
+
+Read, 202/202_6cg.tas
+
+Play, end
+
+
+#7cg
+FileTime: 0:53.397(3141)
+
+Read, 202/202_7cg.tas
+
+Play, end
+
+
+#8cg
+FileTime: 1:20.750(4750)
+
+Read, 202/202_8cg.tas
+
+Play, end
+
+
+#end
