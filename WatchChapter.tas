@@ -14,7 +14,7 @@ Play, 1afc
 ##Play, 6afc
 #Play, 7afc
 ##Play, 8afc
-##Play, fwmb
+##Play, fw+mb
 #Play, 1b
 #Play, 2b
 #Play, 3b
@@ -96,7 +96,7 @@ Play, end
 
 
 #2afc
-FileTime: 3:25.955(12115)
+FileTime: 3:26.006(12118)
 
 Read, 202/202_2afc.tas
 
@@ -104,7 +104,7 @@ Play, end
 
 
 #3afc
-FileTime: 6:10.821(21813)
+FileTime: 6:10.787(21811)
 
 Read, 202/202_3afc_1.tas
   14
@@ -163,7 +163,7 @@ Play, end
 
 
 #8afc
-#fwmb
+#fw+mb
 #1b
 FileTime: 1:39.042(5826)
 
