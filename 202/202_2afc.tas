@@ -35,6 +35,7 @@ console load Celeste/2-OldSite
   13,R,K,G,N
   13,R,J,G,N
   13,R,K,G,N
+# bg platform
    1,R,K,C,O
    2,R,U,K,C,O
    1,U,K,C,O
@@ -47,6 +48,7 @@ console load Celeste/2-OldSite
 
 # s1
   29,L,J
+# bottom of window
   15,L,J,C,O
   17,L,J
   40
@@ -237,6 +239,7 @@ console load Celeste/2-OldSite
   25
   12,U,C,O
   15
+# not buffered
   11,L,C,O
   12,L
   10,L,U,C,O
@@ -262,9 +265,11 @@ console load Celeste/2-OldSite
    2,C,O
    1,R,C,O
    2,R,C,G,N,O
+# grab right corner high
   18,R,G,N
    1,G,N
    1,L,G,N
+# dash left and grab right
    9,L,C,G,N,O
    1,C,G,N,O
   20,R,G,N
@@ -298,10 +303,12 @@ console load Celeste/2-OldSite
 
 # d9
    6,R,D
+# top of door
    9,R,D,C,O
    5,R,D
    7,R,D,J,Z
    4,R,D
+# late low jump
    3,R,D,J
   13,R,D
    8,R,D,C,O
@@ -456,12 +463,14 @@ console load Celeste/2-OldSite
   12
    1,D
    1,R,D
+# start dash late to collect
    9,R,D,C,O
    2,R,D
    9,R,D,J
   15,R,D,J,C,O
    1,R,D,J
    5,R,J
+# upright demo for safety
   14,R,U,J,Z,O
   12,R
    8,R,C,O
@@ -485,6 +494,7 @@ console load Celeste/2-OldSite
    2,R,C,G,N,O
    1,R,J,C,G,N,O
    8,R,J,G,N
+# bonk head
    2,R,J,C,G,N,O
    8,R,C,G,N,O
    2,R,J,C,G,N,O
@@ -533,6 +543,7 @@ console load Celeste/2-OldSite
 
 # d4
   16,L,J
+# floaty
   13,L,J,Z,O
   11,L
    1,L,C,O
@@ -676,6 +687,7 @@ console load Celeste/2-OldSite
    2,R,C,O
    5,L,J,C,O
    4,L
+# wait to collect
   16
   15,U,C,O
   18,U,J,C,O
@@ -799,6 +811,7 @@ console load Celeste/2-OldSite
    9,L
   11,L,C,O
    2,L
+# late super
    5,L,J
    9,J
    1,J,C,O
@@ -839,6 +852,7 @@ console load Celeste/2-OldSite
    4,L
   10,L,J
    1,L,D,J
+# above 2 tile
   12,L,D,J,C,O
    1,R,D,J,C,O
    1,R,D,C,O
@@ -998,6 +1012,7 @@ console load Celeste/2-OldSite
    1,L
   12,L,J
    1,L,U,J
+# barrel
   10,L,U,J,C,G,N,O
    2,L,U,K,G,N
    6,L,K,G,N
@@ -1084,6 +1099,7 @@ console load Celeste/2-OldSite
    4,R,D
    3,R
    9,R,J
+# window
   10,R,U,J,C,O
    1,R,U,C,O
    1,R,C,O
@@ -1125,6 +1141,7 @@ console load Celeste/2-OldSite
   12,L,D
    9,D
    4
+# demo, 5f jump+demo
    8,R,Z,O
    4,R
    3,R,J
@@ -1143,9 +1160,11 @@ console load Celeste/2-OldSite
    2,L,D
   41,L
    1,R,D
+# middle
   15,R,D,C,O
   10,R,D
   16,D
+# barricade
   14,L,D,C,O
   17,L,D
   12,L,D,J
@@ -1257,6 +1276,7 @@ console load Celeste/2-OldSite
 
 # 12d
   16,D
+# bottom window
   12,D,C,O
    1,R,D
   31,R
@@ -1301,6 +1321,7 @@ console load Celeste/2-OldSite
    4,R
    4,R,J
    8,R,K
+# right wall
   13,R,D,K,C,O
   40
 
@@ -1468,13 +1489,16 @@ console load Celeste/2-OldSite
    8,C,O
    2,J,C,O
   17,J
+# neutral feet at platform
   10,K
    2,L,K
   40
 
 # end_3c
+# hold left, buffer jump
   29,L,K
   64,L,J
+# keep holding left
    2,L,K
   27,R,K
    1,R,U,K

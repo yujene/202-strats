@@ -51,6 +51,7 @@ console load Celeste/3-CelestialResort
    5,R
    7,R,C,O
    5,R
+# late super
   12,R,J
   40
 
@@ -76,6 +77,7 @@ console load Celeste/3-CelestialResort
    1,D
    5,D,C,O
   42,D
+# wait for dust bunnies
    5,R,D
    3,R,D,C,O
    3,R,D,J,C,O
@@ -253,22 +255,28 @@ console load Celeste/3-CelestialResort
    6,L,D,C,G,N,O
    4,L,D,G,N
    3,L,D,J,G,N
+# wavedash to lantern
    8,L,D,G,N
    6,L,D,C,G,N,O
    5,L,D,G,N
+# buffered wavedash
    6,L,D,J,G,N
    2,L,D,K,G,N
+# buffered climbjump
   38,L,K,G,N
   12,L,J,G,N
+# no hand -2f
    7,L,K,G,S,N
    7,L,K,G,N
    5,L,J,G,S,N
    4,L,J,G,N
+# big hand -1f
    5,L,K,G,S,N
    6,L,K,G,N
    4,L,J,G,S,N
    5,L,J,G,N
    4,L,K,G,S,N
+# long head correct frame
    6,L,K,G,N
    5,L,J,Z,G,N
    3,L,J,G,N
@@ -290,6 +298,7 @@ console load Celeste/3-CelestialResort
    6,L,J,Z,G,N,O
    1,L,Z,G,N,O
    6,L,G,N
+# late jump
   14,L,J,G,N
   22,L,J
    1,L,K
@@ -317,6 +326,7 @@ console load Celeste/3-CelestialResort
    6,R,C,O
    2,C,O
    2
+# wait to collect
    2,L
   14,L,J
   22,L,J,G,N
@@ -452,11 +462,13 @@ console load Celeste/3-CelestialResort
    2,R
    3
    1,U
+# up dash, hold right
    6,U,C,O
    3,C,O
    1,R,C,O
   17,R
    2,R,D
+# buffer downright down
   10,R,D,C,O
    1,R,D
    4,D
@@ -467,6 +479,7 @@ console load Celeste/3-CelestialResort
   40
 
 # 02-b
+# neutral hyper
   12,J
    1,U,J,C,O
    8,U,C,O
@@ -527,6 +540,7 @@ console load Celeste/3-CelestialResort
    5,R,U,J,G,N
    6,R,U,G,N
   11,R
+# right dash from left bg
   13,R,C,O
    5,R
    1
@@ -557,10 +571,12 @@ console load Celeste/3-CelestialResort
    5,L,K
    5,L
    8
+# up demo for bonus upright frame next room
   10,U,Z,O
   40
 
 # 04-b
+# bottom window
   41,R,J
    7,R,U,J,Z,O
    6,R,J
@@ -597,12 +613,14 @@ console load Celeste/3-CelestialResort
    5,C,O
    5
   23,R,D
+# small hyper
    2,R,D,C,O
    5,R,D,J,C,O
    1,R,D,J
    4,R,D
    9,R
    1,R,U
+# slide and upright after pole
    7,R,U,Z,O
   40
 
@@ -629,21 +647,28 @@ console load Celeste/3-CelestialResort
   40
 
 # 06-a
+# transition super
   18,R,J,G,N
+# buffered climbjump
    9,R,K,G,N
+# fastfall
   40,R,D,K,G,N
   12,R,D,J,G,N
+# 3 spaced climbjumps
   10,R,D,K,G,N
    8,R,D,J,G,N
   41,R,D,K,G,N
    1,R,D,K
    2,R,K
+# demo before dust bunny
    8,R,K,Z,O
    1,R,D,K,Z,O
   30,R,D
    2
+# dash to collect
    6,C,O
    6
+# jump, upright demo exit at platform
   12,J
    8,R,U,J,Z,O
   40
@@ -659,6 +684,7 @@ console load Celeste/3-CelestialResort
 
 # 07-b
    5
+# climb up to demohyper
    5,J,G,N
   14,K,G,N
    1,K,Z,G,N,O
@@ -670,6 +696,7 @@ console load Celeste/3-CelestialResort
 
 # 06-b
    2
+# buffer dash
    8,L,D,C,O
    5,L,D
   16,L,D,J
@@ -710,6 +737,7 @@ console load Celeste/3-CelestialResort
    2,L,C,G,N,O
    3,L,G,N
   10
+# grounded ultra setup
    8,L,D,C,O
    5,L,D
    1,L,D,J
@@ -719,7 +747,9 @@ console load Celeste/3-CelestialResort
   40
 
 # 05-c
+# hold downleft
   28,L,D
+# tap grab bottom wall
    3,L,D,G,N
   32,L,D
    1,L
@@ -767,20 +797,25 @@ console load Celeste/3-CelestialResort
   13,R,K,G,N
   13,R,G,N
   11,R,C,G,N,O
+# grab wall
   20,R,G,N
    1,R,D,G,N
    6,R,D,C,G,N,O
    5,R,D,G,N
+# buffer wavedash and cbs
    4,R,D,J,G,N
    8,R,D,K,G,N
    9,R,D,J,G,N
+# cobweb
   10,R,D,J,C,G,N,O
    1,R,D,J,G,N
    5,R,D,G,N
+# pause landing
    8,R,D,G,S,N
   13,R,D,G,N
    4,R,D,G,S,N
    4,R,D,G,N
+# 1f jump right towel
    4,R,D,J,G,S,N
    4,R,D,G,N
    6,R,D,G,S,N
@@ -789,6 +824,7 @@ console load Celeste/3-CelestialResort
 
 # 06-c
   17,R,D,G,N
+# coyote left painting
   12,R,D,J,G,N
   19,R,J,G,N
   14,R,J,C,G,N,O
@@ -816,6 +852,7 @@ console load Celeste/3-CelestialResort
    8,R,D,C,G,N,O
    3,R,D,G,N
    1,R,G,N
+# max wavedash to grab wall
   21,R,J,G,N
    1,D,J,G,N
    1,L,D,J,G,N
@@ -841,6 +878,7 @@ console load Celeste/3-CelestialResort
 
 # 08-c
   24,R,J
+# clock
   10,R,U,J,Z,O
   25,L
    1
@@ -919,6 +957,7 @@ console load Celeste/3-CelestialResort
 
 # 07-a
   24,L,D
+# land left ledge for faster key then do slow strat :)
   18,D
   16,R
   85
@@ -955,6 +994,7 @@ console load Celeste/3-CelestialResort
    3,R,D,C,O
    3,R,C,O
    1,R
+# pause white -> purple floor
    3,R,S,N
    1,R,D,Z,O
    2,R,Z,O
@@ -1007,6 +1047,7 @@ console load Celeste/3-CelestialResort
    2
    8,R
   22,R,D
+# low downright to buffer down
   11,R,D,C,O
    3,R,D
    1,D
@@ -1057,6 +1098,7 @@ console load Celeste/3-CelestialResort
    3,L,C,O
    8,L
    8,L,C,O
+# late super
   13,L,J
    9,L
   20,L,J
@@ -1076,6 +1118,7 @@ console load Celeste/3-CelestialResort
    8,L,D,C,O
    3,L,D
   15,L
+# keep grab/talk held to prevent talking when leaving
    3,L,G,N
    6,G,S,N
    1,D,Z,G,S,N,O
@@ -1108,6 +1151,7 @@ console load Celeste/3-CelestialResort
    1,D
    4,R
    9,R,J
+# hit wall
    3,R,J,G,N
    7,R,J,Z,G,N,O
   10,R,J,G,N
@@ -1115,6 +1159,7 @@ console load Celeste/3-CelestialResort
    3,R,G,N
    1,G,N
    9
+# land left
    1,G,N
    2,U,Z,G,N,O
    4,R,U,Z,G,N,O
@@ -1124,6 +1169,7 @@ console load Celeste/3-CelestialResort
    7,R,K,G,N
    2,R,G,N
   10
+# land left
    1,D
    1,R,D
    2,R,D,C,O
@@ -1133,6 +1179,7 @@ console load Celeste/3-CelestialResort
 
 # 11-b
   10,R,J
+# sun
   15,R,J,Z,O
    1,R,Z,O
    2,R
@@ -1143,6 +1190,7 @@ console load Celeste/3-CelestialResort
    5,R,D,J,C,O
    1,R,D,C,O
    8,R
+# right of open door
    3,R,S
    1,R,D,Z,S,O
    1,R,Z,O
@@ -1179,10 +1227,13 @@ console load Celeste/3-CelestialResort
   40
 
 # 13-b
+# transition hyper to grab wall
    8,R,J,G,N
+# climb up
    8,R,U,J,G,N
   21,R,U,G,N
    7,R,G,N
+# buffer jump after climbup
   14,R,J,G,N
    4,R,J
    1,R,D,J
@@ -1192,12 +1243,14 @@ console load Celeste/3-CelestialResort
   11,R
   19,R,J
    3,J
+# waterfall
    1,D,J,C,O
    7,L,D,J,C,O
    2,L,D,C,O
    4,L,D
   22,D
    1,L,D
+# land brown
    3,L,D,C,O
   16,L,D,J,C,O
    1,L,D,C,O
@@ -1205,9 +1258,11 @@ console load Celeste/3-CelestialResort
   40
 
 # 13-a
+# walk off
   34,L
   12,L,D
   19,D
+# feet clear wall
    1,R,D
    8,R,D,C,O
    1,R,C,O
@@ -1286,6 +1341,7 @@ console load Celeste/3-CelestialResort
 # 12-x
   10,L,J
    1,L,U,J
+# left waterfall
    8,L,U,J,C,O
    2,L,J,C,O
   24,L,J
@@ -1306,6 +1362,7 @@ console load Celeste/3-CelestialResort
    1,R,J
   14,J
    1,U,J
+# horiz line
    8,U,J,Z,O
    2,J,Z,O
   44
@@ -1319,10 +1376,13 @@ console load Celeste/3-CelestialResort
    4
   11,U,C,O
    6,C,O
+# late wallbounce
    1,J,C,O
   18,J
    5,K
+# jump 1 tile
    3,R,K
+# jump away
   28,R,J
    1,R,J,C,O
   10,R,U,J,C,O
@@ -1420,6 +1480,7 @@ console load Celeste/3-CelestialResort
   40
 
 # 11-b
+# jump don't dash
    4,J
   40
 

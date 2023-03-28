@@ -229,6 +229,7 @@ console flag oshiro_resort_talked_3
 # 11-x
   12,R,J
    1,R,D,J
+# right of wire
   14,R,D,J,C,O
   15,R
    3,R,J
@@ -494,12 +495,14 @@ console flag oshiro_resort_talked_3
   11,L,D
   19,D
   30,L,D
+# land at table
   13,L,D,C
   40
 
 # 08-a
   10,L,J
    1,L,D,J
+# painting
   12,L,D,J,C,O
    1,L,D,C,O
   17,L,D
@@ -801,8 +804,11 @@ console flag oshiro_resort_talked_3
 
 # 04-c
   21,L,D,C,O
+# slide off
    8,L,D
+# neutral
   20
+# bottom wall
    1,D,C,O
    8,R,D,C,O
    3,R,C,O
@@ -846,7 +852,9 @@ console flag oshiro_resort_talked_3
   40
 
 # 02-c
+# neutral transition hyper
   16,J
+# mid-right chair
    1,J,C,O
   15,R,D,J,C,O
   40
@@ -965,6 +973,7 @@ console flag oshiro_resort_talked_3
 
 # 01-c
   15,L
+# down dash at edge
   10,D,C,O
    2,D
    3
@@ -1018,11 +1027,14 @@ console flag oshiro_resort_talked_3
    4,R,J,C
   10,R
   94,R,D
+# buffer downright
   12,R,D,C,O
   40
 
 # 02-c
+# buffer jump
    4,R,D,J
+# buffer downright
    4,R,D,J,C,O
    9,R,D,C,O
    4,R,D
@@ -1082,6 +1094,7 @@ console flag oshiro_resort_talked_3
 
 # 02-d
   11,L,J,G,N
+# right bookshelf
    6,L,U,J,C,G,N,O
    5,L,U,J,G,N
   16,L,K,G,N
@@ -1104,6 +1117,7 @@ console flag oshiro_resort_talked_3
    1,L
    8,L,C,O
    1,L
+# head
    8,L,J
    4,L,D,J
   27,L,D
@@ -1153,6 +1167,7 @@ console flag oshiro_resort_talked_3
   30,L
   23,L,J
    2,J
+# center
    9,U,J,C,O
    6,J
    7,L,J,G,N
@@ -1197,6 +1212,7 @@ console flag oshiro_resort_talked_3
   21,R,D,J
    2,R,D,J,C,O
   11,R,D,C,O
+# late jump
    2,R,D,J,C,O
    4,R,D,J
    3,R,J
@@ -1255,6 +1271,7 @@ console flag oshiro_resort_talked_3
    8,R,C,O
    5,R
   12,R,J
+# right of wall
    3,R,U,J,Z,O
    4,R,U,J,Z,G,N,O
   13,R,U,J,G,N
@@ -1269,6 +1286,7 @@ console flag oshiro_resort_talked_3
    7,R,C,O
    4,R
   19,R,J
+# before dust bunny
    9,U,J,C,O
    1,J,C,O
    1,C,O
@@ -1369,6 +1387,7 @@ console flag oshiro_resort_talked_3
   11
    5,R,C,O
    4,R
+# late jump
   17,R,J
    3,R
   58,R,D
