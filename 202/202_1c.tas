@@ -15,7 +15,9 @@ console rmx2 Celeste/1-ForsakenCity
    3,U
    3
    3,R
+# buffered dash
   11,R,C,O
+# delay grab
   27,R
   29,R,G,N
    1,G,N
@@ -24,27 +26,33 @@ console rmx2 Celeste/1-ForsakenCity
    1,U
    3
    9,R
+# not buffered
   10,R,C,O
   31,R
   14,R,G,N
    5,G,N
+# grab low
    9,D,G,N
   14,G,N
    7,G,S,N
   10,G,N
    8,U,G,N
+# pause to crystal
    7,U,G,S,N
    4,U
   15,U,C,O
    1,U
    3
+# slide down to 1 tile girder
   26,L
    2
+# full height jump right
   27,R,J
    1,R,J,G,N
    7,R,U,J,Z,G,N,O
    3,R,U,J,G,N
    6,R,J,G,N
+# buffer climbjump
   11,R,K,G,N
    7,R,K,C,O
    5,R,C,O
@@ -65,6 +73,7 @@ console rmx2 Celeste/1-ForsakenCity
    3,R,C,O
    1,R
   19,R,J
+# hit wall then neutral demo
   12,R,J,Z,O
    2,R
   13
@@ -73,12 +82,14 @@ console rmx2 Celeste/1-ForsakenCity
    1,R,D
    2,R
   39,R,J
+# track
   13,R,J,Z,O
    5,R,J
    2,R
   12
    2,L
   20,L,G,N
+# middle
    2,G,N
    2,U,G,N
    6,G,N
@@ -86,9 +97,11 @@ console rmx2 Celeste/1-ForsakenCity
   41,R,J,G,N
    2,R,G,N
    1,R,U,G,N
+# top
   12,U,G,N
    2,G,N
   21,L,G,N
+# left+jump end of track
    1,L,J,G,N
    3,J,G,N
   18,R,J,G,N
@@ -107,18 +120,23 @@ console rmx2 Celeste/1-ForsakenCity
    6,R,D,C,O
    9,R,D
    1,R,D,C,O
+# full height until transition
   10,R,D,J,C,O
   40
 
 # 02
+# release jump
   40,R,G,N
+# buffer climbjump
   12,R,J,G,N
   20,R,K,G,N
    1,R
   11
    4,L
+# wall jump into neutral
    3,L,J
   13,J
+# centered girder above
    1,U,J,Z,O
    9,R,U,J,Z,O
    1,R,J
@@ -130,7 +148,9 @@ console rmx2 Celeste/1-ForsakenCity
    1,R,C,G,N,O
    8,R,G,N
   11,R,J,G,N
+# arrive high
    7,R,G,N
+# small jump near top for bigger window
    1,R,J,G,N
    3,J,G,N
   12,G,N
@@ -155,6 +175,7 @@ console rmx2 Celeste/1-ForsakenCity
    5,R,J
   17,R,J,G,N
   14,R,K,G,N
+# grab wall before drop
   25,R,J,G,N
    1,J,G,N
   29

@@ -28,11 +28,14 @@ console rmx2 Celeste/3-CelestialResort
   40
 
 # 01
+# buffer neutral
   35,J
+# dash on landing
    1,J,C,O
    9,U,J,C,O
    1,J,C,O
    2,J
+# high wallbounce
   12,K
    2,R,K
    9,R,J
@@ -41,6 +44,7 @@ console rmx2 Celeste/3-CelestialResort
   12,R
    1
    2,D
+# go on dash 7
    8,D,C,O
    6,D
    9,D,C,O
@@ -85,6 +89,7 @@ console rmx2 Celeste/3-CelestialResort
    3,R,J
    8,R
    1,R,U
+# under 1 tile
    8,R,U,C,O
    1,R,C,O
    2
@@ -96,6 +101,7 @@ console rmx2 Celeste/3-CelestialResort
    8,R,D
   12,R
    1,R,U
+# under 1 tile
    8,R,U,Z,O
    1,R,U
   15,R,U,G,N
@@ -138,6 +144,7 @@ console rmx2 Celeste/3-CelestialResort
   16,R
    9
   17,R,D
+# wait for dust bunny left side
    6,R,D,C,O
    3,R,D
    2,R
@@ -153,7 +160,9 @@ console rmx2 Celeste/3-CelestialResort
   11,R
    9,R,C,O
    4,R
+# land left
  147
+# go after oshiro starts moving
    1,C,O
    5,R,C,O
    5,R
@@ -169,8 +178,10 @@ console rmx2 Celeste/3-CelestialResort
   11,L,G,N
    3,G,N
   15,D,G,N
+# grab low
   10,G,N
   56,R,G,N
+# climb up when lightning
   40,R,U,G,N
   38,R,U
   11,R,U,C,O

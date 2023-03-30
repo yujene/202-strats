@@ -11,13 +11,16 @@ console rmx2 Celeste/5-MirrorTemple
    9,U,C,O
    1,C,O
    1,R,C,O
+# short wallbounce
    5,R,J,C,O
    1,R,J
   16,R
    2
   11,L
    2
+# max jump bottom of block
   15,R,J
+# release right briefly
    9,J
   30,R,J
    1,J
@@ -61,6 +64,7 @@ console rmx2 Celeste/5-MirrorTemple
    1
    5,U,C,O
    9,C,O
+# don't buffer wallbounce
    5,J
   14,R,J
    2,R,D,J
@@ -82,6 +86,7 @@ console rmx2 Celeste/5-MirrorTemple
    4,R,K,C,O
    1,R,C,O
   35,R
+# centered in gap above
   10,R,U,Z,O
    2,R,U
    3,R
@@ -111,6 +116,7 @@ console rmx2 Celeste/5-MirrorTemple
    1,L,G,N
   24
    1,R
+# huge window on full height jump right
   65,R,J
    2,J
    1,U,J

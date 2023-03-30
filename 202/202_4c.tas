@@ -48,6 +48,7 @@ console rmx2 Celeste/4-GoldenRidge
   34,R
    5,R,Z,O
    6,R
+# late jump
    2,R,J
   40
 
@@ -75,10 +76,12 @@ console rmx2 Celeste/4-GoldenRidge
    1,U,G,N
    1,G,N
    3,L,G,N
+# left walljump, hold right
    5,L,J,G,N
    2,J,G,N
   16,R,J,G,N
    2,R,U,J,G,N
+# big upright window
    9,R,U,J,C,G,N,O
   14,R,U,J,G,N
    2,U,J,G,N
@@ -92,11 +95,14 @@ console rmx2 Celeste/4-GoldenRidge
   15,R,G,N
    5,G,N
    7,D,G,N
+# grab low
   20,G,N
    1,L,G,N
+# after wire, left walljump then neutral
    6,L,J,G,N
    5,L,J
   17,J
+# around peak
    5,U,J,C,O
    3,J,C,O
    2,J
@@ -131,10 +137,12 @@ console rmx2 Celeste/4-GoldenRidge
    1,R,D
   13,D
   13
+# mid flag
    9,Z,O
   17
    3,J
    3,R,U,J
+# soon after jump
   12,R,U,J,Z,O
    1,R,U
   12,R
@@ -176,8 +184,10 @@ console rmx2 Celeste/4-GoldenRidge
    1,R,C,O
   32,R
    2
+# neutral
   12,J
    1,J,G,N
+# climbjump right
    1,R,J,G,N
   10,R,K,G,N
    1,R

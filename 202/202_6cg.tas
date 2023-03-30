@@ -24,17 +24,20 @@ console rmx2 Celeste/6-Reflection
    2,D,J
   38,R,D,J
   22,D,J
+# hit middle
    1,J
   43,R,J
    9,R,J,Z,O
   16,R,J
    1,J
+# hit middle-right
   24
   41,R
    3,U
    5,U,C,O
   10,C,O
    1
+# neutral wallbounce
   11,J
    7,R,J
    6,R
@@ -47,9 +50,12 @@ console rmx2 Celeste/6-Reflection
 
 # 01
   20,R,J
+# 1 tile above
   12,R,J,C,O
+# just hold right
   51,R
    6
+# turn at crystal
   20,L
   13
    9,R,C,O
@@ -66,6 +72,7 @@ console rmx2 Celeste/6-Reflection
    7,L
    8,L,D
   11,L
+# release to slow down
   46
   10,R
   14
@@ -79,6 +86,7 @@ console rmx2 Celeste/6-Reflection
   30
   26,L
    1,R,G,N
+# get pretty low
   51,R,J,G,N
    1,R,J
    1,R,U,J
@@ -158,6 +166,7 @@ console rmx2 Celeste/6-Reflection
    1,G,N
   16,R,G,N
   19,G,N
+# climb to top
    3,U,G,N
   78,G,N
   15
@@ -214,6 +223,7 @@ console rmx2 Celeste/6-Reflection
   14,L
    9,L,C,O
    1
+# bumper boost all
   32,R
    4
   10,L,U,C,O
@@ -231,6 +241,7 @@ console rmx2 Celeste/6-Reflection
    1,L,U
    3,L
   50,R
+# release at bg crystal
   15
   11,R
   11
@@ -246,10 +257,13 @@ console rmx2 Celeste/6-Reflection
    8,L,G,N
   10,L,D,G,N
    9,L,G,N
+# climbjump into wall
    4,L,J,G,N
   12,L,G,N
+# climb up
   17,L,U,G,N
   11,R,G,N
+# pause 2 right jumps
    7,R,G,S,N
    5,R,G,N
    3,R,J,G,S,N
@@ -263,6 +277,7 @@ console rmx2 Celeste/6-Reflection
    6,R,J,G,S,N
   41,R,J,G,N
    7,J
+# middle
   56
   11,R
    9

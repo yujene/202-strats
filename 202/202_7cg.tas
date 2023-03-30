@@ -69,16 +69,19 @@ console rmx2 Celeste/7-Summit
    3,U
    1
   11,R
+# double hole
   10,R,C,O
    7,R
   10,R,C,O
   48,R
+# above double hole
   14,R,C,O
    6,R
    1
   10,U,C,O
    1,C,O
   60
+# left spinner
   18,L
    8,L,C,O
    5,L
@@ -129,11 +132,13 @@ console rmx2 Celeste/7-Summit
   19
    6,R
   39,R,J
+# spinner below
    7,R,J,C,O
    2,R,C,O
    8,R
   19
   17,L
+# hit spring high
    8,L,C,O
    2,L
    5
@@ -146,15 +151,18 @@ console rmx2 Celeste/7-Summit
    9
    8,R,Z,O
    7,R
+# neutral after demo
   22
    5,L
   22
+# get close
   10,U,C,O
   12,U
    7,U,C,O
    2,C,O
    1
    5,R
+# fast fall lines up
   42,R,D
    1,D
   15
@@ -163,6 +171,7 @@ console rmx2 Celeste/7-Summit
   13,L,U,C,O
    4,L,U
    4,U
+# don't buffer
   10,U,C,O
    3,U
    4
@@ -212,6 +221,7 @@ console rmx2 Celeste/7-Summit
    7,R
    6,R,C,O
   24,R
+# small jump
    5,R,J
   18,R
   23,R,Z,O
@@ -220,6 +230,7 @@ console rmx2 Celeste/7-Summit
    3,C,O
    1
    6,L
+# double spring hit for height
   12,L,C,O
    1,L
    2

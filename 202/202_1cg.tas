@@ -8,6 +8,7 @@ console rmx2 Celeste/1-ForsakenCity
    5,J
    1,R,J
   16,R
+# full height
    5,R,J
    7,R,J,G,N
    6,R,G,N
@@ -17,8 +18,10 @@ console rmx2 Celeste/1-ForsakenCity
    2,C,O
    3
    5,R
+# buffered
   23,R,C,O
   14,R
+# delay grab
   16,R,G,N
   20,G,N
    1
@@ -30,8 +33,10 @@ console rmx2 Celeste/1-ForsakenCity
   43,R
    9,R,G,N
    5,G,N
+# grab low
    6,D,G,N
   12,G,N
+# pause to crystal
    7,G,S,N
   10,G,N
    8,U,G,N
@@ -40,13 +45,16 @@ console rmx2 Celeste/1-ForsakenCity
   15,U,C,O
    1,U
    3
+# slide down to 1 tile girder
   26,L
    2
+# full height jump right
   27,R,J
    1,R,J,G,N
    7,R,U,J,Z,G,N,O
    3,R,U,J,G,N
    6,R,J,G,N
+# buffer climbjump
   11,R,K,G,N
    7,R,K,C,O
    5,R,C,O
@@ -76,6 +84,7 @@ console rmx2 Celeste/1-ForsakenCity
    3,R
   43,R,J
    1,R,U,J
+# track
    7,R,U,J,Z,O
    1,R,J,Z,O
   26,R,J
@@ -83,14 +92,17 @@ console rmx2 Celeste/1-ForsakenCity
    9
    1,L
   16,L,G,N
+# middle
    3,D,G,N
    4,G,N
   25,R,G,N
   44,R,J,G,N
+# top
    1,R,U,G,N
    9,U,G,N
    4,G,N
   18,L,G,N
+# left+jump end of track
    8,L,J,G,N
    1,J,G,N
   17,R,J,G,N
@@ -109,6 +121,7 @@ console rmx2 Celeste/1-ForsakenCity
    5,R,D,C,O
   10,R,D
    1,R,D,C,O
+# full height until transition
   10,R,D,J,C,O
   40
    
@@ -125,6 +138,7 @@ console rmx2 Celeste/1-ForsakenCity
   11,R,G,N
    3,R,J,G,N
    9,R
+# centered girder above
    6,R,U,Z,O
    4,R,U
   26,R
@@ -136,8 +150,10 @@ console rmx2 Celeste/1-ForsakenCity
   11,R,G,N
   29,R,J,G,N
    2,J,G,N
+# climb to top
   21,U,G,N
    5,G,N
+# small jump for bigger window
    3,J,G,N
   12,G,N
   29,L,J,G,N
@@ -160,6 +176,7 @@ console rmx2 Celeste/1-ForsakenCity
    3,R,G,N
   20,R,J,G,N
   17,R,K,G,N
+# grab wall before drop
   24,R,J,G,N
    1,J,G,N
   23
@@ -168,6 +185,7 @@ console rmx2 Celeste/1-ForsakenCity
    2,L,D,G,N
    7,D,G,N
    4,G,N
+# confirm low on block
    3,R,J,G,N
    9,R,G,N
    4
@@ -179,6 +197,7 @@ console rmx2 Celeste/1-ForsakenCity
    3,R,J
    3,R
   10,R,G,N
+# grab high for more falling adjust time
   10,R,U,G,N
    1,U,G,N
   11,G,N

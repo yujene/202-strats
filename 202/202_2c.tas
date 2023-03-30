@@ -26,6 +26,7 @@ console rmx2 Celeste/2-OldSite
   40
 
 # 01
+# buffer downright
    7,R,D,K,C,O
    5,R,D,C,O
    8,R,D
@@ -59,7 +60,9 @@ console rmx2 Celeste/2-OldSite
    8,R,U,C,O
    3,R,C,O
    3,R
+# hold downright into last coin
   52,R,D
+# tap grab under barricade
    5,R,D,G,N
   24,R,D
    2,R,D,C,O
@@ -76,6 +79,7 @@ console rmx2 Celeste/2-OldSite
    9,R
   10,R,C,O
   51,R
+# don't double jump
   43,R,J
    2,J
    1,U,J
@@ -103,6 +107,7 @@ console rmx2 Celeste/2-OldSite
   40
   11,R
    8,R,C,O
+# don't fast fall
   26,R
    8,R,J
   17,R
@@ -115,16 +120,19 @@ console rmx2 Celeste/2-OldSite
   11,R,J
   11,R
   18,R,G,N
+# climb down to bottom 2px
    6,R,D,G,N
    7,R,G,N
    1,R,U,G,N
    7,R,U,Z,G,N,O
    3,R,U,G,N
    1,U,G,N
+# climb up to bottom window
   31,L,U,G,N
    1,L,G,N
    1,G,N
    1,R,G,N
+# walljump turnarounds
    5,R,J,G,N
   23,L,J,G,N
    1,J,G,N

@@ -10,6 +10,7 @@ console rmx2 Celeste/4-GoldenRidge
    8,D,C,O
    5,D
    1,R,D
+# instant hyper to bubble
    3,R,D,C,O
    3,R,D,J,C,O
    2,R,D,J
@@ -33,6 +34,7 @@ console rmx2 Celeste/4-GoldenRidge
    5,L,J
    3,L,J,G,N
   12,L,G,N
+# confirm grab
    2,R,G,N
   17,R,J,G,N
    2,R,J
@@ -50,6 +52,7 @@ console rmx2 Celeste/4-GoldenRidge
   33,R
    5,R,Z,O
    7,R
+# late jump
    2,R,J
   40
 
@@ -76,11 +79,13 @@ console rmx2 Celeste/4-GoldenRidge
    6
   19,R,U,G,N
    2,G,N
+# left walljump, hold right
    2,L,G,N
    8,L,J,G,N
    1,J,G,N
   17,R,J,G,N
    1,R,U,J,G,N
+# big upright window
   11,R,U,J,C,G,N,O
   12,R,U,J,G,N
    2,J,G,N
@@ -96,11 +101,14 @@ console rmx2 Celeste/4-GoldenRidge
   11,R,G,N
    1,R,D,G,N
    6,D,G,N
+# grab low
   17,G,N
    2,L,G,N
+# after wire, left walljump then neutral
   12,L,J,G,N
    1,J,G,N
   15,J
+# around peak
   11,U,J,C,O
    2,R,U,J,C,G,N,O
   20,R,U,J,G,N
@@ -131,6 +139,7 @@ console rmx2 Celeste/4-GoldenRidge
   28
    8,R
    9
+# flag
    7,U,C,O
    2,C,O
    3
@@ -141,6 +150,7 @@ console rmx2 Celeste/4-GoldenRidge
    5,R
    3
    1,U
+# clear spikes
    6,U,C,O
    3,C,O
    4
@@ -184,7 +194,9 @@ console rmx2 Celeste/4-GoldenRidge
    3,R,C,O
   33,R
    2
+# neutral
   16,J
+# climbjump right
   11,R,K,G,N
    1,R,G,N
   21
