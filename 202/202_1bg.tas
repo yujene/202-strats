@@ -19,6 +19,7 @@ console hard Celeste/1-ForsakenCity
   11,K,G,N
    9,J,G,N
    3,J
+# late third jump
    2,K
    7,R,K
   13,R
@@ -53,6 +54,7 @@ console hard Celeste/1-ForsakenCity
    3,R,D
    1,R
    1
+# late jump
    3,J
    1,J,G,N
   13,L,J,G,N
@@ -72,12 +74,14 @@ console hard Celeste/1-ForsakenCity
    8,R,U,J,G,N
    1,R,U,G,N
   11,R,G,N
+# can jump pretty early
    5,R,J,G,N
    7,R,J
   26,R
    1,R,U,G,N
    5,R,U,Z,G,N,O
    3,R,U,G,N
+# don't cornerkick
   17,R,G,N
   10,R,J,G,N
    8,R,K,G,N
@@ -93,6 +97,7 @@ console hard Celeste/1-ForsakenCity
    5,R,J
   13,R
    4
+# neutral at brown
   12,J
    2,J,C,O
    5,U,J,C,O
@@ -110,12 +115,14 @@ console hard Celeste/1-ForsakenCity
   20,L,D
    5,D
    2
+# jump off brown
    1,J
    9,R,J,G,N
   13,R,G,N
   11,R,U,G,N
   24,R,G,N
    6,R,J,G,N
+# right climbjump to avoid liftboost issue
   14,R,K,G,N
    1,K,G,N
    1,K
@@ -129,6 +136,7 @@ console hard Celeste/1-ForsakenCity
    5,L,J,G,N
   14,L,K,G,N
    9,L,J,G,N
+# exit left
   40
 
 # 02b
@@ -138,24 +146,18 @@ console hard Celeste/1-ForsakenCity
    8,R,D,C,O
    1,R,D
    5,R
+# low hyper
    4,R,J
   13,R
    1,R,U
+# under block
    9,R,U,Z,G,N,O
-   9,R,U,G,N
-  24,R,U,J,G,N
-   1,R,J,G,N
-   4,J,G,N
-   7,L,J,G,N
-   7,L,U,J,G,N
-  16,L,U,G,N
-  22,G,N
-   1,R,G,N
-   7,R,J,G,N
-  48,R
-   8
-   2,G,N
-  14,L,G,N
+# climb to top
+  55,R,U,G,N
+# jump at end of track
+  77,R,J,G,N
+# 7f turn around starting centered sprocket
+  21,L,G,N
    2,G,N
   15,R,G,N
   40,R,J,G,N
@@ -169,7 +171,8 @@ console hard Celeste/1-ForsakenCity
    4,L,K
    5,L,J
    9,L,J,G,N
-   9,L,K,G,N
+   7,L,K,G,N
+# exit left
   40
 
 # 03
@@ -187,11 +190,13 @@ console hard Celeste/1-ForsakenCity
    1,C,O
    1,R,C,O
    1,R,C,G,N,O
+# early wallbounce
    2,R,J,C,G,N,O
   10,R,J,G,N
    4,J,G,N
    3,L,J,G,N
   12,L,U,J,G,N
+# climb to top
   26,L,U,G,N
    2,G,N
   12,R,G,N
@@ -216,6 +221,7 @@ console hard Celeste/1-ForsakenCity
   18,R,J,G,N
   19,R,K,G,N
   29,R,K
+# sign
    8,R,U,K,C,O
    2,R,K,C,O
    1,R,C,O
@@ -236,6 +242,7 @@ console hard Celeste/1-ForsakenCity
   13,K,G,N
    7,L,U,K,G,N
   21,L,U,G,N
+# pause until foot cue
    7,L,U,G,S,N
   11,L,U,G,N
    4,L,U,G,S,N
@@ -263,6 +270,7 @@ console hard Celeste/1-ForsakenCity
   43
 
 # 05
+# not full height
   11,R,J,G,N
   10,R,G,N
   18,R,U,G,N
@@ -276,6 +284,7 @@ console hard Celeste/1-ForsakenCity
    7,D
    1,J
   13,R,J
+# pole
    5,R,J,C,O
    3,R,C,O
   15,R,G,N
@@ -295,6 +304,7 @@ console hard Celeste/1-ForsakenCity
    8,R
    4
    1,U
+# late up dash
    8,U,C,O
    2,C,O
    5
@@ -312,6 +322,7 @@ console hard Celeste/1-ForsakenCity
    1,J,C,O
    2,R,J,C,O
   20,R,J,G,N
+# grab before drop
    2,R,G,N
    1,R
    1
@@ -341,11 +352,14 @@ console hard Celeste/1-ForsakenCity
    8,R,D,J,C,G,N,O
    4,R,D,C,G,N,O
    1,R,C,G,N,O
+# drift right
    3,R,G,N
   10,G,N
    9,L,G,N
+# small jump over top pixel
    9,J,G,N
   15,G,N
+# right walljump turnaround
   10,R,J,G,N
   14,L,J
    1,K
@@ -356,12 +370,14 @@ console hard Celeste/1-ForsakenCity
   10,L,D
    1,D
    1,R,D
+# top of block
   21,R,D,J
    5,R,D
   14,D
   11,L,D
    1,D
    2,R
+# under wire
   15,R,J
   19,R,J,G,N
    8,R,K,G,N
@@ -374,6 +390,7 @@ console hard Celeste/1-ForsakenCity
    7,R,K,C,O
    2,R,C,O
   17,R
+# upright to land on block
    7,R,U,C,O
   40
 
@@ -385,6 +402,7 @@ console hard Celeste/1-ForsakenCity
    9,R,J
   15,R,J,G,N
    3,R,U,J,G,N
+# climb to top
   27,R,U,G,N
   18,L,U,G,N
   35,L,U,J,G,N
@@ -434,9 +452,11 @@ console hard Celeste/1-ForsakenCity
   32
    6,R
    3,R,U
+# dash into corner
   10,R,U,C,O
    1,R
    6
+# neutral to land
    3,J
   18
    1,G,N
@@ -444,15 +464,19 @@ console hard Celeste/1-ForsakenCity
    5,L,J,G,N
   21,L,G,N
    4,G,N
+# grab low
   13,D,G,N
   13,G,N
   16,R,G,N
    3,R,D,G,N
   30,R,G,N
+# jump in leniency
   49,R,J,G,N
+# don't buffer climbjump
   20,R,K,G,N
    2,G,N
    2
+# neutral to line up fall
    3,J
    8
   27,D
@@ -478,22 +502,26 @@ console hard Celeste/1-ForsakenCity
 # 08b
   13,R,G,N
   26,G,N
+# wallboost
    3,J,G,N
    6,L,J,G,N
   13,L,G,N
    2,G,N
+# wait for liftboost
   50,R,G,N
   30,R,J,G,N
   16,R,J,C,G,N,O
    2,R,J,G,N
    4,R,G,N
   24,R,U,G,N
+# wait for liftboost
   30,R,G,N
   13,R,J,G,N
    1,R,D,J,G,N
    5,R,D,J
    3,R,D
   14,D
+# after clearing left spikes
   16,L,D
    7,D
    3
@@ -504,6 +532,7 @@ console hard Celeste/1-ForsakenCity
    8,K,G,N
    8,J,G,N
    5,J
+# delay last jump
    3,K
   12,R,K
    4,R,D,K
@@ -513,6 +542,7 @@ console hard Celeste/1-ForsakenCity
   27,R,J
    1,J
    1,U,J
+# right side to avoid spikes
    6,U,C,O
    9,C,O
    1
@@ -558,6 +588,7 @@ console hard Celeste/1-ForsakenCity
    1,R,G,N
    5,R,J,G,N
   15,R,G,N
+# short hyper to grab side of block
    2,R,D,C,O
    3,R,D,J,C,O
    1,R,D,C,O
@@ -566,6 +597,7 @@ console hard Celeste/1-ForsakenCity
 
 # 10
   46,R,U,G,N
+# jump a bit after climbhop is over
   12,R,U,J,G,N
   18,R,U,G,N
    6,R,U,C,G,N,O
@@ -573,6 +605,7 @@ console hard Celeste/1-ForsakenCity
    5,G,N
   17,L,G,N
    4,R,G,N
+# walljump into neutral lines up fall
    6,R,J,G,N
    8,R,G,N
   13
@@ -612,11 +645,13 @@ console hard Celeste/1-ForsakenCity
    9,L,J,G,N
   40,L,U,G,N
    1,L,G,N
+# wait for liftboost
   10,G,N
    2,R,G,N
   12,R,J,G,N
    2,J
    1,U,J
+# as soon as clear spikes
   10,U,J,C,O
    1,J,C,G,N,O
    3,L,J,C,G,N,O
@@ -633,6 +668,7 @@ console hard Celeste/1-ForsakenCity
    1,R,U,C,G,N,O
   11,R,U,J,G,N
   21,R,U,G,N
+# neutral climbjump
   16,U,G,N
   11,U,J,G,N
    9,U,J,C,G,N,O
@@ -657,7 +693,9 @@ console hard Celeste/1-ForsakenCity
   11,R,J,G,N
   17,R,G,N
    1,G,N
+# don't move on blocks
   31,L,G,N
+# jump at end of tracks
   51,L,J,G,N
    2,J,G,N
    1,G,N
@@ -736,4 +774,4 @@ console hard Celeste/1-ForsakenCity
    1,O
   31
 
-FileTime: 1:51.163(6539)
+FileTime: 1:50.840(6520)
