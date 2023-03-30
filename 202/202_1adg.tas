@@ -30,8 +30,10 @@ console load Celeste/1-ForsakenCity
    7,R,J,G,N
   27,R,K,G,N
    2,R,U,K,G,N
+# climb to top
   40,R,U,G,N
    3,R,G,N
+# two quick jumps
    2,R,J,G,N
   29,R,K,G,N
   20,R,G,N
@@ -47,6 +49,7 @@ console load Celeste/1-ForsakenCity
 # 3
    3,R,J,G,N
   25,R,G,N
+# coyote
   27,R,J,G,N
   12,R,K,G,N
    9,R,J,G,N
@@ -57,6 +60,7 @@ console load Celeste/1-ForsakenCity
   18,L
    8,L,G,N
    4,G,N
+# climb down to half hanging
    9,D,G,N
    6,G,N
    1,R,G,N
@@ -77,6 +81,7 @@ console load Celeste/1-ForsakenCity
 
 # 4
   15,G,N
+# climbjump top of wall
   15,J,G,N
   12,K,G,N
   10,J,G,N
@@ -86,6 +91,7 @@ console load Celeste/1-ForsakenCity
   19,R,G,N
    2,R
    3
+# wait for liftboost
   48,D
   16,L,D,J
   12,R,K
@@ -127,6 +133,7 @@ console load Celeste/1-ForsakenCity
   25,R,J
   34,R
    2,R,D
+# crouch jump before coyote
   19,R,D,J
   13,R,J
    8,R,J,G,N
@@ -137,6 +144,7 @@ console load Celeste/1-ForsakenCity
    7
   15,R
    2
+# neutral to avoid spikes
   11,J
    9,R,J,G,N
   12,R,K,G,N
@@ -154,6 +162,7 @@ console load Celeste/1-ForsakenCity
   16,L,J,G,N
    2,L,U,J,G,N
    3,L,U,G,N
+# climb up for good cb
   25,U,G,N
    7,G,N
    7,D,G,N
@@ -162,6 +171,7 @@ console load Celeste/1-ForsakenCity
    6,R,D,K,G,S,N
    3,R,D,K,G,N
    7,R,K,G,N
+# pause 3 climbjumps
    4,R,G,S,N
    5,R,J,G,N
    4,R,K,G,S,N
@@ -179,6 +189,7 @@ console load Celeste/1-ForsakenCity
    8,K,S
    1,L
   11,L,G,N
+# waste stamina to collect
    2,L,J,G,N
    1,J,G,N
    4,G,N
@@ -186,6 +197,7 @@ console load Celeste/1-ForsakenCity
   16,R,G,N
    8,R,U,G,N
   23,R,G,N
+# line up hand
    3,R,U,G,N
   25,R,G,N
   29,R,J,G,N
@@ -212,14 +224,17 @@ console load Celeste/1-ForsakenCity
    6,R,J
    7,R,K
    9,K
+# 2 neutrals
   14,J
    2,L,J
   10,L,J,G,N
    3,J
   12,K
   16,L,K,G,N
+# 2 left climbjumps into ceiling
   12,L,J,G,N
   16,L,K,G,N
+# pause 1f jump, 2f, 1f jump
    1,L,K,G,S,N
    5,L,G,S,N
    4,L,G,N
@@ -330,16 +345,21 @@ console load Celeste/1-ForsakenCity
   40
 
 # 8
+# enter right side
   11,J,G,N
   20,G,N
+# land neutral
   29,R,G,N
+# buffer climbjump
   38,R,J,G,N
+# release jump before falling left
    7,R,G,N
    9,L,G,N
    4,L
   13,L,G,N
   13,R,G,N
   29,R,J,G,N
+# buffer jump
   37,R,K,G,N
   15,R,J,G,N
   23,R,G,N
@@ -358,6 +378,7 @@ console load Celeste/1-ForsakenCity
    8
   12,L,G,N
    6,G,N
+# grab low
   10,D,G,N
    8,G,N
    4,R,G,N
@@ -426,10 +447,13 @@ console load Celeste/1-ForsakenCity
 
 # 10a
   15,L,J,G,N
+# climbjump into corner
   11,L,K,G,N
    1,K,G,N
    7,G,N
+# max height jump right
   19,R,J,G,N
+# buffer jump
   42,R,K,G,N
   31,R,J,G,N
   11,R,K,G,N
@@ -448,10 +472,12 @@ console load Celeste/1-ForsakenCity
    2,R,J,G,N
    7,R,G,N
   18,G,N
+# line up hand
    4
   21,G,N
   10,L,G,N
   11,L
+# buffer jump
   13,L,J
   22,L,J,G,N
   28,L,K,G,N
@@ -493,13 +519,18 @@ console load Celeste/1-ForsakenCity
    6,L,K
    8,L,K,G,N
   16,L,J,G,N
+# wait briefly
    6,G,N
+# neutral climbjump
   13,J,G,N
+# turn late
    5,R,J,G,N
    3,R,G,N
    6,G,N
+# climb up
   13,U,G,N
    9,G,N
+# pause left jump
    3,G,S,N
    9,G,N
    8,L,G,N
@@ -509,6 +540,7 @@ console load Celeste/1-ForsakenCity
    7,L,J,G,N
    4,L,J,G,S,N
   20,L,J,G,N
+# pause to release jump at bg wiggly
   10,L,J,G,S,N
    5,L,G,N
    4,L,G,S,N
@@ -538,9 +570,12 @@ console load Celeste/1-ForsakenCity
   13,J,G,N
    8,L,J,G,N
    4,L,G,N
+# grab wall anywhere
    9,G,N
    6,R,G,N
+# max height jump right
   49,R,J,G,N
+# don't buffer jump
   30,R,K,G,N
   13,R,J,G,N
    6,R,K,G,N
@@ -568,12 +603,14 @@ console load Celeste/1-ForsakenCity
   12,L,G,N
    9,G,N
    6,D,G,N
+# grab middle
   79,G,N
    3
   15,J
    2,J,G,N
    9,L,J,G,N
   10,L,G,N
+# climbjump into corner
   16,L,J,G,N
    2,J,G,N
    3,G,N
@@ -595,6 +632,7 @@ console load Celeste/1-ForsakenCity
    2,G,N
   34,L,U,G,N
    7,G,N
+# bottom right corner at bg corner
    8,G,S,N
    7,G,N
    4

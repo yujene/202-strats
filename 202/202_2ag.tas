@@ -276,6 +276,7 @@ console load Celeste/2-OldSite
   12,R,U,G,N
    6,R,U,J,G,N
   16,R,U,K,G,N
+# upright to never bonk
    5,R,U,K,C,G,N,O
    4,R,U,C,G,N,O
    2,C,G,N,O
@@ -299,6 +300,7 @@ console load Celeste/2-OldSite
    5,L,J,G,N
   18,L,K,G,N
    4,L,G,N
+# climbjump into corner
    1,L,J,G,N
    3,L,U,J,G,N
    4,L,U,J,C,G,N,O
@@ -320,6 +322,7 @@ console load Celeste/2-OldSite
   14,R,J
   12,L,K
    2,L,K,G,N
+# climbjump into corner
   12,L,J,G,N
    1,J,G,N
    2,R,U,J,C,G,N,O
@@ -330,13 +333,16 @@ console load Celeste/2-OldSite
    5,R,G,N
    7,R
    4
+# don't greed demo
   18,R,Z,O
    1,Z,O
    2,U
   11,U,C,O
    6,C,O
    1,R,C,O
+# high wallbounce
   27,R,J
+# jump off right wall
    8,R,K
   40
 
@@ -350,11 +356,14 @@ console load Celeste/2-OldSite
   10,L,D,C,O
    1,L,D
   14,L,D,J
+# above 2 tile
    9,L,D,J,C,O
    5,L,D,C,O
    1,L,D
    3,D
+# wait to land
    9
+# spaced out 2 jumps
    1,J
    1,J,G,N
   14,L,J,G,N
@@ -362,6 +371,7 @@ console load Celeste/2-OldSite
    1,L,G,N
    3,G,N
    1,R,G,N
+# 2 quick jumps
    2,R,J,G,N
   24,R,K,G,N
    4,R,K,C,G,N,O
@@ -458,6 +468,7 @@ console load Celeste/2-OldSite
    7,R,C,O
   37,R
    1
+# don't greed up dash
    9,U,C,O
    3,C,O
    9,L
@@ -500,9 +511,11 @@ console load Celeste/2-OldSite
    5,R,G,N
   27,G,N
    1,L,G,N
+# dash along block
    8,L,C,G,N,O
   46,L,G,N
    1,G,N
+# drop and demo
    7
    9,L,Z,O
    3
@@ -510,6 +523,7 @@ console load Celeste/2-OldSite
   40
 
 # 10
+# touch ground to avoid bonk
    9,L,D
    4,L,D,J
    8,L,J
@@ -520,6 +534,7 @@ console load Celeste/2-OldSite
   34,R,D
   11,R,D,C,O
    6,R,D
+# jump far and downleft to avoid missing
   26,R,D,J
    1,D,J
   11,L,D,J,C,O
@@ -530,6 +545,7 @@ console load Celeste/2-OldSite
    7,L,D
    4,L,D,J
   18,L,D
+# downleft and slide
    8,L,D,C,O
   49,L,D
    2,D
@@ -566,6 +582,7 @@ console load Celeste/2-OldSite
   14,L,D
    1,L
    5
+# demo, 5f jump+demo
    2,Z,O
    4,R,Z,O
    7,R
@@ -586,9 +603,11 @@ console load Celeste/2-OldSite
    4,L,D
   39,L
    1,R,D
+# middle
   16,R,D,C,O
    7,R,D
   20,D
+# barricade
   13,L,D,C,O
   16,L,D
   12,L,D,J
@@ -600,6 +619,7 @@ console load Celeste/2-OldSite
 
 # 2
   80,R,D
+# when you see snow
   11,R,D,C,O
    2,R,D
    2,R,D,J
@@ -697,6 +717,7 @@ console load Celeste/2-OldSite
 # 13
   15,R
   25
+# wait until you see collect
    1,S
    1,U,J
    1,O
