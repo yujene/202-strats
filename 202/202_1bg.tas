@@ -405,6 +405,7 @@ console hard Celeste/1-ForsakenCity
 # climb to top
   27,R,U,G,N
   18,L,U,G,N
+# jump end of track
   35,L,U,J,G,N
   13,L,U,J,C,G,N,O
   12,L,J
