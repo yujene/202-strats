@@ -34,6 +34,7 @@ console rmx2 Celeste/2-OldSite
    1
   12,L
    3
+# take your time here
    1,R
    5,R,J
    5,J
@@ -110,6 +111,7 @@ console rmx2 Celeste/2-OldSite
 # don't fast fall
   26,R
    8,R,J
+# release jump around coin height
   17,R
    6,R,C,O
   16,R
