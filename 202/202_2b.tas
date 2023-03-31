@@ -179,6 +179,7 @@ console hard Celeste/2-OldSite
    1,G,N
    5
    3,U
+# buffered up dash
    6,U,C,O
    7,C,O
    5
@@ -206,6 +207,7 @@ console hard Celeste/2-OldSite
    4,C,O
   27
    1,L
+# hit wall
    9,L,D,C,O
    3,D,C,O
    5,D
@@ -213,6 +215,7 @@ console hard Celeste/2-OldSite
    2,R,D
    9
    1,L
+# land before dash
    9,L,C,O
    2,C,O
    6
@@ -221,6 +224,7 @@ console hard Celeste/2-OldSite
   14,R,D,C,O
    9
    1,R
+# confirm low enough first
    9,R,Z,O
    2,L
    5,L,G,N
@@ -353,12 +357,15 @@ console hard Celeste/2-OldSite
   11,L,D,C,O
    2,L,D
   13,D
+# late downright
   12,R,D,C,O
   26,R,D
+# short hyper upright
    3,R,D,C,O
    4,R,D,J,C,O
    7,R,D
    4,R
+# buffer everything from here
    2,R,C,O
   13,R,U,C,O
    1,R,C,O
@@ -373,6 +380,7 @@ console hard Celeste/2-OldSite
    1,R,C,O
    6,R
   45,R,D
+# on landing
   14,D,C,O
   25,D
    4
@@ -398,9 +406,11 @@ console hard Celeste/2-OldSite
    2,C,O
   44,L
    1
+# far left
    9,U,C,O
    1,L,C,O
    3,L
+# grab low
   79,L,G,N
    5,L,Z,G,N,O
    6,L,G,N
@@ -409,6 +419,7 @@ console hard Celeste/2-OldSite
   18
    1,G,N
    8,R,G,N
+# black line
   16,G,N
    2,L,G,N
    8,L,J,G,N
@@ -513,6 +524,7 @@ console hard Celeste/2-OldSite
   13,U,C,O
    1
   45,R,G,N
+# release directions briefly
    4,G,N
   38,R,J,G,N
    1,J,G,N
@@ -532,6 +544,7 @@ console hard Celeste/2-OldSite
    5
    9,L,U
   18,L,U,C,O
+# small jump
    1,L,U,J,C,O
    3,L,U,J
    9,L,U
@@ -578,6 +591,7 @@ console hard Celeste/2-OldSite
    3,L,D
    5,L
    1,J
+# jump to left wall
    2,U,J
    4,U,J,C,O
    7,U,C,O

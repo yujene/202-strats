@@ -22,6 +22,7 @@ console hard Celeste/6-Reflection
    3
    4,L
   45
+# after left spinner
    1,L
    9,L,J
    5,L
@@ -35,6 +36,7 @@ console hard Celeste/6-Reflection
   10,R,D
   17,D
   31
+# as you clear wall
   13,R,J
    3,R
    3
@@ -111,6 +113,7 @@ console hard Celeste/6-Reflection
    8,L,D,C,O
    4,L,D
   25,L,J
+# tip
   10,L,U,J,Z,O
    6,L,U,J
    1,L,J
@@ -173,6 +176,7 @@ console hard Celeste/6-Reflection
   12,L,G,N
   12,G,N
    3,D,G,N
+# head with spinner spike
    8,G,N
   41,R,J,G,N
   19,R,U,J,Z,G,N,O
@@ -203,6 +207,7 @@ console hard Celeste/6-Reflection
 # a-04
   33,R
   13
+# no boost
    6,L,C,O
    4,C,O
   15
@@ -211,15 +216,19 @@ console hard Celeste/6-Reflection
    8,U,C,O
    2,C,O
    3
+# no boost
   14,L
   26
+# crystal
    1,U,C,O
    8,R,U,C,O
    2,R,C,O
   18,R
   27
   19,L
+# boost
   20,R,G,N
+# pause up dash
    9,R,G,S,N
    1,R,G,N
    2,G,N
@@ -230,12 +239,15 @@ console hard Celeste/6-Reflection
    1,U,G,N
   52,L,U,G,N
    1,R,G,N
+# bg tile
   47,R,J,G,N
   46,R,J
+# vert align spinner
   10,R,U,J,C,O
    1,R,J,C,O
   17,R,J
   16
+# vert align spinner
   18,L
    1
   20,R
@@ -250,10 +262,12 @@ console hard Celeste/6-Reflection
   40
 
 # a-05
+# full height
   10,R,J
   26,J
    1,L,J
    5,L,J,C,O
+# no boost
    5,J,C,O
   30
    1,C,O
@@ -262,11 +276,14 @@ console hard Celeste/6-Reflection
   18,R
   16
    1,U
+# buffer up dash
    6,U,C,O
    3,C,O
    2
   23,R
+# buffer jump off
   66,R,J
+# upright to hit top
    9,R,U,J,Z,O
    2,R,J,Z,O
    3,R,J
@@ -282,10 +299,12 @@ console hard Celeste/6-Reflection
   11,R,J,G,N
    6,R,G,N
    3,G,N
+# climbjump straight up
    7,J,G,N
    6,R,D,C,G,N,O
    4,R,D,C,O
    2,R,D
+# low wavedash
    1,R,D,J
    4,R,J
   32,R
@@ -293,6 +312,7 @@ console hard Celeste/6-Reflection
    1,R,U
   24,R
   63,R,J
+# under spinner
    1,R,J,Z,O
    8,R,U,J,Z,O
   20,R
@@ -402,6 +422,7 @@ console hard Celeste/6-Reflection
    5,L
   13
   16,L
+# wait until recoil hits ceiling
   11,L,C,O
    1,L
   30
@@ -440,6 +461,7 @@ console hard Celeste/6-Reflection
    5,R,D,J,C,O
    1,R,D,C,O
   10,R,D
+# high jump to line up
   16,R,D,J
    2,R,J
    1,J
@@ -523,6 +545,7 @@ console hard Celeste/6-Reflection
    3,D,G,N
    7,G,N
    5,L,G,N
+# small jump mid room
    1,L,J,G,N
    1,L,J
    7,L
@@ -543,6 +566,7 @@ console hard Celeste/6-Reflection
   37,R,D
    2,D
    1,L,D
+# after bg tiles
   22,L,D,J
   29,L,D
   18,D
@@ -562,6 +586,7 @@ console hard Celeste/6-Reflection
 # b-03
    5,R
    3
+# corner
   11,L,D,C,O
    4,L,D
    9,L,D,C,O
@@ -570,6 +595,7 @@ console hard Celeste/6-Reflection
   42,R,J
    2,J
   39
+# no boost
    8,C,O
   50
   15,L
@@ -580,7 +606,9 @@ console hard Celeste/6-Reflection
   10,R,C,O
   15,R
   14
+# hold right after gap
   32,R
+# no boost
   29
    1,C,O
    6,L,C,O
@@ -592,6 +620,7 @@ console hard Celeste/6-Reflection
    7,R,D
    7,R,D,C,O
    5,R,D
+# wavedash underwater
    3,R,D,J
    7,R,J
    3,R
@@ -601,6 +630,7 @@ console hard Celeste/6-Reflection
    2
    7,R
    3,R,D
+# wavedash into right dashes
    9,R,D,C,O
    2,R,D
    1,R
@@ -613,7 +643,9 @@ console hard Celeste/6-Reflection
   40
 
 # b-04
+# max height transition super
   93,R,J
+# release right before gap
   10,J
   10
   20,L
@@ -657,6 +689,7 @@ console hard Celeste/6-Reflection
    1,D
    7
    2,R
+# land first
    8,R,C,O
    4,R
   32,R,J
@@ -678,14 +711,17 @@ console hard Celeste/6-Reflection
   29,L,G,N
    5,L
   49,L,D
+# before bg tile
    2,L,D,J
    1,D,J
   50,R,D,J
   31,R,D
    9,D
   12,R,D
+# land left
    8,R,D,C,G,N,O
    3,R,D,G,N
+# hyper, 1 waterboost
    3,R,D,J,G,N
    2,R,J,G,N
   20,R,K,G,N
@@ -695,9 +731,11 @@ console hard Celeste/6-Reflection
   40
 
 # b-06
+# max height transition super
   79,R,J
    9,J
    1
+# turn after gap
   16,L
    8
   16,R
@@ -706,15 +744,18 @@ console hard Celeste/6-Reflection
    4,G,N
    6,D,G,N
    4,G,N
+# grab between stem and bg tile
    2,L,G,N
   10,L,J,G,N
    1,L,J
+# fast fall
   38,L,D,J
   39,L,D
    1,L
   12,G,N
    9,D,G,N
    5,G,N
+# spinner to the right
    3,R,G,N
   37,R,J,G,N
   12,J
@@ -722,8 +763,10 @@ console hard Celeste/6-Reflection
   12,L
    8,L,G,N
    8,G,N
+# spinner to the right
    2,R,G,N
   34,R,J,G,N
+# middle crystal
    9,R,U,J,Z,G,N,O
    2,R,J,Z,G,N,O
    8,R,G,N
@@ -742,6 +785,7 @@ console hard Celeste/6-Reflection
 # b-07
    1,R
   21,R,J
+# 1 tile above
   13,R,J,C,O
   34,R
   20
@@ -790,6 +834,7 @@ console hard Celeste/6-Reflection
   14,R,D,J
    2,D,J
    1,L,D,J
+# into corner
    9,L,D,J,C,O
    1,D,J,C,O
    2,D,C,O
@@ -799,10 +844,12 @@ console hard Celeste/6-Reflection
    5,C,O
    2
    3,G,N
+# pause until hand passes ledge
    5,G,S,N
   17,G,N
    3,J,G,S,N
    4,G,N
+# neutral max height super
    5,J,G,S,N
    1,J,G,N
   33,J,G,S,N
@@ -811,6 +858,7 @@ console hard Celeste/6-Reflection
    7,C,O
    7
   27,G,N
+# pause early
    6,G,S,N
   13,G,N
    3,G,S,N
@@ -830,6 +878,7 @@ console hard Celeste/6-Reflection
    6,G,S,N
   10,G,N
   10,L,G,N
+# cue relative to spike below
    4,L,J,Z,G,N
    4,L,G,N
    6,L,J,Z,G,N
@@ -855,6 +904,7 @@ console hard Celeste/6-Reflection
    9,R,Z,O
   12,R
   16
+# adjust
    5,R
   34
    2,L
@@ -915,6 +965,7 @@ console hard Celeste/6-Reflection
    3,R,D
   11,R,D,C,O
    8,R,D
+# grounded ultra to clear water easily
    8,R,D,C,O
    3,R,D
    5,R,D,J
@@ -939,6 +990,7 @@ console hard Celeste/6-Reflection
   10,R,Z,O
   23,R
   26
+# straight up
   11,U,C,O
    1,U
    3
@@ -955,6 +1007,7 @@ console hard Celeste/6-Reflection
   13,R,C,O
    7,R
   37,R,U
+# upright and hold right
    9,R,U,C,O
    3,R,U
   29,R,U,G,N
@@ -967,16 +1020,19 @@ console hard Celeste/6-Reflection
    8,R,D,C,O
    3,R,D
    1,R
+# low hyper
    5,R,J
   10,R
    2,R,U
   16,R,U,C,O
   18,R,U
   26,R
+# buffer approaching bg tile
   17,R,C,O
    2,R
   24,R,D
    2,R,D,C,O
+# low hyper to badeline
    7,R,D,J,C,O
   40
 
@@ -984,10 +1040,13 @@ console hard Celeste/6-Reflection
   32,R,D
   10,R
   32,R,U
+# left of tip
    8,R,U,C,O
    1,R,U,C,G,N,O
   22,R,U,G,N
+# vert align dash crystal
   46,R,U,J,G,N
+# bufferable upright
    4,R,U,J,C,G,N,O
    4,R,U,J,C,O
    1,R,U,C,O
@@ -1025,6 +1084,7 @@ console hard Celeste/6-Reflection
   42,L
    2
    1,U
+# tip
   10,U,C,O
    1,U
    1
@@ -1081,8 +1141,10 @@ console hard Celeste/6-Reflection
    1
    2,J
   15,R,J
+# bg tile
   21,R,J,C,O
   12,R,J
+# no boost
   41,R
   28,R,D
   34,R
@@ -1115,10 +1177,12 @@ console hard Celeste/6-Reflection
   12,R
   12,R,C,O
    9,R
+# delay dash to feather
   13,R,C,O
    1,R
    3
   39,U
+# curve far left
   10,L,U
    4,U
    5,R,U
@@ -1147,18 +1211,17 @@ console hard Celeste/6-Reflection
   40
 
 # c-04
-   1,R,D
-   9,R,D,C,O
-   4,R,D
-  12,R,D,J
-   1,D,K
-   6,K
-  38
+# transition hyper to wall
+  24,R,J,G,N
+   1
+# neutral
+  54,J
    8,L,Z,O
-  39
+  40
+# low jump around crystal
    1,J
    3,R,J
-  18,R
+  19,R
    1,R,U
    5,R,U,Z,O
    3,R,U
@@ -1177,6 +1240,7 @@ console hard Celeste/6-Reflection
    1,D
    6,L
   31,L,G,N
+# at wall
   12,R,D,C,G,N,O
    1,R,D,G,N
    8,G,N
@@ -1211,6 +1275,7 @@ console hard Celeste/6-Reflection
    8,R,U,J,Z,O
    1,R,J
   58,R
+# buffer at bg tile
   29,R,C,O
   17,R
    1,R,C,O
@@ -1244,21 +1309,26 @@ console hard Celeste/6-Reflection
   25,R,G,N
   31,R,J,G,N
    3,J,G,N
+# aim center gap
   28,J
    2,L,D,J
+# aim middle block
    8,L,D,J,C,O
    1,L,J,C,O
    2,C,O
   26
   11,L,G,N
+# grab high
   13,L,U,G,N
    1,G,N
   22,R,G,N
   43,R,J,G,N
    1,R,U,J,G,N
+# after mid spinner above
   10,R,U,J,Z,G,N,O
    1,R,J,Z,G,N,O
    7,R,J,G,N
+# buffer right dash
   17,R,J,C,G,N,O
    9,J,G,N
   10,L,J,G,N
@@ -1266,8 +1336,11 @@ console hard Celeste/6-Reflection
    2,L,D,G,N
   24,L,G,N
    3,L,D,G,N
+# hand with line
   69,L,G,N
+# when crystal spawn
    8,L,C,G,N,O
+# hold left+grab after dash
   34,L,G,N
   16,G,N
    7,J,G,N
@@ -1280,18 +1353,23 @@ console hard Celeste/6-Reflection
   12,U,J,C,O
    1,U,C,O
    1,U
+# exit middle
   40
 
 # d-01
+# neutral
   13,U
+# upright and neutral
   11,R,U,C,O
    1,R,C,O
   17,R
    1,R,D
+# instant hyper on landing
    3,R,D,C,O
    5,R,D,J,C,O
    6,R,D,J
   26,R,J
+# buffer jump
   14,R,K
   10,U,K,C,O
    2,K
@@ -1305,15 +1383,18 @@ console hard Celeste/6-Reflection
    2,L,J
    2,L,J,G,N
   32,L,G,N
+# grab low
   10,L,D,G,N
   15,L,G,N
    4,L,D,G,N
   11,L,G,N
    3,R,G,N
+# after block comes up
    7,R,C,G,N,O
   11,R,G,N
    4,R,J,G,N
   13,R,G,N
+# max height
   14,R,J,G,N
    5,J
    6
@@ -1325,6 +1406,7 @@ console hard Celeste/6-Reflection
   21,R,C,O
    4
   24,D
+# buffer at bg tile
   22,D,C,O
    1,D
    3,L,D
@@ -1336,6 +1418,7 @@ console hard Celeste/6-Reflection
   10,R,K,C,G,N,O
    2,R,C,G,N,O
   53,R,G,N
+# buffer at edge below
   20,R,C,G,N,O
    6,R,G,N
   20,R,D,G,N
@@ -1348,6 +1431,7 @@ console hard Celeste/6-Reflection
   12
    9,R
   18
+# no boosts
    5,L,C,O
    3,C,O
   28
@@ -1356,6 +1440,7 @@ console hard Celeste/6-Reflection
    4,C,O
   24
    1,R,D
+# pillar
   11,R,D,C,O
    1,D
   18
@@ -1376,13 +1461,16 @@ console hard Celeste/6-Reflection
   12,R
    9,R,D
    4,R
+# grab wall before drop
   12,R,G,N
   16
+# neutral right dash to bumper
    8,Z,O
   69
    2,R
   13,R,G,N
    3,G,N
+# climbjump top pixel
   34,J,G,N
    2,K,G,N
   21,R,K,G,N
@@ -1399,6 +1487,7 @@ console hard Celeste/6-Reflection
    3,D
   13,R,D
    3,R,D,C,O
+# pause 1f hyper
    1,R,D,C,S,O
    8,R,D,S
    8,R,D
@@ -1407,12 +1496,14 @@ console hard Celeste/6-Reflection
    9,R,D,J,S
    5,R,D
    7,R,D,S
+# hold downright
   21,R,D
   40
 
 # d-03
   26,R,D
    9,R
+# demo gap
    8,R,Z,O
   23,R
    7,R,J
@@ -1423,11 +1514,13 @@ console hard Celeste/6-Reflection
   10,R
   75,D
    6
+# turn after spinners
   20,L
   12,L,Z,O
   23,L
   13,L,J
    2,L,D
+# don't demohyper
    7,L,D,C,O
    2,L,C,O
    2,L
@@ -1437,6 +1530,7 @@ console hard Celeste/6-Reflection
   43,R
   31
    9,L
+# wait
   60,L,G,N
    1,G,N
   18
@@ -1453,9 +1547,12 @@ console hard Celeste/6-Reflection
    4
   68,D
    9
+# dash from wall
   14,L,Z,O
   27
+# hold left after bumper hit
   39,L
+# bg tile
    7,L,U,Z,O
   73,L
    1,L,D
@@ -1463,6 +1560,7 @@ console hard Celeste/6-Reflection
    6,L,D
   71,D
    4
+# under spinner and hold right
   12,R,Z,O
   23,R
   17,R,J
@@ -1470,6 +1568,7 @@ console hard Celeste/6-Reflection
    1,R,C,O
   21,R
    8
+# instant super to badeline
    2,R,C,O
    3,R,J,C,O
   29,R,J
@@ -1480,6 +1579,7 @@ console hard Celeste/6-Reflection
   15,R
    6,R,J
    1,R
+# wavedash bhop
    7,R,D,C,O
    1,R,D,J,C,O
   40
@@ -1501,16 +1601,19 @@ console hard Celeste/6-Reflection
   16,R,U
   27,R
    2,R,D
+# bg tile corner
    7,R,D,C,O
    1,R,C,O
   77,R
   14,R,U
+# up to bg tile line
   14,R
   10,R,U
    9,U,C,O
    1,R,U,C,O
   26,R,U
    4,U
+# boost into block
   40,L,U
    9,U
   11,R,U
@@ -1522,6 +1625,7 @@ console hard Celeste/6-Reflection
   15
    9,L
   31,R
+# don't greed this feather
    9,R,U,C,O
    1,R,C,O
    6,R
@@ -1566,6 +1670,7 @@ console hard Celeste/6-Reflection
    3,R
   30,R,J
    1,R,U,J
+# bg tile edge
    8,R,U,J,C,O
    2,R,J,C,O
   24,R,J
@@ -1599,6 +1704,7 @@ console hard Celeste/6-Reflection
    8,R,U,C,O
    2,R,C,O
   23,R
+# wait
   58
    2,L
   36
@@ -1618,4 +1724,4 @@ console hard Celeste/6-Reflection
    1,O
   31
 
-FileTime: 5:00.390(17670)
+FileTime: 5:00.611(17683)

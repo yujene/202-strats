@@ -9,6 +9,7 @@ console hard Celeste/5-MirrorTemple
    3,R,D,J,C,O
    1,R,D,J
    9,R,D
+# hyper bhop grounded ultra berry grab
    2,R,D,C,O
    1,R,D,J,C,O
    2,R,D,J
@@ -94,8 +95,10 @@ console hard Celeste/5-MirrorTemple
    1,R
   10,R,C,O
   33,R
+# vine
   10,R,D,C,O
    1,R,C,O
+# don't jump
   16,R
   40
 
@@ -120,6 +123,7 @@ console hard Celeste/5-MirrorTemple
    5,R,J,G,N
    8,R,U,J,G,N
   14,R,U,G,N
+# 2 jumps from top of block
    3,R,U,J,G,N
   29,R,U,K,G,N
    8,R,U,J,G,N
@@ -143,6 +147,7 @@ console hard Celeste/5-MirrorTemple
 
 # central chamber
 # b-00
+# small jump
    1,R,J,G,N
    4,R,G,N
    1,G,N
@@ -172,6 +177,7 @@ console hard Celeste/5-MirrorTemple
    2,U
    7
   29,L
+# bonk
    8,L,C,O
   17,L
    3,L,C,O
@@ -187,6 +193,7 @@ console hard Celeste/5-MirrorTemple
    3,L,D,C,O
   14,L,D
    2,L
+# confirm landing
    2
    5,R,J
   11,R
@@ -197,12 +204,14 @@ console hard Celeste/5-MirrorTemple
   19,L
    9,L,G,N
    3,L,J,G,N
+# buffer left climbjump
   15,L,K,G,N
    9,L,G,N
   12
    1,G,N
    9,R,G,N
    5,R,J,G,N
+# climbjump top of block
   17,R,K,G,N
    4,R,G,N
   12
@@ -211,12 +220,14 @@ console hard Celeste/5-MirrorTemple
   15,R,J
   26,R
   15
+# right of block
    8,U,C,O
    5,C,O
    1
    1,G,N
    8,L,G,N
    8,L,U,G,N
+# climb to top
    8,U,G,N
   15,R,U,J,G,N
   13,R,U,K,G,N
@@ -270,14 +281,17 @@ console hard Celeste/5-MirrorTemple
    1,C,O
   13,U,C,O
    7
+# grab after up dash
  118,L,G,N
   40
 
 # b-06
+# buffer late jump hyper
    8,L,D,C,O
    4,L,D
    1,L
   29,L,J
+# under bubble
    5,L,U,J,Z,O
    2,L,J,Z,O
    1,L,Z,O
@@ -359,10 +373,13 @@ console hard Celeste/5-MirrorTemple
    5,L,G,N
    8,L,C,G,N,O
    4,L,G,N
+# near fast bubble
    7,L,C,G,N,O
   21,L,G,N
+# buffer climbjump
   39,L,J,G,N
    1,L,J
+# near fast bubble
    1,J,C,O
    8,U,J,C,O
    5,U,C,O
@@ -375,13 +392,17 @@ console hard Celeste/5-MirrorTemple
   29,D
    1
    2,L
+# don't buffer this bubble
    8,L,C,O
    3
    1,U
+# buffer up dash
   14,U,C,O
    2,C,O
+# bufferable wallbounce
    3,L,J,C,O
   15,L,J
+# near fast bubble
    9,L,C,O
   22,L
    1
@@ -400,6 +421,7 @@ console hard Celeste/5-MirrorTemple
   13,U,C,O
    1,C,O
   11
+# adjust based on cycle
   21,L,Z,O
    2,Z,O
    1
@@ -426,6 +448,7 @@ console hard Celeste/5-MirrorTemple
    1,L
    1
   26,R,J
+# mid corridor
   17,R,J,C,O
    4,R,J
    1,J
@@ -447,8 +470,10 @@ console hard Celeste/5-MirrorTemple
    5,G,N
    5,U,G,N
   21,G,N
+# spinner above
   11,J,G,N
    1,D,J,G,N
+# when over spring
    1,D,J,C,O
    9,D,C,O
    1,D
@@ -497,19 +522,24 @@ console hard Celeste/5-MirrorTemple
    8,L,C,O
    4,L
   12,L,J
+# upleft into wall
   13,L,U,J,Z,O
   40
 
 # b-09
   14,L,U
+# upleft, buffer jump into bubble
   17,L,U,C,O
   14,L,U,J,C,O
    1,J,C,O
    2
+# slow bubble
   34,R
+# between or right spinner
    8,R,C,O
    2,R
   35
+# slightly not buffered
    1,C,O
    8,U,C,O
    1,C,O
@@ -528,6 +558,7 @@ console hard Celeste/5-MirrorTemple
    8,U,C,O
   16,U
   30
+# middle
    9,R,C,O
    2,R
  135,R,G,N
@@ -541,6 +572,7 @@ console hard Celeste/5-MirrorTemple
   48,L
   12
   10,R
+# delay at wall
    1,J
   16,L,J
   14,J
@@ -552,12 +584,14 @@ console hard Celeste/5-MirrorTemple
    5,U,J,C,O
    5,U,C,O
   34,U
+# archie
    8,U,Z,O
    2,U
    2
    8,R,Z,O
    2,R
   25
+# 5f up demo
    1,Z,O
    8,U,Z,O
    1,U
@@ -602,6 +636,7 @@ console hard Celeste/5-MirrorTemple
    5,L,D
    1,L
   16
+# madeline disappear cue
    3,S
    4
    1,D,Z,O
@@ -611,16 +646,20 @@ console hard Celeste/5-MirrorTemple
 # through the mirror
 # c-00
  207
+# downright then neutral
   10,R,D,C,O
    1,C,O
   47
    9,L
    1
+# low wall
    1,J
   11,R,J
+# fast fall to clear wall
   42,R,D,J
    2,R,J
    2,J
+# low wall
   30,L,K
   12,K
    9,R,K
@@ -648,15 +687,19 @@ console hard Celeste/5-MirrorTemple
   37,L,J
    1,J
    7
+# grab right wall
   16,R,G,N
    1,G,N
   16
+# neutral left dash
    5,L,Z,O
    3,Z,O
    4
   32,D
+# fast fall left into gap
   11,L,D
    8,D
+# fast fall right to exit
   36,R,D
    8,R,D,C,O
    4,R,D
@@ -668,9 +711,11 @@ console hard Celeste/5-MirrorTemple
   40
 
 # c-01
+# small hyper
    3,R,J
   11,R
    3
+# buffer up demo wallbounce
    5,U,Z,O
    3,U
    2
@@ -699,6 +744,7 @@ console hard Celeste/5-MirrorTemple
    4,R,D
    1,R
   19,R,J
+# eye
    8,R,U,J,C,O
   51,R,J
   61,R
@@ -707,6 +753,7 @@ console hard Celeste/5-MirrorTemple
    3,R,C,O
    1,R
    9,R,G,N
+# corner
   13,R,J,G,N
    5,G,N
    3,L,G,N
@@ -716,12 +763,14 @@ console hard Celeste/5-MirrorTemple
    2,R,G,N
   11,R,J,G,N
   37,R,K,G,N
+# middle window
   11,R,U,K,C,G,N,O
    1,R,C,G,N,O
    7,R,G,N
    5,R,D,G,N
   39,R,D
    1,R
+# grab before drop
    7,R,G,N
   15
    1,G,N
@@ -739,19 +788,23 @@ console hard Celeste/5-MirrorTemple
    7,R,Z,O
    7,R
   27,R,J
+# vine intersection
   14,R,J,C,O
    3,R,J
   53,R
    4
+# vine bend
    7,U,C,O
    4,C,O
   58
    5,L
    5
   42,R
+# after block
    9,R,U,C,O
    1,R,C,O
    1,R
+# grab high
   99,R,G,N
  101,G,N
   18
@@ -783,6 +836,7 @@ console hard Celeste/5-MirrorTemple
    8,R,J,C,O
    1,R,C,O
   16,R
+# jump on left or slow down to avoid cornerglide
   12,R,J
    1,R,J,C,O
    9,R,U,J,C,O
@@ -799,6 +853,7 @@ console hard Celeste/5-MirrorTemple
    3
    1,U
    7,U,C,O
+# late up dash
    2,C,O
    3,C,G,N,O
    1,L,C,G,N,O
@@ -806,6 +861,7 @@ console hard Celeste/5-MirrorTemple
    3,L,J,G,N
    1,J,G,N
    1,G,N
+# confirm landing
   27
   16,R,J
    6,U,J,C,O
@@ -844,7 +900,9 @@ console hard Celeste/5-MirrorTemple
    5,R,D,C,G,N,O
   19,R,G,N
   40,R,J,G,N
+# walljump
   12,R,K,G,N
+# buffer upright regrab
    1,R,K,C,G,N,O
    3,R,U,K,C,O
    6,R,U,K,C,G,N,O
@@ -879,6 +937,7 @@ console hard Celeste/5-MirrorTemple
    4,R,D,J,C,G,N,O
    2,R,D,G,N
   26,R,G,N
+# early jump
   20,R,J,G,N
   10,K,G,N
    2,K
@@ -899,6 +958,7 @@ console hard Celeste/5-MirrorTemple
 
 # d-02
    2,R,G,N
+# small jump
    2,R,J,G,N
   20,R,G,N
   17,R,J,G,N
@@ -935,6 +995,7 @@ console hard Celeste/5-MirrorTemple
    4,R,G,N
   18,R
    1
+# jump and up dash
    1,J
    2,U,J
    2,U,J,C,O
@@ -1028,10 +1089,13 @@ console hard Celeste/5-MirrorTemple
 # d-04
   15,R,J,G,N
   30,R,G,N
+# bottom spinner
    4,R
+# crystal
   11,R,Z,O
    3,Z,O
    3
+# buffer upright
    1,U,C,G,N,O
   13,R,U,C,G,N,O
    1,R,C,G,N,O
@@ -1070,6 +1134,7 @@ console hard Celeste/5-MirrorTemple
    5,R,D,C,G,N,O
    5,R,D,G,N
   15,R,G,N
+# coyote
   54,R,J,G,N
    3,R,J
   10,R,U,J,C,O
