@@ -1,6 +1,13 @@
 # 202 Strats
 202 strat collection where my inputs are recorded into TAS files.  
-Small warning that the TAS files will look very weird because of a combination of InputHistory trying to convert RTA to TAS input poorly, my binds causing a bunch of useless inputs to show up, poorly stitched segment recordings, and me being clueless about TAS formatting or standards.
+Small warning that the TAS files will look very weird because of a combination of InputHistory trying to convert RTA to TAS input poorly, my binds causing a bunch of useless inputs to show up, and poorly stitched segment recordings.
+
+## Files
+**202 folder**: recorded strats per chapter with notes on cues or things I focus on, and some chapters are split into multiple files on rtm or s&q
+
+**202.tas**: combines all files together into a fullgame 202 run with menuing
+
+**WatchChapter.tas**: lets you choose a chapter to watch from beginning to end and logs the chapter's file time, which is useful for chapters split into multiple files
 
 ## Why
 I needed a way to keep track of my 202 strats/notes for memory purposes and the initial approach was to record checkpoint runs, put them together into IL videos with notes in the description, then add it to a [youtube playlist](https://www.youtube.com/playlist?list=PLe4H4cset3iFk3nKlbb8tro8Sx7h7TaCe). I recently found that InputHistory has an experimental way of recording human inputs to TAS files, so now I'm recording all of my strats into TAS files. I plan on recording higher quality videos of each chapter's strats using kkapture once they're finalized, then replacing each video in the youtube playlist.
