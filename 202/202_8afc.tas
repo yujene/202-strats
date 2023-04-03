@@ -19,8 +19,7 @@ console load Celeste/9-Core
    4,S
    1,D,Z,O
    1,Z,O
-   1,C,O
-   5,C,O
+   6,C,O
    1
   25,R
    6,R,Z,O
@@ -62,8 +61,7 @@ console load Celeste/9-Core
   17,R
    1,R,G,N
   22,R,J,G,N
-  11,R,K,G,N
-   2,R,K,G,N
+  13,R,K,G,N
   11,R,G,N
   24,R,J,G,N
    6,R,U,J,C,G,N,O
@@ -128,8 +126,7 @@ console load Celeste/9-Core
   27,R,J,G,N
    4,R,G,N
    1,R,J,G,N
-   2,R,K,G,N
-   2,R,K,G,N
+   4,R,K,G,N
   14,R,G,N
    3,R,J,G,N
   13,R,G,N
@@ -177,14 +174,11 @@ console load Celeste/9-Core
    9,R,U,J,C,O
    2,R,U,J,G,N
    3,R,J,G,N
-   9,R,K,G,N
-   1,R,K,G,N
+  10,R,K,G,N
   13,R,G,N
    8,R,J,G,N
-  10,R,K,G,N
-   5,R,K,G,N
-   8,R,J,G,N
-   5,R,J,G,N
+  15,R,K,G,N
+  13,R,J,G,N
    9,R,K,G,N
   40
 
@@ -254,21 +248,17 @@ console load Celeste/9-Core
   28,L,G,N
 # 3 spaced climbjumps
   16,L,J,G,N
-   9,L,K,G,N
-   4,L,K,G,N
+  13,L,K,G,N
    8,L,J,G,N
-   2,J
-   4,J
+   6,J
 # neutral
    5,K
-  16,L,K
-   3,L,K
+  19,L,K
    1,K
   44,R,J
 # left of column 1
    1,R,J,C,O
-   9,R,U,J,C,O
-   4,R,U,J,C,O
+  13,R,U,J,C,O
   61,R,U
 # bottom of screen
   15,R,U,C,O
@@ -283,24 +273,23 @@ console load Celeste/9-Core
   40
 
 # b-00
-# hyper buffer upright
-   2,R,D,C,O
-   4,R,D,J,C,O
-   5,R,D,J
-   4,R,J
-   1,R,J,C,O
-  14,R,U,J,C,O
-# drift right a bit
-   6,R,U,J
-   4,U,J
-  14,U,J,C,O
-  10,R,U,J
-   4,R,U,J,C,O
-   6,R,U,J,C,G,N,O
-  13,R,U,J,G,N
-   6,R,U,K,G,N
-   5,R,U,K,G,N
-   5,R,U,J,G,N
+   4,R,Z,O
+   6,R,G,N
+   5,R,J,G,N
+  26,R,K,G,N
+# left heart
+   2,R,K,C,O
+  11,U,K,C,O
+   1,U,K
+# drift right
+   9,R,U,K
+   2,U,K
+  12,U,K,C,O
+   2,U,K
+   1,U,K,G,N
+   8,R,K,G,N
+  10,R,J,G,N
+   4,R,K,G,N
   40
 
 # b-07b
@@ -319,8 +308,7 @@ console load Celeste/9-Core
    3,K
   12,J
    1,J,G,N
-  15,R,J,G,N
-   1,R,J,G,N
+  16,R,J,G,N
    1,R,G,N
   31,G,N
    1,U,G,N
@@ -344,8 +332,7 @@ console load Celeste/9-Core
    5,L,J,G,N
   16,L,K,G,N
    1,K,G,N
-   3,U,K,C,O
-   6,U,K,C,O
+   9,U,K,C,O
    1,U,C,O
    2,C,O
   40
@@ -358,10 +345,8 @@ console load Celeste/9-Core
    1,J
    2,L,J
    2,L,J,G,N
-   6,L,K,G,N
-   4,L,K,G,N
-  13,L,J,G,N
-   1,L,J,G,N
+  10,L,K,G,N
+  14,L,J,G,N
   15,L,G,N
    2,L
   23
@@ -381,12 +366,9 @@ console load Celeste/9-Core
    5
    8,J
   16,R,J,G,N
-   7,R,K,G,N
-   5,R,K,G,N
-   5,R,J,G,N
-   5,R,J,G,N
-   5,R,K,G,N
-   4,R,K,G,N
+  12,R,K,G,N
+  10,R,J,G,N
+   9,R,K,G,N
    2,R,J,G,N
   40
 
@@ -394,83 +376,88 @@ console load Celeste/9-Core
 # hot and cold
 # c-00
   13,R
-   3,R,D
-   6,R,D,C,O
-   4,R
+   1,R,D
+   7,R,D,C,O
+   1,R,C,O
+   3,R
    1,R,J
    1,R,U,J
-   5,R,U,J,C,O
+   7,R,U,J,C,O
    3,R,U,C,O
-   1,R,C,O
-  75,R
+  72,R
    3,R,J
   18,R
    5,R,J
-  29,R
-  17,R,J
-  16,R,J,G,N
-  18,R,G,N
-# wait a tad
-# 2 small jumps with one button
-   5,R,J,G,N
-   5,R,G,N
-   8,R,J,G,N
-   2,R,G,N
-  31,R
-# late jump
-   3,R,J
-   7,J
-   1,L,J
-   3,L,J,G,N
-  13,L,G,N
+  18,R
+  10,R,J
+  35,R
+   6,R,U,Z,O
+   2,R,U
+   6,R
+  22,R,J
+# big jump
+  15,R,J,G,N
+  15,R,K,G,N
+   1,K,G,N
+   2,L,K,G,N
+  41,L,J,G,N
+   1,J,G,N
    1,G,N
-   2
-  12,J
-  14,L,J,G,N
-# climbjump into wall and hold for half grav
-  11,L,K,G,N
-   1,L,K,G,N
-  26,L,K
-   8,L,J
-   2,J
-  23,R,J
-  28,R,J
-  22,R,J,G,N
-# grab for a bit before neutral
-   4,R,G,N
-   3
-  12,J
-  23,R,J
-  20,R
-# edge
-   4,R,Z,O
-   5,R
-# left of block above
-  18,R,J
-  15,R
-   1,R,U
-   6,R,U,C,O
-   1,R,U
-  21,R
-  10,R,G,N
-   2,R,J,G,N
-  20,R,K,G,N
+  25,R,G,N
+# a bit after spikes covered or around bg chain
+   3,R,Z,G,N,O
+  21,R,J,Z,G,N,O
+  49,R,J,G,N
+   6,R,K,G,N
+  13,R,G,N
   40
 
 # c-01
-   5,L,U,Z,O
+   2,R
+   7,R,C,O
+   5,R
+# late jump
+  20,R,J
+# bg chain
+   5,R,J,C,O
+   3,R,C,O
+  23,R
+  10,R,C,O
+   3,R
+   1,R,U
+  13,R,U,C,O
+   8,R,U
+  12,R,U,C,O
+   1,R,U
+   6
+   1,L
+# delay up to this dash
+   8,L,C,O
+  15,L
+  11
+# hold jump if early
+  14,L,J
+  34,L
+  16
+  19,L
+  10,L,C,O
+   4,L
+  11,L,C,O
+  17,L
+   7,L,J
   40
 
 # c-00
-  12,U
-   8,U,C,O
-   1,U
-   4
-  11,L,J
-   1,J
-   5,U,J,C,O
-   6,U,C,O
-  40
+  15,L,J
+   1,J,C,O
+   7,U,C,O
+   3,C,O
+   1,L
+  13,L,J
+   3,J
+   9,U,J,C,O
+   3,C,O
+  42
 
 # c-00b
 # max height
@@ -486,8 +473,7 @@ console load Celeste/9-Core
    1,J
    4,R,J
 # buffer reverse manually instead of wavedash timing
-  22,R,K
-  66,R,K
+  88,R,K
 # aim to corner correct
    3,U,K,C,O
    8,U,C,O
@@ -495,8 +481,7 @@ console load Celeste/9-Core
    5,L,C,O
    6,L,J
 # buffer small jump
-   1,L,D,K
-   5,L,D,K
+   6,L,D,K
 # fast fall
   27,L,D
    4,L
@@ -603,10 +588,8 @@ console load Celeste/9-Core
    2,R
    1,R,J
   17,R,J,G,N
-   5,R,K,G,N
-   4,R,K,G,N
-   7,R,J,G,N
-   1,R,J,G,N
+   9,R,K,G,N
+   8,R,J,G,N
    2,R,G,N
   14,R
   40
@@ -638,8 +621,7 @@ console load Celeste/9-Core
    9,L,U,J,Z,O
    1,L,J
    8,L,J,G,N
-   5,L,K,G,N
-   4,L,K,G,N
+   9,L,K,G,N
    8,L,J,G,N
   40,J
 
@@ -654,13 +636,11 @@ console load Celeste/9-Core
    3,R,G,N
 # late wavedash
   15,R,J,G,N
-   4,R,K,G,N
-   4,R,K,G,N
+   8,R,K,G,N
   13,R,J,G,N
    1,R,J
 # right after berry
-   3,R,D,J,C,O
-   9,R,D,J,C,O
+  12,R,D,J,C,O
    3,R,D,C,O
   28,R,D
   40
@@ -677,8 +657,7 @@ console load Celeste/9-Core
 
 # c-04
    9,R,J,G,N
-  24,R,K,G,N
-   2,R,K,G,N
+  26,R,K,G,N
   16,R,G,N
 # medium jump
   10,R,J,G,N
@@ -743,22 +722,17 @@ console load Celeste/9-Core
    1,J
    2,R,J
   14,R,J,G,N
-   5,R,K,G,N
-   3,R,K,G,N
+   8,R,K,G,N
    6,R,J,G,N
   11,R,G,N
   11,R,J,G,N
-  14,R,K,G,N
-   5,R,K,G,N
-   9,R,J,G,N
-   3,R,J,G,N
-  11,R,K,G,N
-   2,R,K,G,N
+  19,R,K,G,N
+  12,R,J,G,N
+  13,R,K,G,N
    2,K
    2,L,K
 # at hole in wall
-  20,L,J
-  18,L,J
+  38,L,J
    7,L,U,J,C,O
   21,L,U,J
    6,L,U,J,Z,O
@@ -766,8 +740,7 @@ console load Celeste/9-Core
    1,L,J
    4,J
    9,K
-  11,R,K,G,N
-   6,R,K,G,N
+  17,R,K,G,N
   12,R,J,G,N
   25,R,G,N
   12,R,J,G,N
@@ -790,10 +763,8 @@ console load Celeste/9-Core
    4
 # neutral climbs
   17,J
-   1,J,G,N
-   3,J,G,N
-   6,K,G,N
-   4,K,G,N
+   4,J,G,N
+  10,K,G,N
    8,J,G,N
   40
 
@@ -870,8 +841,7 @@ console load Celeste/9-Core
    2
    5,J
   11,R,J,G,N
-   5,R,K,G,N
-   4,R,K,G,N
+   9,R,K,G,N
 # high climbjump
   21,R,J,G,N
    1,R,U,J,C,O
@@ -962,14 +932,11 @@ console load Celeste/9-Core
    1,J
    1,R,J
    1,R,K
-   8,R,K,G,N
-   4,R,K,G,N
-   8,R,J,G,N
-   2,R,J,G,N
+  12,R,K,G,N
+  10,R,J,G,N
    1,J,G,N
    2,L,J,G,N
-  11,L,K,G,N
-   1,L,K,G,N
+  12,L,K,G,N
   21,L,G,N
    8,L,J,G,N
   32,L,J
@@ -978,15 +945,12 @@ console load Celeste/9-Core
   24,L
    2,L,G,N
   25,L,J,G,N
-   8,L,K,G,N
-   4,L,K,G,N
-   7,L,J,G,N
-   1,L,J,G,N
+  12,L,K,G,N
+   8,L,J,G,N
    2,L,J
    1,J
    1,R,J
-  12,R,K
-   5,R,K
+  17,R,K
    8,R
   20,R,J
   17,R
@@ -1081,8 +1045,7 @@ console load Celeste/9-Core
    3,K,G,N
    1,R,K
   29,R,J
-   1,R,U,J,Z,O
-  17,R,U,J,Z,O
+  18,R,U,J,Z,O
    2,U,J,Z,O
    1,U,J
    3,U,J,C,O
@@ -1090,23 +1053,20 @@ console load Celeste/9-Core
    4,C,O
   17,R,J
    3,R,J,G,N
-   7,R,K,G,N
-   3,R,K,G,N
+  10,R,K,G,N
    1,L,K
-  21,L,J
-  11,L,J
+  32,L,J
   56,L,J,G,N
 # 2 quick jumps
-   5,L,K,G,N
-   1,L,K,G,N
+   6,L,K,G,N
    1,L,K
    2,R,K
-   6,R,J
-   2,R,J
+   8,R,J
   12,R
   20,R,J
    9,R
   31,R,J
+# upright if low
   14,R,J,C,O
    3,R,J
   23,R
@@ -1162,8 +1122,7 @@ console load Celeste/9-Core
    5,R,Z,G,N,O
    6,R,G,N
   36,R,J,G,N
-   8,R,K,G,N
-   1,R,K,G,N
+   9,R,K,G,N
    5,R,G,N
    6,R
   13,R,J
@@ -1218,10 +1177,8 @@ console load Celeste/9-Core
   31,R
    4,R,G,N
   34,R,J,G,N
-   8,R,K,G,N
-   6,R,K,G,N
-  15,R,J,G,N
-   1,R,J,G,N
+  14,R,K,G,N
+  16,R,J,G,N
   11,R,G,N
    2,R
    6
@@ -1266,12 +1223,9 @@ console load Celeste/9-Core
   19,R
    7,R,J
    5,R,J,G,N
-   6,R,K,G,N
-   7,R,K,G,N
-   7,R,J,G,N
-   6,R,J,G,N
-   9,R,K,G,N
-   1,R,K,G,N
+  13,R,K,G,N
+  13,R,J,G,N
+  10,R,K,G,N
   12,R,G,N
    7,R
   40
@@ -1315,8 +1269,7 @@ console load Celeste/9-Core
    2,R,C,G,N,O
   15,R,G,N
    6,R,J,G,N
-   8,R,K,G,N
-   2,R,K,G,N
+  10,R,K,G,N
    2,R,G,N
   24,R
    7,R,C,O
@@ -1409,25 +1362,20 @@ console load Celeste/9-Core
   15,R
   20,R,J
   12,R,J,G,N
-   5,R,K,G,N
-   5,R,K,G,N
-   5,R,J,G,N
-   4,R,J,G,N
-   2,R,K,G,N
-   1,R,K,G,N
+  10,R,K,G,N
+   9,R,J,G,N
+   3,R,K,G,N
   10,R,G,N
   10,R
   26,R,J
   44,R
  193
    1,J,Z
-   2,C,O
-   2,C,O
+   4,C,O
    1
    3,J,Z
    1
-   4,C,O
-   1,C,O
+   5,C,O
    1,J,Z
    1
    4,C,O
@@ -1528,4 +1476,4 @@ console load Celeste/9-Core
    1,O
   31
 
-FileTime: 3:56.674(13922)
+FileTime: 3:57.915(13995)
