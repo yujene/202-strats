@@ -733,53 +733,55 @@ console load Celeste/5-MirrorTemple
   10,L,U,J,C,O
    1,L,U,C,O
    4,L,U
+   7,L,U,C,O
+   4,L,U
   10,L,U,C,O
-   9,L,U
-   3,L
+   2,L
    2
-   2,C,O
-   7,D,C,O
+  10,D,C,O
    7,D
   12
-   1,R,U
-   7,R,U,C,O
-   2,R,U
-   2,R
-   4,R,G,N
-   7,R,J,G,N
-   6,R,G,N
-  13,R
-   4,R,U,C,O
+   1,U
+   1,R,U,G,N
+# a bit low
+  10,R,U,C,G,N,O
+   5,R,U,G,N
+# don't buffer climbjump
+   4,R,U,J,G,N
+   6,R,U,J
+  13,R,U
+  10,R,U,C,O
    4,R,U
-  20,R
+  14,R
+# hitsquash
+  29,R,J
+   7,R,J,C,O
    4,R,C,O
-  18,R
-   1,R,D
-   4,R,D,C,O
-   6,R,D
-   1,R
-   5
    2,L
-  29,L,J
-# dash after passing bubble spawn circle
-   3,L,J,C,O
-   1,L,C,O
-  27,L
-  10,L,D
-   9,D
-   2
-   1,R
-   9,R,C,O
-  23,R
-   1
-   1,L
-  11,L,C,O
-  16,L
-   2,L,D
-   5,L,D,C,O
+  12,L,J
+   2,L,D,J
    4,L,D,J,C,O
+   6,L,D,C,O
+   1,L,D
+   1,L
+  10,L,C,O
+   1,L,D,C,O
+  21,L,D
+# can't hold left whole time
+  16,D
+   1,D,C,O
+   2,R,D,C,O
+  22,R,C,O
+  12,R
+   1,R,C,O
+  12,L,C,O
+  13,L
+   2,L,D
+   6,L,D,C,O
+   3,L,D,J,C,O
+   3,L,D,J
    8,L,D
-   7,D
+   8,D
   40
 
 # a-12
@@ -2129,4 +2131,4 @@ console load Celeste/5-MirrorTemple
    1,S,O,F,180
   31
 
-FileTime: 4:44.444(16732)
+FileTime: 4:44.376(16728)
