@@ -940,7 +940,7 @@ console load Celeste/4-GoldenRidge
 # right walljump
   39,R,J,G,N
    2,R,D,J,G,N
-# release jump and fast fall
+# wait for grab then fast fall
   27,R,D,G,N
    3,R,D,J,G,N
   13,R,J,G,N

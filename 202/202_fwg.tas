@@ -1220,6 +1220,7 @@ console load Celeste/LostLevels
   28,R,G,N
    5,R
   14
+# wait fall around second bg tile
    7,U,C,O
    2,C,O
    3
@@ -1287,8 +1288,10 @@ console load Celeste/LostLevels
   29,G,N
   12,R,G,N
   12,G,N
+# try to be centered
    4,L,G,N
   22,G,N
+# throw low spinner
    4
    1,G,N
   13,R,G,N
@@ -1481,6 +1484,7 @@ console load Celeste/LostLevels
   13,J
    2,R,J
    5,R,J,G,N
+# pause early
   10,R,K,G,S,N
    8,R,K,G,N
    5,R,J,G,S,N
@@ -1507,6 +1511,7 @@ console load Celeste/LostLevels
 
 # e-08
   17,R,J
+# bg floaty
    1,R,J,C,O
    9,R,U,J,C,O
    5,R,J
@@ -1517,6 +1522,7 @@ console load Celeste/LostLevels
   14,R,G,N
   10,R,D,G,N
   38,R,G,N
+# block centered on barrier
   21,R
   12,R,C,O
    7,R
@@ -1543,6 +1549,7 @@ console load Celeste/LostLevels
   15
    8,L
    9,L,G,N
+# hand slightly above arrow
   24,G,N
   16,R,G,N
    3,R,U,G,N
@@ -1680,9 +1687,11 @@ console load Celeste/LostLevels
    4,R
   22,R,J
    1,R,U,J
+# upright before spike
    7,R,U,J,C,O
    2,R,J,C,O
   21,R,J
+# delay right
    5,R,J,C,O
    2,R,C,O
   16,R
@@ -1703,8 +1712,10 @@ console load Celeste/LostLevels
   10,R,D,C,O
    1,R,D
    2,R
+# wavedash don't ultra
   16,R,J
    1,J
+# bg vertical line
   11,U,J,C,O
    8,U,J
    9,U,J,C,O
@@ -1725,6 +1736,7 @@ console load Celeste/LostLevels
 # f-02
    1,R
   19,R,J
+# edge
   10,R,U,J,C,O
    6,R,U,J
   13,R,U,J,C,O
@@ -1747,6 +1759,7 @@ console load Celeste/LostLevels
 
 # f-03
   29,R,J
+# bg friend
   24,R,J,Z,O
    1,J
    2,U,J,C,O
@@ -1762,6 +1775,7 @@ console load Celeste/LostLevels
    1,U
    3
    1,J
+# don't greed height
   24,R,J
   23,R
   12
@@ -1811,7 +1825,9 @@ console load Celeste/LostLevels
    5,R,D
    7,R,J
   27,R,J,G,N
+# don't hold jump
   71,R,G,N
+# pause early
    5,R,G,S,N
   10,R,G,N
    3,R,G,S,N
@@ -1822,14 +1838,18 @@ console load Celeste/LostLevels
    5,R,G,N
    5,R,G,S,N
   30,R,G,N
+# feet under bg diamond
    4,R,J,Z,G,N
    4,R,G,N
   10,R,J,Z,G,N
   14,R,G,N
+# buffer climbjump
   40,R,J,G,N
+# don't hold jump
   53,R,G,N
   38,G,N
    9,R,Z,G,N,O
+# don't greed demo
   22,R,G,N
   38,R,J,G,N
    2,G,N
@@ -1846,6 +1866,7 @@ console load Celeste/LostLevels
    9,R,J
    3,J
   14,L,J
+# buffered left jump
    2,K
   19,R,K
    7,R,K,G,N
@@ -1865,23 +1886,28 @@ console load Celeste/LostLevels
    6,R
    6,R,J
   10,R
+# into corner
    7,R,U,C,O
    2,R,C,O
    5,R
+# buffer downright
    7,R,D,C,G,N,O
    5,R,D,G,N
+# pause before landing
    6,R,D,G,S,N
    9,R,D,G,N
    4,R,D,G,S,N
    4,R,D,G,N
    6,R,D,G,S,N
   19,R,D,G,N
+# jump at white hair
    4,R,D,G,S,N
    4,R,D,G,N
    4,R,D,J,G,S,N
    9,R,D,J,G,N
    4,R,D,J,G,S,N
    3,R,D,J,G,N
+# adv 3f jump
    5,R,D,J,G,S,N
    6,R,D,J,G,N
    4,R,D,J,G,S,N
@@ -1896,11 +1922,13 @@ console load Celeste/LostLevels
   11,R,G,N
    5,R,X,G,N
    3,R,G,N
+# buffer demo and hold left
    7,R,J,Z,G,N
    3,R,G,N
    2,G,N
   70,L,G,N
    1,L,U,G,N
+# under spinner
    7,L,U,C,G,N,O
    1,L,C,G,N,O
    5,L,G,N
@@ -1911,6 +1939,7 @@ console load Celeste/LostLevels
    7,L,G,N
    5,L
    5
+# land middle
    1,R
   12,R,J
    1,R,D,J
@@ -1933,6 +1962,7 @@ console load Celeste/LostLevels
    4,D,G,N
   13,G,N
   46,R,G,N
+# pause at start of green above
    6,R,G,S,N
   14,R,G,N
    5,R,G,S,N
@@ -1946,6 +1976,7 @@ console load Celeste/LostLevels
    4,R,G,S,N
    5,R,G,N
    4,R,G,S,N
+# pause until under
   22,R,G,N
    4,R,G,S,N
    3,R,G,N
@@ -1956,6 +1987,7 @@ console load Celeste/LostLevels
    3,U
   13,U,C,O
    8,U
+# adjust before dash if needed
   11,U,C,O
    7,U
    9
@@ -1974,12 +2006,14 @@ console load Celeste/LostLevels
    4,D
    1,L,D
   15,L,D,C,O
+# confirm in corner
    5,L,D
   10,D
    6,R,D,C,O
    4,R,D
    2,R
   40,R,J
+# before bg diamond
   15,R,U,J,Z,O
    2,U,J,Z,O
    3,U,J
@@ -1989,9 +2023,12 @@ console load Celeste/LostLevels
    1
    1,L
   12,L,G,N
+# around circle
   18,G,N
   23,R,G,N
+# end of track
   40,R,J,G,N
+# as soon as activated block
    1,R,J,C,G,N,O
    8,L,J,C,G,N,O
    1,L,C,G,N,O
@@ -2010,13 +2047,16 @@ console load Celeste/LostLevels
    1,R,U,C,G,N,O
   31,R,U,G,N
   22,R,G,N
+# end of track
   38,R,J,G,N
    1,R,G,N
    4,G,N
    2,J,G,N
   12,G,N
+# climb up
    8,U,G,N
   13,G,N
+# 2 neutral dashes
    7,C,G,N,O
   25,G,N
    9,C,G,N,O
@@ -2024,6 +2064,7 @@ console load Celeste/LostLevels
 
 # f-08
   20,G,N
+# buffer 2 dashes, hold left
    6,C,G,N,O
    6,G,N
   12,C,G,N,O
@@ -2031,7 +2072,9 @@ console load Celeste/LostLevels
   51,L,G,N
    1,G,N
  114,R,G,N
+# after clear spinner
   19,R,U,G,N
+# center spinner
    2,R,U,J,G,N
   53,R,J,G,N
   13,R,J,Z,G,N,O
@@ -2104,11 +2147,13 @@ console load Celeste/LostLevels
   40
 
 # g-00
+# small jump to reach climb up
    3,L,J,G,N
   13,L,G,N
    4,L,U,G,N
   16,U,G,N
    3,G,N
+# high jump
   14,J,G,N
   10,U,J,C,G,N,O
    2,U,C,G,N,O
@@ -2117,6 +2162,7 @@ console load Celeste/LostLevels
    7,L,G,N
    3,G,N
    2,R,G,N
+# jump soon after grab
   15,R,J,G,N
    1,J,G,N
    2,J
@@ -2131,6 +2177,7 @@ console load Celeste/LostLevels
    1,U,J
    2,U,J,C,O
   13,U,C,O
+# neutral for a bit
   15,U,J
    5,R,U,J
    6,R,U,J,C,O
@@ -2156,7 +2203,8 @@ console load Celeste/LostLevels
   11,U,C,O
   11,U
   11,U,C,O
-  11,L,C,G,N,O
+# activate crumble
+  17,L,C,G,N,O
    6,L,J,C,G,N,O
    1,L,C,G,N,O
    7,L,G,N
@@ -2171,8 +2219,8 @@ console load Celeste/LostLevels
    1,R,U
   14,R,U,Z,O
    2,U
-   2,U,C,O
-  10,U,C,O
+# aim middle
+  12,U,C,O
    3,C,O
    8,L
    8,R,J
@@ -2208,19 +2256,22 @@ console load Celeste/LostLevels
    1,C,O
   29
   31,L
+# demo middle 5f
    6,L,Z,O
    3,L
   20,L,G,N
   39,L,J,G,N
-   0,L,G,N
+# climb to top
    9,L,U,G,N
    4,L,G,N
    7,L,C,G,N,O
   11,L,G,N
    7,L,J,G,N
+# dash a tad after jump
   11,L,J,C,G,N,O
   11,L,J,G,N
    2,L,U,J,G,N
+# floaty
    9,L,U,J,Z,G,N,O
    1,L,J,Z,G,N,O
   26,L,G,N
@@ -2246,6 +2297,7 @@ console load Celeste/LostLevels
    1,R,U,G,N
   11,R,U,C,G,N,O
    7,R,U,G,N
+# delay second upright
   11,R,U,C,G,N,O
    3,R,U,G,N
   15,R,G,N
@@ -2260,10 +2312,12 @@ console load Celeste/LostLevels
   25,R
    8,R,C,O
   14,R
+# single
   12,R,J
   30,R
    8,R,C,O
   11,R
+# double
    4,R,J
   10,R,K
   33,R
@@ -2282,12 +2336,16 @@ console load Celeste/LostLevels
    1,C,O
    6,U,C,O
    6
+# grab block
   10,L,G,N
    4,G,N
+# slide down
   43,D,G,N
   14,R,D,G,N
+# right of block mid spinner
   11,R,D,J,G,N
   31,R,J
+# bg diamond
    7,R,U,J,Z,O
   21,R,U,J
    6,U,J
@@ -2310,6 +2368,7 @@ console load Celeste/LostLevels
    8,L,J,G,N
    2,J,G,N
   25,G,N
+# higher than you expect
   13,U,G,N
   35,G,N
   14
@@ -2317,6 +2376,7 @@ console load Celeste/LostLevels
   10,L,D,C,O
    3,D
   33,R,D
+# right of block bg tile
    9,R,D,C,O
    1,R,D
    3,L,D
@@ -2360,8 +2420,10 @@ console load Celeste/LostLevels
    1
    4,R
    9,R,C,O
+# corner
    6
    2,J
+# neutral dash and hold left
    3,J,C,O
    7,C,O
    1
@@ -2380,6 +2442,7 @@ console load Celeste/LostLevels
 
 # g-06
    6,R,J
+# edge
   10,R,J,C,O
    5,R,J
   13,R,J,C,O
@@ -2437,6 +2500,7 @@ console load Celeste/LostLevels
    8,D,G,N
   52,G,N
    2,D,G,N
+# spring under spinner
    9,D,C,G,N,O
    5,D
   36,R,D
@@ -2447,6 +2511,7 @@ console load Celeste/LostLevels
   12,D
   20,L,D
   14,D
+# stop fast falling early
   11,R,D
    1,R
    9
@@ -2489,6 +2554,7 @@ console load Celeste/LostLevels
   11,R
   26,R,U
   90,R
+# spinner
    8,R,C,O
    6,R
    9,R,C,O
@@ -2534,6 +2600,7 @@ console load Celeste/LostLevels
   18,R
   18,R,U
   13,R
+# left of bg thing
    7,R,C,O
   23,R
    8,R,C,O
@@ -2556,6 +2623,7 @@ console load Celeste/LostLevels
 
 # h-00
   13,R,D
+# clear wall
    9,R,D,C,O
   12,R,D
    9,R,D,C,O
@@ -2597,6 +2665,7 @@ console load Celeste/LostLevels
    2
   46,R,J
    1,R,D,J
+# line
   13,R,D,J,C,O
   11,R,D
    1,D
@@ -2623,6 +2692,7 @@ console load Celeste/LostLevels
 # h-01
   36,R,J
    1,J
+# soon after spring
    9,L,U,J,C,O
    4,L,U,J
    8,L,U,J,C,O
@@ -2641,6 +2711,7 @@ console load Celeste/LostLevels
   12,R,C,O
    2,R
   16
+# 5f after neutral
    7,U,C,O
    4,C,O
    3
@@ -2651,6 +2722,7 @@ console load Celeste/LostLevels
    2,R
   16
    1,R
+# jump off after spinner
    7,R,J
   10,R
   11
@@ -2682,6 +2754,7 @@ console load Celeste/LostLevels
    2
   25,R
    1
+# middle
   13,U,C,O
   10,U
    1,U,C,O
@@ -2705,6 +2778,7 @@ console load Celeste/LostLevels
   12,U,C,O
    1,C,O
    3
+# don't fast bubble
   47,R
    2,R,D
   12,R,D,C,O
@@ -2762,17 +2836,21 @@ console load Celeste/LostLevels
    2,J,G,N
    2,R,G,N
   11,R
+# exit with no dash cd
   10,R,D,C,O
    8,R,D
   40
 
 # h-03b
+# buffered downrights
   10,R,D,C,O
    5,R,D
   10,R,D,C,O
    3,R,D
+# late wavedash
    9,R,D,J
   23,R,J
+# bubbles
   10,R,U,J,Z,O
    9,R,U,J
    9,R,U,J,C,O
@@ -2789,29 +2867,31 @@ console load Celeste/LostLevels
    2,J
   31,R,J
    5,J
-  17
-   9,L
-   2,L,J
-  15,R,J
-   8,R,J,G,N
-   1,G,N
-   8,J,G,N
-  17,K,G,N
-   1,K,C,G,N,O
-  10,R,U,K,C,G,N,O
-   3,R,U,K,G,N
-  16,R,K,G,N
-   1,K
+  12
+# grab high and sink
+  42,L,G
+  23,R,J,G
+   4,R,K,G
+# climbjump straight up
+  17,J,G,N
+   1,J,C,G,N,O
+  10,R,U,J,C,G,N,O
+   3,R,U,J,G,N
+  16,R,J,G,N
+   1,J
   18
   11,L
    4
+# neutral low
   16,J
    9,L,J
    4,L
    1
+# jump off top
    1,J
   10,R,J
   24,R,J,G,N
+# pause early
    6,R,K,G,S,N
    9,R,K,G,N
    5,R,J,G,S,N
@@ -2820,6 +2900,7 @@ console load Celeste/LostLevels
    9,R,K,G,N
    4,R,K,X,G,N
    5,R,K,G,N
+# hand under block
   15,R,K,Z,G,N
    2,R,K,G,N
    5,R,G,N
@@ -2845,6 +2926,7 @@ console load Celeste/LostLevels
   40
 
 # h-04
+# transition demohyper
   55,R,J
   18,J
   36
@@ -2855,6 +2937,7 @@ console load Celeste/LostLevels
   16,R
   13
    1,U
+# dash up for easy cycle
   10,U,Z,O
   37
   13,L
@@ -2894,6 +2977,7 @@ console load Celeste/LostLevels
    2,D
   11,D,C,O
   14,D
+# confirm landing
   12
    1,C,O
    7,R,C,O
@@ -2917,16 +3001,20 @@ console load Celeste/LostLevels
    9,R,U,Z,O
    2,R,U
   17,R,U,G,N
+# climb up for same pos
   19,U,G,N
    2,G,N
    6
    7,D
   65,R,D
+# bg thing
    1,R,D,C,O
+# hold jump until transition
   21,R,D,J,C,O
   40
 
 # h-06
+# release jump
   44,R
    2
   10,U,C,O
@@ -2959,6 +3047,7 @@ console load Celeste/LostLevels
   17,U
    3
    4,L
+# bg diamond
    2,L,C,O
    7,L,C,G,N,O
   17,L,G,N
@@ -2978,6 +3067,7 @@ console load Celeste/LostLevels
 # h-06b
   12
    1,L
+# max height from top of wall
    6,L,J
   15,J
    1,J,C,O
@@ -2988,6 +3078,7 @@ console load Celeste/LostLevels
   10,J
    7,L,J
   36,J
+# take your time
   10,U,J,C,O
    1,J,C,O
   15,J
@@ -3004,6 +3095,7 @@ console load Celeste/LostLevels
   19,R,J
    3,J
    1,U,J
+# center
    9,U,J,C,O
    5,U,J
   10,R,U,J,Z,O
@@ -3012,6 +3104,7 @@ console load Celeste/LostLevels
   24,J
   10,R,J
   29,R,J,G,N
+# bg tile under
    7,R,K,G,S,N
   14,R,K,G,N
    4,R,J,G,S,N
@@ -3027,6 +3120,7 @@ console load Celeste/LostLevels
    8,U,K,C,O
    1,U,C,O
    2,U
+# pause early until cornercorrect
    5,U,S
    9,U
    5,U,S
@@ -3050,22 +3144,27 @@ console load Celeste/LostLevels
    4,L,J,S
    5,L,J
    5,L,J,S
+# jump until head quarter into bg tile
   25,L,J
    5,L,J,S
    5,L,J
+# 1f more jump
   17,L,J,S
   12,L
    3,L,S
    5,L
+# 1f no jump
    6,L,S
   23,L
    1,L,X
+# unpause jump held
   24,L,J
    6,L,J,S
    8,L,J
    4,L,J,S
    6,L,J
    2,L,J,S
+# hand past wall
   11,L,J
    2,L,J,G,N
    4,R,J,G,N
@@ -3118,6 +3217,7 @@ console load Celeste/LostLevels
   26,R,U,G,N
    8,L,U,G,N
    9,L,U,J,G,N
+# a tad after jump
   10,L,U,J,C,G,N,O
    1,L,U,C,G,N,O
   11,L,U,G,N
@@ -3147,6 +3247,8 @@ console load Celeste/LostLevels
   22,R,J
    9,R
    1,R,U
+# upright into spring
+# left dash backup
    9,R,U,Z,O
    7
    1,C,O
@@ -3174,13 +3276,16 @@ console load Celeste/LostLevels
    1
   11,R
   47,R,U
+# 2 tile to the left
   10,R,U,C,O
    1,R,U
    3,R
   31,R,G,N
+# mid block
   29,R,J,G,N
    3,R,U,J,G,N
   23,R,U,G,N
+# top block
    2,R,U,J,G,N
   28,R,J,G,N
   11,R,K,G,N
@@ -3191,6 +3296,7 @@ console load Celeste/LostLevels
   40
 
 # h-08
+# walk off
   65,R,G,N
    9,R,Z,G,N,O
   13,R,G,N
@@ -3204,6 +3310,7 @@ console load Celeste/LostLevels
   23,R
   19
   15,L
+# full walljump
    8,L,J
   17,J
    1,R,U,J
@@ -3212,6 +3319,7 @@ console load Celeste/LostLevels
    5,U,J
    8,U,C,O
    2,C,O
+# jump above coin
    1,J
   76,R,J
    2,J
@@ -3231,6 +3339,7 @@ console load Celeste/LostLevels
    1,U,J,C,O
    7,U,C,O
    7,C,O
+# high wallbounce
    1,J,C,O
   13,J
   22,L,J,G,N
@@ -3246,13 +3355,16 @@ console load Celeste/LostLevels
    1,J,G,N
    1,L,J,G,N
    1,L,U,J,G,N
+# climb up
   20,L,U,G,N
    1,L,G,N
    9
    1,L,D
+# downleft
    8,L,D,C,O
    1,D
    2,R,D
+# no fast fall
   43,R
    8,R,Z,O
    9,R
@@ -3265,6 +3377,7 @@ console load Celeste/LostLevels
 # h-09
    1,R
   10,R,J
+# after wall
   11,R,D,J,C,O
    1,R,D,J
    1,D,J
@@ -3314,9 +3427,11 @@ console load Celeste/LostLevels
   24
    8,U,C,O
   33
+# delay until kevin above block
    9,L,C,O
   42,L
  144,D
+# right kevin mid spinner
    7,D,C,O
   25,D
    9,R,D
@@ -3334,7 +3449,9 @@ console load Celeste/LostLevels
    5,R,D
   10,R,D,C,O
    4,R,D
+# edge
   10,R,D,J
+# 2 tile gap
   14,R,D,J,C,O
    1,R,D,C,O
    3,R,D
@@ -3345,6 +3462,7 @@ console load Celeste/LostLevels
   34,R,K,G,N
    2,R,K
   88,R
+# center gaps to be slow
    6,R,D
   25,R
   13,R,U
@@ -3359,6 +3477,7 @@ console load Celeste/LostLevels
   15,R
   21,R,D
  300,R
+# adjust
   12,R,D
   37,R
   10,R,U
@@ -3366,6 +3485,7 @@ console load Celeste/LostLevels
   14,R,U
   85,R
    2,R,D
+# above spring
    8,R,D,C,O
    2,D,C,O
   10,D
@@ -3397,10 +3517,12 @@ console load Celeste/LostLevels
    3,R
   28,R,U
  102,R
+# after bubble
    9,R,C,O
    3,R
   32,R,D
   69,R
+# wait politely
   46
    1,R,U
    8,R,U,C,O
@@ -3412,6 +3534,7 @@ console load Celeste/LostLevels
 
 # stubbornness
 # i-00
+# buffer pause
    3,R,S
    1,R
    1,R,D,Z,O
@@ -3436,6 +3559,7 @@ console load Celeste/LostLevels
   12,R,D,C,O
    1,R,D
   17,R,D,J
+# above blue
   10,R,D,J,C,O
    3,R,D,C,O
    2,R,D
@@ -3496,7 +3620,9 @@ console load Celeste/LostLevels
    2,J,G,N
    6,L,J,G,N
    6,L,G,N
+# climb up
   19,U,G,N
+# pause 3f down
    4,U,G,S,N
    7,G,N
   10,D,G,N
@@ -3514,7 +3640,9 @@ console load Celeste/LostLevels
    4,D,G,N
    3,G,N
   21,R,G,N
+# unpause with jump held
   67,R,J,G,N
+# climb up
   79,R,U,J,G,N
    1,U,J,G,N
    1,U,J
@@ -3556,6 +3684,7 @@ console load Celeste/LostLevels
   10,D,C,O
    7,D
   66
+# go on beat 2
    7,R,C,O
   69,R
   15
@@ -3586,11 +3715,13 @@ console load Celeste/LostLevels
    9,R,U,J,C,O
    1,R,U
   17,R,U,G,N
+# climb up for position
   16,U,G,N
    5,G,N
    2
    7,D
   42,R,D
+# blue spawn
    1,R,D,C,O
    5,R,D,J,C,O
    3,R,D,J
@@ -3598,10 +3729,12 @@ console load Celeste/LostLevels
 
 # i-02
    9,R,D,J
+# after 2 tile
    2,R,D,J,C,O
   11,R,D,C,O
    1,R,C,O
   31,R,J
+# slightly right of center
    1,R,J,C,O
   17,R,U,J,C,O
    1,R,U,J
@@ -3624,6 +3757,7 @@ console load Celeste/LostLevels
    7,R,C,O
    8,R
   10,R,C,O
+# slide until pink spawn
   18,R
    4
   14,J
@@ -3693,21 +3827,26 @@ console load Celeste/LostLevels
   13,R,U,Z,O
   20,R
    9
+# enter on blue spawn
    3,C,O
    3,R,C,O
+# don't fast bubble
   62,R
    2,D
   16,D,C,O
   13,D
    1
   38,R
+# before coin
   15,R,U,C,O
   28,R,U
+# don't fast bubble
   40,U
    3
   14,L,C,O
    7,L
    1
+# don't fast bubble
   32,D
    2
    8,R,C,O
@@ -3729,11 +3868,13 @@ console load Celeste/LostLevels
    2,R,C,O
    6,R
    3
+# neutral and slide
   12,J
   47,R,J
    6,R
    4,R,J
   16,R
+# wait for blue
   23
    1,Z,O
    4,R,Z,O
@@ -3754,6 +3895,7 @@ console load Celeste/LostLevels
    6,R,U,C,O
    2,R,C,O
   11,R
+# land left
   59
    7,R,C,O
    5,R
@@ -3770,20 +3912,25 @@ console load Celeste/LostLevels
   11,R,G,N
    8,R,U,G,N
   46,R,G,N
+# climb to top
   99,R,U,G,N
+# fall a bit
   25,R,U,Z,G,N,O
    5,R,U,G,N
   13
    6,L
+# spring cancel to delay
   12,L,C,O
    2
   32,R
    2
    3,U
+# up demo for maybe 1f extra delay
    7,U,Z,O
    6
    7,J
   11,R,J
+# neutral a bit at crystal
    9,J
    9,L,J
   22,L
@@ -3826,6 +3973,7 @@ console load Celeste/LostLevels
   13,D,C,O
   14,D
   75,R,D
+# go a tad after blue exists for a while
    8,R,D,C,O
    3,R,D
    2,R
@@ -3972,6 +4120,7 @@ console load Celeste/LostLevels
   54,R
    9,R,C,O
   11,R
+# coyote demohyper
    4,R,Z,O
    7,R
    8,R,J
@@ -3979,6 +4128,7 @@ console load Celeste/LostLevels
 
 # j-01
   14,R,J
+# demo bird
   13,R,J,Z,O
    5,R,J
   54,R
@@ -4001,6 +4151,7 @@ console load Celeste/LostLevels
   15,R,U,C,O
    2,R,C,O
   40,R
+# grab box first
   33,R,G,N
   10,R,C,G,N,O
   42,R,G,N
@@ -4026,16 +4177,21 @@ console load Celeste/LostLevels
 
 # j-02
    7,R
+# bhop and don't hyper
   34,R,J
   38,R
   14,R,U
+# bg diamond
    9,R,U,C,O
    4,R,U,G,N
   93,R,G,N
+# near barrier
   34,R
   36,R,G,N
+# grab jelly and hold right
   65,R,U,G,N
    3,R,U
+# after slowing down
    2,R,U,C,O
    4,R,U,C,G,N,O
   95,R,U,G,N
@@ -4051,6 +4207,7 @@ console load Celeste/LostLevels
   18,R
    8,R,C,O
   18,R
+# grab box first
   53,R,G,N
    8,R,C,G,N,O
   40,R,G,N
@@ -4081,6 +4238,7 @@ console load Celeste/LostLevels
    3,R,J
   50,R
   45,R,U
+# mid spinner to the right
   10,R,U,Z,O
    3,R,U
  137,R
@@ -4088,6 +4246,7 @@ console load Celeste/LostLevels
   14,R
  100
   10,R
+# higher than center
   19,R,Z,O
    3,R
   21
@@ -4095,6 +4254,7 @@ console load Celeste/LostLevels
    8,U,C,O
   22
    8,R
+# higher than center
   20,R,Z,O
    2,R
   52
@@ -4115,9 +4275,11 @@ console load Celeste/LostLevels
    2,C,O
    1
   35,R
+# demo bird
    8,R,Z,O
   12,R
   43,R,G,N
+# green thing
   13,R,D,C,G,N,O
   40
 
@@ -4146,6 +4308,7 @@ console load Celeste/LostLevels
   12,R,D,J
    9,R,J
   48,R
+# floaty
   15,R,D,C,O
    2,R,C,O
   30,R
@@ -4170,6 +4333,7 @@ console load Celeste/LostLevels
   40
 
 # j-06
+# 4 buffered dashes
    8,D,C,O
    7,D
    7,D,C,O
@@ -4180,17 +4344,21 @@ console load Celeste/LostLevels
    4,D
    2
   29,R
+# edge
   23,R,J
+# peak
   11,R,J,Z,O
    2,R
   15
   15,J
   11,R,J
+# peak
   12,R,J,Z,O
    2,R,J
   12,R
   63
    8,R
+# drift right at floaty
    8,R,U,C,O
    4,R,C,O
   36,R
@@ -4207,6 +4375,7 @@ console load Celeste/LostLevels
    6,R,D
   11,R
   45,R,U
+# bottom tip
   13,R,U,Z,O
    2,R,U
   47,R
@@ -4250,18 +4419,24 @@ console load Celeste/LostLevels
   35,R
    1
    1,U
+# up demo fish
    6,U,Z,O
    4,Z,O
+# neutral
   49
+# neutral dash
    6,Z,O
    7
   15,J
+# jump right
   30,R,J
+# up demo right of fish
    9,U,J,Z,O
    1,J,Z,O
    2,J
   14,L
    1
+# fish boost
   40,R
   31
    1,L
@@ -4284,7 +4459,9 @@ console load Celeste/LostLevels
    8,R,C,O
   11,R
   11,R,D
+# land left
    4,R,D,C,O
+# max height
    7,R,D,J,C,O
   40
 
@@ -4338,6 +4515,7 @@ console load Celeste/LostLevels
   22,R
    7,R,D
    2,R,D,C,O
+# hyper land on transition
    4,R,D,J,C,O
    1,R,D,C,O
    1,R,D
@@ -4346,13 +4524,16 @@ console load Celeste/LostLevels
 
 # j-09
   17,R,J
+# diamond
   11,R,U,J,C,O
    1,R,U,C,O
  145,R,U,G,N
    1,R,U
    4,R,U,C,O
+# tardigrade
    4,R,U,C,G,N,O
  299,R,U,G,N
+# wait at bg thing
   44,U,G,N
    4,U
    1,R,U
@@ -4387,6 +4568,7 @@ console load Celeste/LostLevels
   20,R,D,J
    1,R,D
    1,D
+# release at fish bonk
   32
   16,R
   20
@@ -4412,7 +4594,9 @@ console load Celeste/LostLevels
    1,L
    4
   23,R,G,N
+# climb to top
   73,R,U,G,N
+# pause 3 climbjumps
    8,R,U,J,G,S,N
    8,R,U,G,N
    4,R,U,J,G,S,N
@@ -4427,6 +4611,7 @@ console load Celeste/LostLevels
    5,R,U,G,N
    8,R,U,J,G,S,N
    8,R,U,G,N
+# unpause with jump held
   23,R,U,J,G,N
    7,R,J,G,N
    9,R,J,C,G,N,O
@@ -4452,6 +4637,7 @@ console load Celeste/LostLevels
   38,R,J,G,N
   20,R,K,G,N
    1,R,K
+# floaty
   11,U,K,C,O
    1,R,K,C,O
   24,R,K
@@ -4499,9 +4685,11 @@ console load Celeste/LostLevels
   28,R
   33
   48,L
+# 1 left
   12,L,C,O
    4,L
    3,L,D
+# 3 downleft
    9,L,D,C,O
    5,L,D
    8,L,D,C,O
@@ -4511,6 +4699,7 @@ console load Celeste/LostLevels
    3
   43,R
   26
+# 3 left from far
    9,L,C,O
    2,C,O
   39
@@ -4560,6 +4749,7 @@ console load Celeste/LostLevels
    4,L
   10,L,C,O
    6,L
+# downlefts when close
   11,L,D,C,O
    5,L,D
   13,L,D,C,O
@@ -4569,6 +4759,7 @@ console load Celeste/LostLevels
   12
    1,U
    1,R,U
+# corner of bg thing
    8,R,U,C,O
   19,R
   25
@@ -4591,6 +4782,7 @@ console load Celeste/LostLevels
   10,R
    7,R,J
    7,R
+# refrain from the comet ultra supreme
    7,R,Z,O
    7,R
   40
@@ -4677,6 +4869,7 @@ console load Celeste/LostLevels
   20,R,G,N
    3,R
   10
+# land left
    8,R,D,C,O
    1,R,D
    3,R
@@ -4687,6 +4880,7 @@ console load Celeste/LostLevels
   27,R,J
    6,R,J,C,O
   50,R
+# land second last
   11,R,J
    9,R
    3,R,D
@@ -4712,6 +4906,7 @@ console load Celeste/LostLevels
    8,R,C,O
    4,R
    3,R,J
+# transition demohyper
    7,R,J,Z,O
    6,R
   40
@@ -4720,6 +4915,7 @@ console load Celeste/LostLevels
   18,R,J
   10,R,J,C,O
    1,R,J,C,G,N,O
+# start grabbing early for pauses later
  151,R,G,N
   10,R,Z,G,N,O
   24,R,G,N
@@ -4730,6 +4926,7 @@ console load Celeste/LostLevels
   12,R,J,G,N
   24,R,G,N
   24,R,J,G,N
+# peak
    7,R,J,Z,G,N,O
    1,R,J,G,N
   28,R,G,N
@@ -4740,6 +4937,7 @@ console load Celeste/LostLevels
   20,R,J,G,N
   16,R,G,N
   41,R,J,G,N
+# pause early on all
    7,R,K,G,S,N
    9,R,K,G,N
    3,R,J,G,S,N
@@ -4751,6 +4949,7 @@ console load Celeste/LostLevels
    4,R,K,G,S,N
   14,R,K,G,N
    4,R,X,G,N
+# hand under lightning
    4,R,J,G,N
    6,R,K,Z,G,N
   56,R,K,G,N
@@ -4764,6 +4963,7 @@ console load Celeste/LostLevels
    3,R,K,G,N
    6,R,J,Z,G,N
   20,R,J,G,N
+# upright immediately
    7,R,U,J,Z,G,N,O
    1,R,U,J,G,N
   38,R,J,G,N
@@ -4787,6 +4987,7 @@ console load Celeste/LostLevels
   30,R,J,G,N
   13,R,J,C,G,N,O
   10,R,G,N
+# demohyper cb exit
    6,R,Z,G,N,O
    7,R,G,N
    3,R,J,G,N
@@ -4795,23 +4996,31 @@ console load Celeste/LostLevels
 
 # j-14
   10,R,K,G,N
+# diamond
    1,R,K,C,G,N,O
    9,R,U,K,C,G,N,O
    5,R,U,K,G,N
   46,R,U,K
+# right of bg thing
   10,R,U,K,C,O
   27,R,K
+# hold jump on bonk
   62,K
   16,R,K
    1,D,K
+# aim middle of region
    8,D,K,C,O
    1,K,C,O
+# boost
   12,R,K
    1,K
    1,L,U,K
+# buffer upleft demo
   12,L,U,K,Z,O
    1,L,U,K
+# boost
   33,R,K
+# 9f right dash
   11,R,K,C,O
   36,R,K
   22,K
@@ -4827,6 +5036,7 @@ console load Celeste/LostLevels
    1,K,C,O
    4
   37,R
+# floaty
    8,R,C,O
    2,R
   30,R,D
@@ -4837,6 +5047,7 @@ console load Celeste/LostLevels
    7,R,D,J
    1,R,J
  111,R
+# demo low
   10,R,Z,O
    6,R
    5
@@ -4869,6 +5080,7 @@ console load Celeste/LostLevels
 # j-14b
    7,R
    3
+# corner
    1,D,C,O
   11,L,D,C,O
    2,L,D
@@ -4891,6 +5103,7 @@ console load Celeste/LostLevels
    1,J,G,N
   56,R,J,G,N
   25,R,G,N
+# don't fast fall
   24,G,N
   20,R,G,N
   18,G,N
@@ -4941,6 +5154,7 @@ console load Celeste/LostLevels
   10,L,D,C,O
   29,L
    4,L,J
+# buffer wallkick
    3,L,K
    4,R,K
    2,R,K,C,O
@@ -4999,12 +5213,14 @@ console load Celeste/LostLevels
 # j-16
   20,R
    7
+# late pause
    4,S
   15
    1,D,Z,O
    3,Z,O
    7
   54,R
+# edge
    9,R,J
    6,R,U
    6,R,U,C,O
@@ -5016,6 +5232,7 @@ console load Celeste/LostLevels
   23,G,N
    2,U,G,N
   41,R,U,G,N
+# floaty
    5,R,U
    7,R,U,C,O
    4,R,U
@@ -5027,6 +5244,7 @@ console load Celeste/LostLevels
   36,R,G,N
   27,G,N
   23,R,G,N
+# slow down before electricity
    4,G,N
   20
    4,L
@@ -5040,6 +5258,7 @@ console load Celeste/LostLevels
    3,R,D,G,N
   34,D,G,N
    6,G,N
+# adjust to spring after barrier
   20,R,G,N
   17,G,N
   14,D,G,N
@@ -5053,12 +5272,14 @@ console load Celeste/LostLevels
    4,R,C,O
    3,R,C,G,N,O
   49,R,G,N
+# slow down and adjust to right of spring
   27,G,N
   12,D,G,N
    2,G,N
   37,R,G,N
    1,G,N
    2,L,G,N
+# right eel
    7,L
    8
   20,R
@@ -5074,6 +5295,7 @@ console load Celeste/LostLevels
   61,R,G,N
    9,R,D,G,N
   34,R,G,N
+# confirm right spring
    5,G,N
   28,D,G,N
    4,G,N
@@ -5094,6 +5316,7 @@ console load Celeste/LostLevels
   14,G,N
   25,R,G,N
    1,G,N
+# bottom right bg
    1
    1,U
   10,U,C,O
@@ -5119,6 +5342,7 @@ console load Celeste/LostLevels
    6,R,U,C,O
    2,R,U,C,G,N,O
   62,R,U,G,N
+# take your time
   38,U,G,N
    7,R,U,G,N
  115,U,G,N
@@ -5234,6 +5458,7 @@ console load Celeste/LostLevels
   31,R
   28
   14,L
+# no boost
   44
    1,U
    6,U,C,O
@@ -5279,6 +5504,7 @@ console load Celeste/LostLevels
   17,D
   73,R,D
   41,R,D,G,N
+# bottom of tower
    9,R,D,J,G,N
   31,R,J,G,N
    1,R,J,C,G,N,O
@@ -5299,10 +5525,12 @@ console load Celeste/LostLevels
    8,R,D,G,N
   27,D,G,N
   13,G,N
+# boost
    1,R,G,N
   43,R,U,G,N
   17,R,U,C,G,N,O
   20,R,U,G,N
+# release
   19,G,N
   20,R,G,N
    8,R,U,C,G,N,O
@@ -5372,6 +5600,7 @@ console load Celeste/LostLevels
    3,R
   17,R,J
    4,R
+# release right above spinner
   15
   11,R,Z,O
    3,Z,O
@@ -5384,6 +5613,7 @@ console load Celeste/LostLevels
    2,L,U
   11,L,U,G,N
   39,L,G,N
+# tap slow fall
    5,L,U,G,N
    7,L,G,N
    4,L,U,G,N
@@ -5419,6 +5649,7 @@ console load Celeste/LostLevels
    8,U,J,C,O
    2,U,C,O
    6,U
+# late grab
   17,U,G,N
   21,L,U,G,N
    3,U,G,N
@@ -5430,6 +5661,7 @@ console load Celeste/LostLevels
   10
   13,U,C,O
    2,U
+# late grab
   14,U,G,N
    3,R,U,G,N
    9,R,U,J,G,N
@@ -5444,10 +5676,12 @@ console load Celeste/LostLevels
   14,R,U,G,N
    7,U,G,N
   48,L,U,J,G,N
+# bg 2 tile
    4,L,U,J
    8,L,U,J,C,O
    2,L,U,J
   59,L,U,J,G,N
+# bg 2 tile
    4,L,U,J
   10,L,U,J,C,O
    3,L,U,J
@@ -5468,6 +5702,7 @@ console load Celeste/LostLevels
    7
   10,U,C,O
    4,U
+# late grab
   17,U,G,N
    1,L,U,G,N
   15,L,G,N
@@ -5483,6 +5718,7 @@ console load Celeste/LostLevels
    1,C,O
   11,U,C,O
    5,U
+# late grab
   26,U,G,N
   26,R,U,G,N
   15,R,G,N
@@ -5494,6 +5730,7 @@ console load Celeste/LostLevels
    2,U
   10,U,C,O
    8,C,O
+# neutral wallbounce
   14,J
    1,J,G,N
    4,L,J,G,N
@@ -5503,6 +5740,7 @@ console load Celeste/LostLevels
    6
   48,L
   29,L,U
+# right barrier
   11,L,U,C,O
    1,L
   22,L,G,N
