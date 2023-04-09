@@ -726,30 +726,24 @@ console load Celeste/3-CelestialResort
   45
 
 # 06-c
-   1,R
-  27,R,J
-   1,U,J
-   1,U,J,C,O
-   8,U,C,O
-   1,C,O
-   2,C,G,N,O
-   6,L,C,G,N,O
-   6,L,J,C,G,N,O
-   2,L,C,G,N,O
-   3,L,G,N
-  10
-# grounded ultra setup
-   8,L,D,C,O
-   5,L,D
-   1,L,D,J
-   3,L,D,J,C,O
-   6,L,D,C,O
-   2,L,D
+  28,R,J
+   1,R,U,J
+   1,R,U,J,C,O
+   7,U,J,C,O
+   3,J,C,O
+   6,L,J,G,N
+  11,L,K,G,N
+   4,L,G,N
+  11,L
+# land near darkness
+   9,L,C,O
+   5,L
+  10,L,C,O
   40
 
 # 05-c
 # hold downleft
-  28,L,D
+  32,L,D
 # tap grab bottom wall
    3,L,D,G,N
   32,L,D
@@ -1348,13 +1342,16 @@ console load Celeste/3-CelestialResort
   24,L,J
    5,D,J,C,O
    5,D,C,O
-   7,D
- 104
+# hold down to see when to go
+ 111,D
+   2
    2,C,O
    7,R,C,O
-   3,R
+   2,R
+# aim super at ledge
   12,R,J
    1,J
+# up dash to bonk ceiling and land sooner
    1,J,C,O
    9,U,J,C,O
    2,J,C,O
@@ -1366,7 +1363,7 @@ console load Celeste/3-CelestialResort
 # horiz line
    8,U,J,Z,O
    2,J,Z,O
-  44
+  43
 
 # 11-a
   16
@@ -1505,4 +1502,4 @@ console load Celeste/3-CelestialResort
    1,S,O,F,180
   31
 
-FileTime: 2:59.656(10568)
+FileTime: 2:59.775(10575)

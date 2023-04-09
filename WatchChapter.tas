@@ -66,7 +66,7 @@ Play, end
 
 
 #1afc
-FileTime: 2:52.074(10122)
+FileTime: 2:52.601(10153)
 
 Read, 202/202_1afc_1.tas
   51
@@ -96,7 +96,7 @@ Play, end
 
 
 #2afc
-FileTime: 3:26.006(12118)
+FileTime: 3:26.091(12123)
 
 Read, 202/202_2afc.tas
 
@@ -104,7 +104,7 @@ Play, end
 
 
 #3afc
-FileTime: 6:10.787(21811)
+FileTime: 6:10.940(21820)
 
 Read, 202/202_3afc_1.tas
   14
@@ -139,7 +139,7 @@ Play, end
 
 #6afc
 #7afc
-FileTime: 12:15.777(43281)
+FileTime: 12:15.692(43276)
 
 Read, 202/202_7afc_1.tas
   51

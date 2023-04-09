@@ -639,36 +639,30 @@ console load Celeste/2-OldSite
   40
 
 # 1
-   6,R,J
-   6,R
-  11,R,D,C,O
+   6,R,D,J
+   8,R,J
+   7,R
+   9,R,C,O
+  30,R
+   8,R,Z,O
    1,R
-   5,R,J
-  12,R
-  13,R,C,O
-  11,R
-   1,R,J
-   1,K
-   3,L,K
-   9,L,J
-  18,L
-   6,L,Z,O
+   1
+   6,L
+   5,L,J
+   5,L,K
+  19,L
+   5,L,Z,O
   10,L
    6,L,J
    8,L,K
-   2,L
-  10,L,C,O
-   4,L
-   4,L,J
-   1,L,D,J
+   1,L,K,C,O
+   8,L,C,O
+  10,L
+   4,L,Z,O
+  13,L,J,Z,O
+  14,L
    1,L,D
-  10,L,D,C,O
-   3,L
-   9,L,J
-   1,L
-   7,L,Z,O
-   2,L
-   2,L,J
+   7,L,D,C,O
   40
 
 # 0
@@ -676,7 +670,7 @@ console load Celeste/2-OldSite
    1,L,D,J
    7,L,D,J,C,O
    2,L,D,C,O
-  23,L
+  22,L
   21,L,J
    1,L,U,K
    4,U,K,C,O
@@ -1582,4 +1576,4 @@ console load Celeste/2-OldSite
    1,D,Z,O
   18
 
-FileTime: 3:26.006(12118)
+FileTime: 3:26.091(12123)

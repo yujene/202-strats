@@ -174,75 +174,77 @@ console load Celeste/1-ForsakenCity s1
 
 # 8
    8,R,D
-  10,R,D,C,O
-   1,R,D
-   4,R,D,J
+   8,R,D,C,O
+   4,R,D
    1,D,J
    3,D,J,C,O
-   9,D,C,O
-  13,R,D
-   9,R,D,C,O
-   3,R,D
-  11,R,D,J
+   7,D,C,O
+   2,D
   14,R,D
-   3,R
-   6,R,Z,O
-   4,R
-  19,R,D
+   8,R,D,C,O
+   3,R,D
+  12,R,D,J
+  18,R,D
+   1,R,D,C,O
+   7,R,C,O
+   2,R
+  18,R,D
   40
 
 # 7a
   16,R,D
-# clear wall
-   8,R,D,C,O
+# after clearing wall
+   9,R,D,C,O
    3,R,D
-   3,R,D,J
-   1,R,D,J,C,O
-   7,R,D,C,O
+   1,R,D,J
+   4,R,D,J,C,O
+   6,R,D,C,O
   18,R,D
-   3,R,D,G,N
-   6,R,D,J,G,N
-  13,R,D,K,G,N
-   3,R,D,G,N
-   1,R,D
-   2,D,J
-   6,L,D,J
-   5,L,D,J,C,O
-   5,L,D,C,O
-   7,L,D
-   4,L,D,C,O
-   6,L,D,J,C,O
-   4,L,J,C,O
-   1,L,C,O
-  13,L
-  11,L,J
-# left+jump until dash
-   1,J
-  12,R,C,O
-   1,R
-  18,L,J
-   2,J
-   1,U,J
-   9,U,J,C,O
-   1,J
+   2,R,D,G,N
+   1,R,D,J,G,N
    5,R,J,G,N
-   4,R,K,G,N
-  40
+  15,R,K,G,N
+# climb a bit above berry
+   1,R,J,G,N
+  13,J,G,N
+   1,D,J,G,N
+  11,L,D,J,C,G,N,O
+   3,L,D,C,G,N,O
+   4,L,D,G,N
+   2,L,D,C,G,N,O
+  15,L,D,J,C,G,N,O
+   1,L,G,N
+  14,L
+  16,L,J
+  11,L,U,J,C,O
+   2,L,J,C,O
+   2,L,C,O
+   8,L
+# jump and wallkick right
+   5,L,J
+   5,L,K
+  13,R,K
+# transition wallbounce
+   1,R,U,K,C,O
+   9,U,K,C,O
+   1,U,C,O
+   2,C,O
+  41
 
 # 8
-  10,L,J
-   2,L,J,G,N
+   5,J
+  12,L,J
+   3,L,J,G,N
   15,L,K,G,N
-  15,L,J,G,N
-   1,J,G,N
-   1,U,J
-   9,U,C,O
-   2,C,O
-   1,L,C,G,N,O
-   5,L,G,N
-  11,L,J,G,N
+   2,K,G,N
+   4,U,K,C,O
+   7,U,C,O
+   2,C,G,N,O
+   2,L,C,G,N,O
+   1,L,J,C,G,N,O
+  12,L,J,G,N
   12,L,K,G,N
-   5,L,J,G,N
+   3,L,J,G,N
   40
 
 # 9z
@@ -502,69 +504,73 @@ console load Celeste/1-ForsakenCity s1
 # 10
   11,D,C,O
    7,D
-  10,L,D,C,O
-   1,D,C,O
-   8,D,J
-  12,D,J,C,O
-   1,D,C,O
-   4,D
-  28,L,D
+   8,L,D,C,O
+   3,L,D
+   1,D,J
+   3,D,J,C,O
+   6,D,C,O
+   5,D
+  26,L,D
+   7,D
+   1,L,D
 # land long enough to collect
-   9,L,D,C,O
-   2,L,D
-   9,L,J
-  12,L
-   8,L,J
-   2,L
-   7,L,Z,O
-   4,L
-   4,L,J
+   8,L,D,C,O
+   4,L,D
+   6,L,D,J
+   6,L,D
+   6,L
+   7,L,J
+   3,L
+   6,L,Z,O
+   5,L
+# early demohyper
+   3,L,J
+   3,J
   40
 
 # 10z
 # neutral
-   3,J
-   2,L,D,J
-   2,L,D,J,C,O
-   9,L,D,C,O
-   2,L,D,J,C,O
-  22,L,J
-   4,L,J,C,O
-   2,L,C,O
-  12,L
-   9
-   1,L,J
-   7,L,J
-   1,L,U,J,C,O
-   1,U,J,C,O
-   9,U,C,O
-   3,C,O
-   5,J,C,O
-   3,L,J,C,O
-  13,L
-   3,L,D
-   3,L,D,C,O
-   5,L,D,J,C,O
-   1,L,D,C,O
+   4,J
+   2
+   8,L,D,C,O
    2,L,D
+   2,L
+  24,L,J
+   9,L,J,C,O
+   1,L,J
+  16,L
+   6,L,J
+   1,J
+   1,U,J
+   8,U,C,O
+   8,C,O
+   3,J,C,O
+   3,L,J,C,O
+   1,L,C,O
+  15,L
+   1,L,D
+   2,L,D,C,O
+   6,L,D,J,C,O
   40
 
 # 10zb
-  18
-  15,R
-  10
-   2,U
-  14,U,C,O
-   1,U,C,G,N,O
-   3,U,G,N
-   9,R,U,J,G,N
-   6,R,U,K,G,N
-   2,R,U,G,N
-   1,R,U
-  29
+  21
+  23,R
+   1
+   1,U
+  11,U,C,O
+   1,C,O
+   1,C,G,N,O
+   2,R,C,G,N,O
+   4,R,G,N
+  11,R,J,G,N
+   6,R,K,G,N
+   6,R,G,N
+   2,G,N
+  33
    3,S
    3,U,J
    1,O
   31
 
-FileTime: 1:14.018(4354)
+FileTime: 1:14.324(4372)

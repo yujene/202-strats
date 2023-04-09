@@ -722,82 +722,77 @@ console load Celeste/7-Summit
   40
 
 # b-02
-   8,R,D
-   7,R,D,C,O
+   6,R,D
+   9,R,D,C,O
    3,R,D
-  10,R,D,J
-   1,R,D
-  10,R,D,C,O
-   4,R,D,J
+   9,R,D,J
+  11,R,D,C,O
+   2,R,D,J,C,O
+   2,R,D,J
   40
 
 # b-03
-   2,R
+   6,R,D
+  10,R,D,C,O
+   3,R,D
+# wavedash far right
+  24,R,D,J
+   5,R,D,J,C,O
+   4,R,D,C,O
    1,R,D
-   9,R,D,C,O
-   3,R
-  16,R,J
-  10,R,J,C,O
-   4,R
-   1,R,D
-   9,R,D,C,O
-   2,R
-   9,R,J
-   4,R,J,Z,O
-   1,R,Z,O
-   2,R
-# edge
-  10,R,J
+   2,R,D,G,N
+   4,R,D,J,G,N
+   9,R,D,K,G,N
+   5,R,D,K,C,G,N,O
+   6,R,D,K,C,O
   40
 
 # b-04
-# keep holding jump
-   8,R,J
-   4,R
-# release to bhop
-   3,R,J
-  15,R
-   1,C,O
-   8,U,C,O
-   3,C,O
-   1,J,C,O
-   4,R,J,C,O
-  10,R,J
-  16,R
-   1,C,O
-   9,L,D,C,O
-  21,L,D
-   7,L
-   1,L,U
-   9,L,U,C,O
-   2,C,O
-   8
-   1,Z,O
-   8,L,Z,O
-   3,L
-   2,L,D
+# buffer transition hyper or wavedash last room
+  29,R,J
+   1,U,J
+   9,U,J,C,O
+   1,U,J
+   3,J
+# don't buffer wallbounce
+  31,R,K
+   2,K
+   1,D,K,C,O
+   5,L,D,K,C,O
+   3,L,D,C,O
+  23,L,D
+   6,L
+  12,L,U,C,O
+   1,L,C,O
+   6,L
+   9,L,Z,O
+   4,L
+   1,L,D
    4,L,D,J,C,O
    6,L,D,C,O
+   1,L,D
   40
 
 # b-03
-# poster part 2
-  11,L
-  11,L,C,O
-   5,C,O
-  42
-   6,R,C,O
-   1,C,O
+   6,L
+# around column
+  10,L,C,O
+  20,L
+  26
+   1,R
+   7,R,C,O
    1
    4,L
-  22,L,J
-  15,L,U,J,Z,O
+  23,L,J
+   1,L,U,J
+  12,L,U,J,Z,O
+   2,L,U,J
    1,U,J
-   3,U,J,C,O
-   9,U,C,O
-   1,C,O
-   1,J,C,O
-   2,L,J,C,O
+   4,U,J,C,O
+   7,U,C,O
+   2,C,O
+   1,L,C,O
+   1,L,J,C,O
    7,L,J
   40
 
@@ -2770,4 +2765,4 @@ console load Celeste/7-Summit
    1,O
   31
 
-FileTime: 5:56.065(20945)
+FileTime: 5:55.980(20940)
