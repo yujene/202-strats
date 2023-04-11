@@ -790,66 +790,72 @@ console load Celeste/4-GoldenRidge
 
 # c-09
   12,R
-   2,R,D
-# just downrights
-   8,R,D,C,O
-   5,R,D
-   8,R,D,C,O
+   1,R,D
+   9,R,D,C,O
    4,R,D
+   9,R,D,C,O
+   3,R,D
    1,R
-  12,R,J
-  10,R,U,J,C,O
-  14,R,J,C,O
-   1,R,J
-# hit wall
-   2,R
-  13
-   1,D
-   6,R,D,C,O
-   2,R,C,O
-   4,R
-   5,R,J
-  15,R,J,G,N
-# hit wall
-   9,R,J,Z,G,N,O
-   4,R,G,N
+  14,R,J
+   1,R,U,J
+   8,R,U,J,C,O
+   2,R,J,C,O
+# grab and fall
+  23,R,G,N
+  12
+   1,G,N
    1,R,D,G,N
-# climb up backup if you miss the 2f
+# hyper to wall
+   2,R,D,C,G,N,O
    3,R,D,J,C,G,N,O
-   4,R,D,C,G,N,O
-  17,R,D,G,N
-   8,R,D,G,S,N
+   1,R,D,J,G,N
+  20,R,J,G,N
+   2,J,G,N
+   5,G,N
+# do climbup for comfy
+  12,U,G,N
+   1,G,N
+   8
+# take time to prepare for good ultra timing
+   3,R,D,G,N
+   9,R,D,C,G,N,O
    5,R,D,G,N
+   5,R,D,J,C,G,N,O
+   3,R,D,C,G,N,O
+  15,R,D,G,N
+# pause early
+   7,R,D,G,S,N
+   7,R,D,G,N
    5,R,D,G,S,N
    5,R,D,G,N
-   6,R,D,G,S,N
+   7,R,D,G,S,N
+  20,R,D,G,N
+   4,X,N
    4,R,D,G,N
+   4,R,D,J,G,S,N
+   6,R,D,G,N
    4,X,N
    4,R,D,G,N
    6,R,D,J,G,S,N
    5,R,D,G,N
-   4,X,N
-   4,R,D,G,N
-   6,R,D,J,G,S,N
-   2,R,D,G,N
-   8,X,N
-  18,R,D,G,N
-  13,R,D,J,G,N
-  29,R,J,G,N
+   6,R,D,G,S,N
+  20,R,D,G,N
+   9,R,D,J,G,N
+  31,R,J,G,N
   13,R,K,G,N
-  10,R,J,G,N
+   9,R,J,G,N
    2,J,G,N
-   2,J
+   3,J
   13,K
-   1,K,C,O
-   3,U,K,C,O
-   5,U,C,O
-   8,C,O
-   3,J,C,O
-  10,J
-   2,J,G,N
-   3,L,J,G,N
-   4,L,K,G,N
+   2,K,C,O
+   2,U,K,C,O
+   7,U,C,O
+   6,C,O
+   1,J,C,O
+  11,J
+   1,J,G,N
+   4,L,J,G,N
+   5,L,K,G,N
   40
 
 # c-07
@@ -1344,4 +1350,4 @@ console load Celeste/4-GoldenRidge
    1,O
   31
 
-FileTime: 2:39.137(9361)
+FileTime: 2:39.987(9411)
