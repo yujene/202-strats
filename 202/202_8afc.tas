@@ -595,34 +595,31 @@ console load Celeste/9-Core
   40
 
 # c-03
-   5,R,D
-   2,R,D,C,O
-   3,R,D,J,C,O
-   7,R,D
-  11,R,D,J
-  14,R,D,J,C,O
-   6,R,D,J
-  58,R,J
-# wait
-  11,J
-   3,R,J
-   7,R,U,J
-   9,R,U,J,Z,O
-   3,R,U,J
-  47,R,J
-   1,R,D,J
-# mid-right bumper
+   2,R
+   5,R,Z,O
+   8,R
+# late demohyper
+  16,R,J
+# right of crystal
   10,R,D,J,C,O
-   4,R,J,C,O
- 119,R,J
+   1,R,J,C,O
+ 118,R,J
+  15,J
+# before or after peak
+  10,R,J,C,O
+   4,R,J
+  12,R,D,J,C,O
+   3,R,D,J
+ 116,R,J
+   1,L,J
   10,L,J,C,O
    1,L,J
-   3,L,U,J
-   9,L,U,J,Z,O
-   1,L,J
-   8,L,J,G,N
-   9,L,K,G,N
-   8,L,J,G,N
+   1,L,U,J
+  10,L,U,J,Z,O
+   4,L,J
+   5,L,J,G,N
+  10,L,K,G,N
+   7,L,J,G,N
   40,J
 
 # c-03b
@@ -1476,4 +1473,4 @@ console load Celeste/9-Core
    1,O
   31
 
-FileTime: 3:57.915(13995)
+FileTime: 3:57.966(13998)

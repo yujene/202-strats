@@ -495,6 +495,7 @@ console givekey
    3,R,D,J,C,O
    6,R,D,C,O
   24,R,D
+# release down after block to uncrouch
    3,R
   31,R,J
    5,J
@@ -1670,6 +1671,7 @@ console givekey
    2,R,J
    5,R
   13
+# optional down dash if you land early
    2,R,D,G,N
    2,R,D,C,G,N,O
    7,R,D,J,C,G,N,O

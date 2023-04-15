@@ -3,6 +3,7 @@
 Unsafe
 console wipedebug
 console cheat
+Set,Everest.ShowModOptionsInGame,False
 
 # pick chapter to watch
 #Play, prologue
@@ -163,7 +164,7 @@ Play, end
 
 
 #8afc
-FileTime: 3:57.915(13995)
+FileTime: 3:57.966(13998)
 
 Read, 202/202_8afc.tas
 
