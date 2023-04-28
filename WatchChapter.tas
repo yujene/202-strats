@@ -12,7 +12,7 @@ Play, 1afc
 #Play, 3afc
 #Play, 4afc
 #Play, 5afc
-##Play, 6afc
+#Play, 6afc
 #Play, 7afc
 #Play, 8afc
 ##Play, fw+mb
@@ -139,6 +139,22 @@ Play, end
 
 
 #6afc
+FileTime: 6:23.146(22538)
+
+Read, 202/202_6afc_1.tas
+  51
+   1,S
+   1,J
+  30
+   1,R
+   1,F,90
+   1,J
+  46
+Read, 202/202_6afc_2.tas, Start
+
+Play, end
+
+
 #7afc
 FileTime: 12:15.692(43276)
 
