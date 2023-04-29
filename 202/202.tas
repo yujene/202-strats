@@ -189,11 +189,126 @@ Read, 202_5afc_2.tas, Start
  136
 
 # 6afc
+Read, 202_6afc_1.tas, Start
+  51
+   1,S
+   1,J
+  30
+   1,J
+  46
+Read, 202_6afc_2.tas, Start
+ 165
+   1,J
+ 230
+   1,J
+  43
+   1,J
+  45
+   1,J
+  32
+
 # 7afc
+Read, 202_7afc_1.tas, Start
+  51
+   1,S
+   1,J
+  30
+   1,J
+  46
+Read, 202_7afc_2.tas, Start
+  14
+   1,J
+  56
+   1,D
+   1,J
+  14
+   1,J
+   1
+
+Read, 202_7afc_3.tas, Start
+ 164
+   1,J
+  34
+   1,S
+   1,D,J
+  19
+  69
+#lvl_outside
+   4,D,X
+  10,L,J
+   3,L,K,G
+ 126
+   4,D,X
+  32,L,J
+   1,S
+   1,D,J
+  95
+   1,J
+ 427
+   1,J
+  43
+   1,J
+  45
+   1,S
+   1,D,J
+  32
+
 # 8afc
+Read, 202_8afc.tas, Start
+   1,S
+   1,U,J
+   1,O
+  82
+   1,S
+   1,X
+  42
+Repeat 8
+   1,L
+   9
+Endrepeat
+   1,J
+  43
+   1,R
+   1,J
+ 304
+
 # 1b
+Read, 202_1b.tas, Start
+   1,S
+   1,U,J
+   1,O
+  82
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+ 304
+
 # 2b
+Read, 202_2b.tas, Start
+   1,S
+   1,U,J
+   1,O
+  82
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+ 304
+
 # 3b
+Read, 202_3b.tas, Start
+
 # 4b
 # 5b
 # 6b
@@ -234,4 +349,4 @@ Read, 202_5afc_2.tas, Start
 # 7cg
 # 8cg
 
-FileTime: 26:42.947(94291)
+FileTime: 54:53.053(193709)
