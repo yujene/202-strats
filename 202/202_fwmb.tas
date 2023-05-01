@@ -2560,294 +2560,274 @@ console load Celeste/LostLevels
   11,R,D
    1,D
    6
-  15,J
-  17,K
-   1,R,U,K
+  12,J
+  15,K
+   2,U,K
+   3,R,U,K
   10,R,U,K,C,O
-  16,R,U,K
-   5,R,U,K,C,O
-   3,R,U,C,O
-  33,R,U
-   7,R,U,C,O
-   2,R,C,O
+  15,R,U,K
+   6,R,U,K,C,O
+   2,R,U,C,O
+   4,R,U
+  25,R
+   7,R,Z,O
    5,R
-   1,R,D
-   7,R,D,C,O
-  10,R,D
-   2,R,D,C,O
-   4,R,D,J,C,O
-   2,R,D,J
+   4,R,J
   40
 
 # h-01
-  36,R,J
-   1,J
-# soon after spring
-   9,L,U,J,C,O
-   4,L,U,J
-   8,L,U,J,C,O
-   3,L,U,C,O
-  18,L,U
-  19,U
-   1,U,C,O
-  18,R,U,C,O
-   4,R,U
-   6,U
-  11,U,C,O
-  16,U
-  10,U,C,O
-   9
-  24,R
-  12,R,C,O
-   2,R
-  16
-# 5f after neutral
-   7,U,C,O
-   4,C,O
-   3
-  15,J
-   1,J,C,O
-  11,R,J,C,O
-   2,R,J
-   2,R
-  16
    1,R
+   2,R,D
+   9,R,D,C,O
+   2,R,D
+   5,R,D,J
+   2,R,D,J,C,O
+  10,R,D,C,O
+   2,R,D
+   3
+   2,L
+# soon after spring
+   1,L,C,O
+   7,L,U,C,O
+   4,L,U
+  10,L,U,C,O
+  17,L,U
+  21,U
+   1,R,U
+  15,R,U,C,O
+  10,R,U
+   3,U
+  13,U,C,O
+  13,U
+   9,U,C,O
+   6
+  28,R
+  10,R,C,O
+   2,R
+  20
+# 5f after neutral
+   1,C,O
+   5,U,C,O
+   5,C,O
+   3
+  17,J
+   1,J,C,O
+   5,R,J,C,O
+   2,R,C,O
+   1,C,O
+  21
+   5,R
 # jump off after spinner
-   7,R,J
-  10,R
-  11
-   8,L,C,O
-   3,L
+   5,R,J
+   5,R
+  16
+   6,L,C,O
+   2,C,O
    1
-  27,R
+  29,R
+   1
+   1,U
+   9,U,C,O
+  22,U
+   7,L,U,C,O
+   4,L,U
+  33,L
+  23,L,Z,O
+   1,Z,O
    2
   11,U,C,O
-  17,U
-   7,L,U,C,O
-   2,L,U
-  34,L
-  25,L,Z,O
-   1,Z,O
-   1
-  13,U,C,O
-   9,U
-   9,U,C,O
+  12,U
+  10,U,C,O
    2,U
-  11
-  45,R
-   1,R,C,O
-   9,R,U,C,O
+   4
+  47,R
+   1,R,U
+   8,R,U,C,O
    2,R,U
-  24,R
-   5
-   9,L,C,O
-   2
-  25,R
-   1
-# middle
+  18,R
+   9
+   7,L,D,C,O
+   1,L,C,O
+   1,L
+  15,R
+   1,R,U
+  11,R,U,Z,O
+   1,U,Z,O
+   1,U
   13,U,C,O
-  10,U
-   1,U,C,O
-   5,R,U,C,O
-   4,R,U,C,G,N,O
-   5,R,U,G,N
-   6,R,U,J,G,N
+   2,C,O
+   1,R,C,O
+   3,R,C,G,N,O
+   5,R,G,N
+   6,R,J,G,N
   40
 
 # h-02
-   6,R,J,G,N
-   3,R,G,N
-   5,R
-   1,R,U
+   2
+  16,R
    8,R,U,C,O
-   4,R
-   9,R,C,O
+   1,R,U
    3,R
-   6
-  16,U
-  12,U,C,O
-   1,C,O
+   8,R,C,O
+  25,R
    3
+  12,U,C,O
+  10
 # don't fast bubble
-  47,R
-   2,R,D
-  12,R,D,C,O
-   8,R,D
-   6,D
+   8,R,C,O
+  19,R
+  10,R,D,C,O
+  15,R,D
+   2,D
    9,D,C,O
    2,D
-   3
+   1
    9,R,C,O
    1,R
-  41
-  10,D,C,O
-  14
-   5,R,C,O
-   4,R
-   7,R,C,O
-  88,R
-  10,R,C,O
-   4,R
-  17
-   2,R
-  11,R,Z,O
-  28,R
-   3,R,C,O
-   4,R,J,C,O
-  13,R,J
-   5,J
+   4
+  38,D
+   9,D,C,O
+   3,D
+   1,R,D
+   8,R,D,C,O
+   1,R,D
+   3,R
+  11,R,C,O
+  80,R
+   6,R,C,O
+  25,R
+   5,R,Z,O
+  34,R
+   6,R,C,O
+   2,R,J,C,O
+  19,R,J
+   1,J
    8,U,J,C,O
-   1,U,C,O
-   2,C,O
-   6
-  28,R
+   2,J,C,O
+   1
+  30,R
   40
 
 # h-03
-   1,R
-   7,R,C,O
+   6,R,C,O
    5,R
-  20,R,J
-  12,R
-  19
-   8,Z,G,N,O
-  31,G,N
-  34
-  10,Z,O
-   4
+  18,R,J
+  17,R
+  15
+   1,G,N
+   7,Z,G,N,O
+   8,G,N
+   7,J,G,N
+   6,G,N
+  29
+   8,Z,O
+   5
    1,C,O
    8,U,C,O
-   3,C,O
-   3
-  16,L,G,N
-   4,L,J,G,N
-   4,L,G,N
-   4,L,J,G,N
-   2,J,G,N
-   2,R,G,N
-  11,R
-# exit with no dash cd
-  10,R,D,C,O
-   8,R,D
+   2,C,O
+   2
+   1,G,N
+  17,L,G,N
+   5,L,J,G,N
+   3,L,K,G,N
+   1,K,G,N
+   2,R,K,G,N
+   4,R,K
+   7,R
+  11,R,D,C,O
+   5,R,D,J,C,O
   40
 
 # h-03b
-# buffered downrights
-  10,R,D,C,O
-   5,R,D
-  10,R,D,C,O
-   3,R,D
-# late wavedash
-   9,R,D,J
-  23,R,J
-# bubbles
-  10,R,U,J,Z,O
-   9,R,U,J
-   9,R,U,J,C,O
-   2,R,U,C,O
-   1,R,C,O
-   4,R
-  18,R,G,N
-   3,R,J,G,N
-  15,R,K,G,N
-   2,R,K
-   7,K
-   6
-   8,L
-   2,J
-  31,R,J
-   5,J
-  12
-# grab high and sink
-  42,L,G
-  23,R,J,G
-   4,R,K,G
-# climbjump straight up
-  17,J,G,N
-   1,J,C,G,N,O
-  10,R,U,J,C,G,N,O
-   3,R,U,J,G,N
-  16,R,J,G,N
-   1,J
-  18
-  11,L
-   4
-# neutral low
-  16,J
-   9,L,J
-   4,L
-   1
-# jump off top
-   1,J
-  10,R,J
-  24,R,J,G,N
-# pause early
-   6,R,K,G,S,N
-   9,R,K,G,N
-   5,R,J,G,S,N
-   4,R,J,G,N
-   6,R,K,G,S,N
-   9,R,K,G,N
-   4,R,K,X,G,N
-   5,R,K,G,N
-# hand under block
-  15,R,K,Z,G,N
-   2,R,K,G,N
-   5,R,G,N
+   4,R,D
+   9,R,D,C,O
+   2,R,D
    3,R
-  13
-  13,J
-   9,U,J,C,O
-   4,U,J
-   2,R,U,J
-  10,R,U,J,C,O
-   1,R,J,C,O
-   2,R,C,O
-  15,R
-  10
-  10,J
-   5,R,J
-  11,R,J,C,O
-   4,R,J
-  15,R,D,J,C,O
-   3,R,D,C,O
-  15,R
-  13,R,Z,O
+  32,R,J
+   1,R,U,J
+# bubble
+   9,R,U,J,C,O
+  12,R,U,J
+   6,R,U,J,Z,O
+   3,R,U
+   1,R
+  16,R,G,N
+   5,R,J,G,N
+  32,R,K,G,N
+   5,R,G,N
+   1,R
+  16
+   8,L
+   2
+   8,R,J
+  24,R
+   2,R,U
+# left of core spike
+   7,R,U,Z,O
+   2,R,U
+   4,R
+# late jump
+  26,R,J
+  12,R,J,Z,O
+  24,R
+   7,R,J
+   5,J
+  11,U,J,C,O
+  10,U,J
+   7,R,U,J,C,O
+   1,R,U,C,O
+   2,R,U
+   1,R
+  20
+   3,R
+   7,R,J
+   1,R
+   9,R,C,O
+   7,R
+   6,R,D,C,O
+   4,R,D
+  21,R
+   8,R,Z,O
+   4,R
   40
 
 # h-04
-# transition demohyper
-  55,R,J
-  18,J
-  36
-   8,L
-  10,L,Z,O
-   4,L
-  21
-  16,R
-  13
-   1,U
-# dash up for easy cycle
-  10,U,Z,O
-  37
-  13,L
-  12
-  19,R
-  16
-  13,L
-  13
+  42,R,J
   18,R
-  23
-  10,L
-  18
-   4,R
-  21
-  14,L
-   1,C,O
-   8,R,C,O
-  35,R
-   9,R,C,O
+# fast fall before second row
+   1,R,D
+  10,D
+  10,L,D
+  18,D
+   1
+   2,L
+   8,L,Z,O
+   1,L,D,Z,O
+  19,D
+  18,R,D
+   3,D
+  15,L,D
+   4,D
+  15,R,D
+   4,D
+  13,L,D
+   1,D
+# release fast fall before last row
+   7
+  18,R
+   2,R,D
+  13,D
+  10,L,D
+  34,D
+   1,L,D
+   6,L,D,C,O
+   1,L,D
+   1
    2,R
+   8,R,C,O
+  36,R
+   9,R,C,O
+   1,C,O
   40
 
 # h-05
@@ -3075,351 +3055,326 @@ console load Celeste/LostLevels
   40
 
 # h-07
-  23,J
+  21,J
    1,L,D,J
    2,L,D,J,C,O
-   5,L,D,C,O
-   2,D,C,O
-   2,R
-  23,R,J
-   8,R
+   6,L,D,C,O
+   1,R,C,O
+   3,R
+  19,R,J
+  11,R
    9,R,C,O
    5,R
    1,R,D
-   8,R,D,C,O
-   4,R,D
-  22,R,D,J
-   1,R,D,J,C,O
    7,R,D,C,O
+   4,R,D
+  19,R,D,J
+   4,R,D
+   8,R,D,C,O
    3,R,D
    6,R,D,J
-  10,R,D,J,C,O
-   9,R,J
-   8,R,U,J,C,O
-   1,R,J,C,O
-   6,R,J
-   8,R,J,C,O
-   3,R,J
-   2,R,U,J
-  10,R,U,J,C,O
-   1,R,U,C,O
-   6,R,U
-  26,R,U,G,N
-   8,L,U,G,N
-   9,L,U,J,G,N
-# a tad after jump
-  10,L,U,J,C,G,N,O
-   1,L,U,C,G,N,O
-  11,L,U,G,N
-   2,L,U
-   1,L
-  14,R
-   1,R,D
-  10,R,D,C,O
+   6,R,D,J,C,O
+   4,R,D,C,O
+   9,R
+   8,R,U,C,O
    2,R,C,O
-   2,R
-   9,R,Z,O
-   2,R
-   2,R,D
-   9,D
-   7,R,D
-   5,R,D,J
-   6,R,D
-   9,R,D,C,O
-  15,R,D
+   6,R
+   9,R,C,O
+   4,R
+  10,R,U,C,O
+   3,R,U
+  20,R,U,G,N
+   7,L,U,G,N
+   9,L,U,J,G,N
+   7,L,U,J,C,G,N,O
+   2,L,U,C,G,N,O
+  14,L,U,G,N
+   1,L,G,N
+  13,R
+   1,R,D
+   8,R,D,C,O
+   2,R,C,O
+   3,R
+   7,R,Z,O
+   3,R
+  20,R,D
+   8,D
+   3,R,D
+   3,R,D,J
+  13,R,D
    7,R,D,C,O
+  14,R,D
+   8,R,D,C,O
    8,R,D
-   9,D
+   8,D
+   1,R,D
    3,R,D,C,O
    3,R,D,J,C,O
-   6,R,D
+   8,R,D
+   1,R,D,J
+  29,R,J
+   1,R,U,J
+  10,R,U,J,Z,O
    1,R
-  22,R,J
-   9,R
-   1,R,U
-# upright into spring
-# left dash backup
-   9,R,U,Z,O
-   7
-   1,C,O
-   9,L,C,O
-  21,L
-  10
-  21,R
-   2,R,U
-   7,R,U,Z,O
-   2,Z,O
-   5
-   3,L
-   9,L,C,O
-  43,L
-  10
-   2,R,U
-   8,R,U,Z,O
-   1,Z,O
-   5
-   2,L
-  13,L,C,O
-  38,L
-  10,L,C,O
-   5,L
+   2
+# backup left dash
+  12,L,C,O
    1
-  11,R
-  47,R,U
-# 2 tile to the left
-  10,R,U,C,O
-   1,R,U
+  15,R
+   1,R,D
+   8,R,D,C,O
+   2,R,D
+  18,R
+   9,R,U,Z,O
+  19,R
+   9,R,D,C,O
+  15,R
+   7,R,U,Z,O
+   2,R,U
+  19,R
+# above spikes
+   8,R,C,O
    3,R
-  31,R,G,N
-# mid block
-  29,R,J,G,N
-   3,R,U,J,G,N
-  23,R,U,G,N
-# top block
-   2,R,U,J,G,N
+   1
+   9,L,D,C,O
+   3,L,D
+   1
+   1,R
+  57,R,G,N
+   1,R,U,G,N
+# 2 tile to the left
+   7,R,U,C,G,N,O
+   1,R,U,G,N
+  35,R,G,N
+# middle
   28,R,J,G,N
-  11,R,K,G,N
-  23,R,J,G,N
-  17,R,G,N
-  10,R,C,G,N,O
-  13,R,G,N
+   4,R,G,N
+# top
+  19,R,U,G,N
+   1,R,U,J,G,N
+  28,R,J,G,N
+  10,R,K,G,N
+   9,R,J,G,N
+   8,R,J,C,G,N,O
+   4,R,C,G,N,O
+  20,R,G,N
+  12,R,C,G,N,O
+   9,R,G,N
   40
 
 # h-08
 # walk off
-  65,R,G,N
+  64,R
+# bg diamond
    9,R,Z,G,N,O
-  13,R,G,N
+  12,R,G,N
    5,R,J,G,N
-   5,R,K,G,N
-   5,K,G,N
-   4,U,K,C,G,N,O
-   5,U,C,O
-   1,U
-   3
-  23,R
-  19
-  15,L
-# full walljump
-   8,L,J
-  17,J
-   1,R,U,J
-  13,R,U,J,C,O
-   3,R,U,J
-   5,U,J
-   8,U,C,O
-   2,C,O
-# jump above coin
-   1,J
-  76,R,J
-   2,J
-   4
-  13,L
-   2
-  19,J
-  13,L,J
-   4
+   7,R,K,G,N
+   2,K,G,N
+   1,U,K
+   4,U,K,C,O
+   4,U,C,O
    1,C,O
-   6,U,C,O
-   5,C,O
-   1,J,C,O
-   6,J
-  13,R,J
-   3,J
-   1,U,J,C,O
-   7,U,C,O
-   7,C,O
-# high wallbounce
-   1,J,C,O
-  13,J
-  22,L,J,G,N
-  17,L,K,G,N
-   4,K,G,N
-  36,G,N
-  19,D,G,N
-   6,G,N
-  13,R,G,N
-  21,R,J,G,N
-  14,R,G,N
-  11
-   1,J,G,N
-   1,L,J,G,N
-   1,L,U,J,G,N
-# climb up
-  20,L,U,G,N
-   1,L,G,N
-   9
-   1,L,D
-# downleft
-   8,L,D,C,O
-   1,D
-   2,R,D
-# no fast fall
-  43,R
-   8,R,Z,O
-   9,R
-   9
-   2,R,D
-   8,R,D,C,O
+   4
+   2,R
+  19,R,D
+  15,D
+  13,L,D
+  15,R,J
+   1,R,J,C,O
+  12,R,U,J,C,O
+   4,R,U,J
+   2,U,J
+  10,U,C,O
    1,R,C,O
+# slightly high wallbounce
+   1,R,J,C,O
+  40,R,J
+  34,R
+  11
+   9,L
+   2
+   1,U
+  12,U,C,O
+   7,U,J
+  14,R,U,J
+   1,U,J
+   1,U,J,C,O
+  11,U,C,O
+   3,C,O
+# high wallbounce
+  13,J
+  23,L,J,G,N
+  18,L,K,G,N
+   7,K,G,N
+  45,G,N
+  17,D,G,N
+   4,G,N
+  12,R,G,N
+   4,R,J,G,N
+  10,R,G,N
+   6,G,N
+   8,L,G,N
+   7,L,J,G,N
+  17,L,G,N
+   1,G,N
+  30
+  13,R
+   9,R,Z,O
+   5,R
+   1,R,D
+  10,R,D,C,O
+   1,R,D,J
+   4,R,J
   40
 
 # h-09
-   1,R
-  10,R,J
-# after wall
+   9,R,J
+# after ceiling
   11,R,D,J,C,O
-   1,R,D,J
-   1,D,J
-   1,L,D,J
-   2,L,J
-  10,L,J,C,O
-   3,L
-  65,L,D
-  24,D
-  11,D,C,O
-  10,D
-   4,L,D
-  87,D
-   1,D,C,O
-   7,R,D,C,O
-   4,R,D
-   1,D
-  29,L,D
-   2,L
-   8,L,C,O
+   1,R,D
+   2
    1,L
-   1
-  43,R,D
-   4,R
-  12,R,Z,O
-  41,R
-  16,R,U
-  25,U
-   8,R,U
-  17,R
-  15,R,D
-   6,D
-  11,L,D
-  12,D
-   4,R,D
-  21,R
-   8,R,U
-  11,R
-   6,R,U
-   1,R,U,C,O
-  11,U,C,O
-   3,U
-  20
-   2,R
-   9,R,C,O
-   2,C,O
-  24
-   8,U,C,O
-  33
-# delay until kevin above block
-   9,L,C,O
-  42,L
- 144,D
-# right kevin mid spinner
-   7,D,C,O
-  25,D
+  10,L,C,O
+   1,L
+  31,L,D
+# middle kevin
+  57,D
+  10,D,C,O
+  14,D
+   3,L,D
+  20,D
+  63,R,D
+   7,R,D,C,O
+   6,R,D
+  22,L,D
+   9,L
+   5,L,C,O
+   1,L
+   2
+  47,R,D
+   3,R
+  11,R,C,O
+   6,R
+  47,R,U
+  14,U
+  13,R,U
+  20,R
    9,R,D
-   7,R,D,J
-   2,R,J
-  18,R
-   1
-  10,U,C,O
+   8,D
+  12,L,D
+   8,D
+  14,R,D
+  16,R
+  22,R,U
    4,U
   10,U,C,O
-   9
-  29,L,D
-   1,D,C,O
-   8,R,D,C,O
-   5,R,D
-  10,R,D,C,O
-   4,R,D
-# edge
-  10,R,D,J
-# 2 tile gap
-  14,R,D,J,C,O
+   2,U
+  17
+   3,R
+  11,R,C,O
+   1,C,O
+  22
+   1,U
+# delay until kevin off block
+   6,U,C,O
+   1,C,O
+  33
+  10,L,C,O
+  38,L
+   1
+ 140,D
+# right kevin touch spinner
+  11,D,C,O
+  20,D
+  10,R,D
+   3,R,D,J
+   3,R,J
+   5,R
+   2,R,U
+   9,R,U,Z,O
+   5,R,U
+   2,U
+   9,U,C,O
+   1,U
+  21
+   9,R
+   6,R,Z,O
+   6,R
+# jump edge
+  11,R,J
+# before floaty boi to land ultra before transition
+  12,R,D,J,C,O
    1,R,D,C,O
-   3,R,D
+   2,R
+   3,R,G,N
   40
 
 # h-10
-   3,R,J,G,N
-  34,R,K,G,N
-   2,R,K
-  88,R
-# center gaps to be slow
-   6,R,D
-  25,R
-  13,R,U
-  24,R
-  12,R,D
-  14,D
-  13,R,D
-  25,R
-  17,R,U
-  15,U
-  12,R,U
-  15,R
-  21,R,D
- 300,R
-# adjust
-  12,R,D
-  37,R
-  10,R,U
-  40,R
-  14,R,U
-  85,R
-   2,R,D
-# above spring
-   8,R,D,C,O
-   2,D,C,O
-  10,D
-   2,L,D
-   9,L,D,C,O
-   1,L,D
-   1,L
-   2
-   2,R
-  10,R,C,O
-  16,R
-   8,R,C,O
-   2,R
-  46,R,G,N
-  17,R,U,G,N
-   5,R,G,N
-   2,R
-   2,R,D
-  10,R,D,C,O
-   1,D,C,O
-   5,D
-   2,L,D
-   9,L,D,C,O
-   2
-   4,R
-  10,R,C,O
-   6,R
-  11,R,C,O
-   3,R
-  28,R,U
+   2,R,J,G,N
+  20,R,K,G,N
+   7,R,K
  102,R
-# after bubble
-   9,R,C,O
-   3,R
-  32,R,D
-  69,R
-# wait politely
-  46
-   1,R,U
-   8,R,U,C,O
-   5,R,U
-  11,R,U,C,O
+   8,R,D
+  20,R
+  16,R,U
+# centered
+  22,R
+  12,R,D
+  15,D
+  14,R,D
+  22,R
+  18,R,U
+  16,U
+  15,R,U
+  15,R
+  23,R,D
+ 113,R
+# turn when halfway
+  21,R,D
+   6,D
+   8,R,D
+  20,R
+   3,R,U
+  27,R
+   4,R,D
+  18,R
+# last low spinner
   10,R,U
- 376
+   4,U
+  16,R,U
+  36,R
+   4,R,U
+  10,R
+  11,R,D
+  31,R
+  23,R,D
+  41,R
+   7,U,Z,O
+   2,Z,O
+   2
+   1,L
+   1,L,C,O
+   7,L,D,C,O
+   2,L,D
+   3,R
+   4,R,J,G,N
+   1,R,J,C,G,N,O
+   3,R,U,J,C,G,N,O
+   7,R,U,J,G,N
+  13,R,U,K,G,N
+  30,R,K,G,N
+  10,R,U,K,C,G,N,O
+   2,R,K,C,G,N,O
+   1,R,C,O
+   3,R
+  34,R,D
+   7,R
+  10,R,C,O
+   5,R
+  12,R,C,O
+   4,R
+ 382
 
 
 # stubbornness
@@ -5405,6 +5360,7 @@ console load Celeste/LostLevels
    1,R,G,N
    2,G,N
   15
+# powerbox
    2,D
    7,D,C,O
    3,D
@@ -6134,4 +6090,4 @@ console load Celeste/LostLevels
    1,O
   31
 
-FileTime: 17:22.508(61324)
+FileTime: 17:03.485(60205)
