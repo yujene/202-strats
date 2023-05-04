@@ -15,13 +15,12 @@ Play, 1afc
 #Play, 6afc
 #Play, 7afc
 #Play, 8afc
-##Play, fw+mb
 #Play, 1b
 #Play, 2b
 #Play, 3b
-##Play, 4b
+#Play, 4b
 #Play, 5b
-##Play, 6b
+#Play, 6b
 ##Play, 7b
 ##Play, 8b
 #Play, 1c
@@ -32,6 +31,7 @@ Play, 1afc
 #Play, 6c
 #Play, 7c
 #Play, 8c
+#Play, fw+mb
 #Play, fwg
 #Play, 1adg
 #Play, 2ag
@@ -187,7 +187,6 @@ Read, 202/202_8afc.tas
 Play, end
 
 
-#fw+mb
 #1b
 FileTime: 1:39.059(5827)
 
@@ -213,6 +212,13 @@ Play, end
 
 
 #4b
+FileTime: 3:03.447(10791)
+
+Read, 202/202_4b.tas
+
+Play, end
+
+
 #5b
 FileTime: 2:21.729(8337)
 
@@ -222,6 +228,13 @@ Play, end
 
 
 #6b
+FileTime: 4:27.274(15722)
+
+Read, 202/202_6b.tas
+
+Play, end
+
+
 #7b
 #8b
 #1c
@@ -284,6 +297,14 @@ Play, end
 FileTime: 1:15.973(4469)
 
 Read, 202/202_8c.tas
+
+Play, end
+
+
+#fw+mb
+FileTime: 17:03.485(60205)
+
+Read, 202/202_fwmb.tas
 
 Play, end
 
@@ -357,7 +378,7 @@ Play, end
 
 
 #4bg
-FileTime: 3:05.725(10925)
+FileTime: 3:06.201(10953)
 
 Read, 202/202_4bg.tas
 

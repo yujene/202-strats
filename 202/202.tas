@@ -308,10 +308,73 @@ Read, 202_2b.tas, Start
 
 # 3b
 Read, 202_3b.tas, Start
+   1,S
+   1,U,J
+   1,O
+  82
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+ 304
 
 # 4b
+Read, 202_4b.tas, Start
+   1,S
+   1,U,J
+   1,O
+  82
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+ 304
+
 # 5b
+Read, 202_5b.tas, Start
+   1,S
+   1,U,J
+   1,O
+  82
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+ 304
+
 # 6b
+Read, 202_6b.tas, Start
+***
+#   1,S
+#   1,U,J
+#   1,O
+#  82
+#   1,S
+#   1,X
+#  42
+#   1,R
+#   9
+#   1,J
+#  43
+#   1,R
+#   1,J
+# 304
+
 # 7b
 # 8b
 # 1c
@@ -349,4 +412,4 @@ Read, 202_3b.tas, Start
 # 7cg
 # 8cg
 
-FileTime: 54:53.053(193709)
+FileTime: 1:04:45.503(228559)

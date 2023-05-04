@@ -5,15 +5,8 @@ console hard Celeste/4-GoldenRidge
   61
 
 # a-00
-   8,J
-   3
-   1,D
-   8,R,D,C,O
-   2,R,D
-   2,R
-   3,R,J
-   1,R
-   2,R,U
+  12,R,Z,O
+   4,R,J
    7,R,U,C,O
    3,R,C,O
    3,R
@@ -619,57 +612,43 @@ console hard Celeste/4-GoldenRidge
   40
 
 # c-01
-   2,R
-   2,R,D
-   8,R,D,C,O
-   1,R,D
-   3,R
-  31,R,J
-# after middle
-   1,R,J,Z,O
-  10,R,U,J,Z,O
-   1,R,U,J
-# just walk off
-  72,R
-  15
-   6,R
-  16,R,J
-  15,J
-  14,R,J
-   6,J
-   1,R,J
-   2,R,U,J
-   7,R,U,J,Z,O
-   1,R,Z,O
-  24,R
-  22
-   4,R
-   5,R,J
-  26,J
-   7,U,J,C,O
-   2,J,C,O
-   2,C,O
-   2
-  13,L
-  35
    1,R
-  53,R,J
+   5,R,Z,O
+   8,R
+  34,R,J
+   1,R,U,J
+# after middle
+   9,R,U,J,Z,O
+   1,R,J,Z,O
+   2,R,J
+# just walk off
+  62,R
+  19
+   9,R
+   8,R,J
+  25,J
+  13,R,J
+   6,J
+   2,R,J
    1,R,U,J
   11,R,U,J,Z,O
-   2,R,J
-  16
+   1,R,U,J
+  13,R,U
+# left side
+  53
    1,R
-   9,R,J
-   6,R,J,C,O
-   6,R,C,O
+# platform passes cue
+   8,R,C,O
+   5,R
+  33,R,J
+   9,R,U,J,Z,O
+   1,R,U
+  12,R
+  35,R,D
+   4,R
+   8,R,J
+   9,R,J,Z,O
    3,R
-  25,R,D
-   2,D
-  11
-  10,R,J
-   4,R,J,Z,O
-   1,R,Z,O
-   6,R
    4,R,J
   40
 
@@ -842,15 +821,14 @@ console hard Celeste/4-GoldenRidge
    3,R,D,C,O
    7,R,D,J,C,O
    2,R,D,C,O
-# slow bubble
-  31,R,D
-   7,R
+   5,R,D
+  15,R,D,C,O
   10,R,U,Z,O
    3,R,U
   12,R,U,C,O
    1,R,U
-  44,R
-  11,R,U,Z,O
+  34,R
+  11,R,Z,O
    3,U
   10,U,C,O
    4
@@ -1093,10 +1071,9 @@ console hard Celeste/4-GoldenRidge
    2,R,C,O
   24,R
    5
-  20,L
-   9,L,C,O
-   1,L
-   2
+   8,L
+  10,L,D,C,O
+   3,L,D
    2,R,D
    7,R,D,C,O
    3,R,C,O
@@ -1225,4 +1202,4 @@ console hard Celeste/4-GoldenRidge
    1,O
   31
 
-FileTime: 3:06.201(10953)
+FileTime: 3:03.447(10791)
