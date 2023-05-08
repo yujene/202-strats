@@ -21,8 +21,8 @@ Play, 1afc
 #Play, 4b
 #Play, 5b
 #Play, 6b
-##Play, 7b
-##Play, 8b
+#Play, 7b
+#Play, 8b
 #Play, 1c
 #Play, 2c
 #Play, 3c
@@ -236,7 +236,21 @@ Play, end
 
 
 #7b
+FileTime: 6:27.260(22780)
+
+Read, 202/202_7b.tas
+
+Play, end
+
+
 #8b
+FileTime: 3:28.641(12273)
+
+Read, 202/202_8b.tas
+
+Play, end
+
+
 #1c
 FileTime: 0:28.390(1670)
 

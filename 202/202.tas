@@ -255,10 +255,7 @@ Read, 202_7afc_3.tas, Start
 
 # 8afc
 Read, 202_8afc.tas, Start
-   1,S
-   1,U,J
-   1,O
-  82
+  51
    1,S
    1,X
   42
@@ -274,10 +271,7 @@ Endrepeat
 
 # 1b
 Read, 202_1b.tas, Start
-   1,S
-   1,U,J
-   1,O
-  82
+  51
    1,S
    1,X
   42
@@ -291,10 +285,7 @@ Read, 202_1b.tas, Start
 
 # 2b
 Read, 202_2b.tas, Start
-   1,S
-   1,U,J
-   1,O
-  82
+  51
    1,S
    1,X
   42
@@ -308,10 +299,7 @@ Read, 202_2b.tas, Start
 
 # 3b
 Read, 202_3b.tas, Start
-   1,S
-   1,U,J
-   1,O
-  82
+  51
    1,S
    1,X
   42
@@ -325,10 +313,7 @@ Read, 202_3b.tas, Start
 
 # 4b
 Read, 202_4b.tas, Start
-   1,S
-   1,U,J
-   1,O
-  82
+  51
    1,S
    1,X
   42
@@ -342,10 +327,7 @@ Read, 202_4b.tas, Start
 
 # 5b
 Read, 202_5b.tas, Start
-   1,S
-   1,U,J
-   1,O
-  82
+  51
    1,S
    1,X
   42
@@ -359,33 +341,176 @@ Read, 202_5b.tas, Start
 
 # 6b
 Read, 202_6b.tas, Start
-***
-#   1,S
-#   1,U,J
-#   1,O
-#  82
-#   1,S
-#   1,X
-#  42
-#   1,R
-#   9
-#   1,J
-#  43
-#   1,R
-#   1,J
-# 304
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+ 304
 
 # 7b
+Read, 202_7b.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+ 304
+
 # 8b
+Read, 202_8b.tas, Start
+ 306
+   1,J
+ 188
+   1,S
+   1,X
+  42
+Repeat 8
+   1,L
+   9
+Endrepeat
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
 # 1c
+Read, 202_1c.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
 # 2c
+Read, 202_2c.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
 # 3c
+Read, 202_3c.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
 # 4c
+Read, 202_4c.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
 # 5c
+Read, 202_5c.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
 # 6c
+Read, 202_6c.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
 # 7c
+Read, 202_7c.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
 # 8c
+Read, 202_8c.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
+  46
+
 # fw+mb
+Read, 202_fwmb.tas, Start
+
 # fwg
 # 1adg
 # 2ag
@@ -412,4 +537,4 @@ Read, 202_6b.tas, Start
 # 7cg
 # 8cg
 
-FileTime: 1:04:45.503(228559)
+FileTime: 1:37:03.673(342569)
