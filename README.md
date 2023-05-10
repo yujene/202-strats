@@ -7,6 +7,8 @@ Small warning that the TAS files will look very weird because of a combination o
 
 **202.tas**: combines all files together into a fullgame 202 run with menuing
 
+**SauceDispenser.py**: makes a copy of tas files into 202_sauce folder that have all non-sauce comments removed so you can just press fast forward to next comment to receive sauce
+
 **WatchChapter.tas**: lets you choose a chapter to watch from beginning to end and logs the chapter's file time, which is useful for chapters split into multiple files
 
 ## Why
