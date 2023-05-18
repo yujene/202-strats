@@ -35,7 +35,7 @@ Play, 1afc
 #Play, fwg
 #Play, 1adg
 #Play, 2ag
-##Play, 3ag
+#Play, 3ag
 #Play, 4ag
 #Play, 5ag
 ##Play, 6ag
@@ -47,8 +47,8 @@ Play, 1afc
 #Play, 4bg
 #Play, 5bg
 #Play, 6bg
-##Play, 7bg
-##Play, 8bg
+#Play, 7bg
+#Play, 8bg
 #Play, 1cg
 #Play, 2cg
 #Play, 3cg
@@ -348,6 +348,13 @@ Play, end
 
 
 #3ag
+FileTime: 4:31.541(15973)
+
+Read, 202/202_3ag.tas
+
+Play, end
+
+
 #4ag
 FileTime: 2:39.987(9411)
 
@@ -416,7 +423,21 @@ Play, end
 
 
 #7bg
+FileTime: 7:07.193(25129)
+
+Read, 202/202_7bg.tas
+
+Play, end
+
+
 #8bg
+FileTime: 4:11.549(14797)
+
+Read, 202/202_8bg.tas
+
+Play, end
+
+
 #1cg
 FileTime: 0:32.640(1920)
 

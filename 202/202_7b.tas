@@ -186,12 +186,12 @@ console hard Celeste/7-Summit
    1,Z,O
   14,U,C,O
    1,C,O
- 348
+ 352
 
 
 # 500m
 # b-00
-  76
+  72
    2,L,D,C,G,N,O
    5,L,D,J,C,G,N,O
    2,L,D,J,G,N
@@ -479,12 +479,12 @@ console hard Celeste/7-Summit
   17,U,K,C,O
    1,K,C,O
    2,K
- 292
+ 296
 
 
 # 1000m
 # c-01
-  76
+  72
    1,R
    8,R,J
    1,R
@@ -766,12 +766,12 @@ console hard Celeste/7-Summit
    4,U
   12,U,C,O
    9,U
- 325
+ 329
 
 
 # 1500m
 # d-00
-  76
+  72
   16,J
    1,U,J
    9,U,J,C,O
@@ -1007,12 +1007,12 @@ console hard Celeste/7-Summit
    2,U
   18,U,C,O
    5,U
- 286
+ 290
 
 
 # 2000m
 # e-00
-  78
+  74
    1,R
    7,R,C,O
    5,R
@@ -1266,12 +1266,12 @@ console hard Celeste/7-Summit
    6,U,J
   14,U,J,C,O
    4,U
- 301
+ 305
 
 
 # 2500m
 # f-00
-  76
+  72
    7,R,J,G,N
    2,R,G,N
    7,R,J,G,N
@@ -1582,12 +1582,12 @@ console hard Celeste/7-Summit
   14,R
    4,R,C,O
   22,R
- 329
+ 333
 
 
 # 3000m
 # g-00
-  73
+  69
    7,L,C,G,N,O
    6,L,G,N
    7,L,J,G,N
@@ -2492,12 +2492,12 @@ console hard Celeste/7-Summit
  182
    3,S
    1,D,J
- 141
+ 145
 
 # g-03
-  72
+  69
 # buffer jump on regain control
-  24,J
+  23,J
    1,U,J
 # buffer dashes at max height
    9,U,J,C,O

@@ -1150,7 +1150,7 @@ console load Celeste/LostLevels
    4,U,J,C,O
   40
 
-# e-501
+# e-01
   10
    1,U
    7,U,C,O
@@ -1549,12 +1549,14 @@ console load Celeste/LostLevels
   15
    8,L
    9,L,G,N
-# hand slightly above arrow
+# hand slightly above arrow or line up to bg gap on the right
   24,G,N
   16,R,G,N
    3,R,U,G,N
-  45,R,G,N
-# bg tile demo+jump
+  40,R,G,N
+# 10f starting when madeline fills bg gap
+   5,R,G,N
+# demo+jump
   13,R,D,J,Z,G,N
    1,R,J,Z,G,N
   20,R,G,N
@@ -5779,4 +5781,4 @@ console load Celeste/LostLevels
    1,O
   31
 
-FileTime: 16:47.930(59290)
+FileTime: 16:48.389(59317)

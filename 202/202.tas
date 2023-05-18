@@ -510,31 +510,410 @@ Read, 202_8c.tas, Start
 
 # fw+mb
 Read, 202_fwmb.tas, Start
+  51
+   1,S
+   1,J
+  30
+   1,J
+  46
 
 # fwg
-# 1adg
-# 2ag
-# 3ag
-# 4ag
-# 5ag
-# 6ag
-# 7ag
-# 8ag
-# 1bg
-# 2bg
-# 3bg
-# 4bg
-# 5bg
-# 6bg
-# 7bg
-# 8bg
-# 1cg
-# 2cg
-# 3cg
-# 4cg
-# 5cg
-# 6cg
-# 7cg
-# 8cg
+Read, 202_fwg.tas, Start
+  51
+   1,S
+   1,X
+  42
+Repeat 9
+   1,L
+   9
+Endrepeat
+   1,J
+  43
+   1,J
+  30
+   1,J
+  46
 
-FileTime: 1:37:03.673(342569)
+# 1adg
+Read, 202_1adg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
+  30
+   1,J
+  46
+
+# 2ag
+Read, 202_2ag.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
+  30
+   1,J
+  46
+
+# 3ag
+Read, 202_3ag.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
+  30
+   1,J
+  46
+
+# 4ag
+Read, 202_4ag.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
+  30
+   1,J
+  46
+
+# 5ag
+Read, 202_5ag.tas, Start
+  51
+   1,S
+   1,X
+  42
+#   1,R
+#   9
+#   1,J
+#  43
+#   1,J
+#  30
+#   1,R
+#   1,J
+#  46
+### temp
+Repeat 4
+   1,L
+   9
+EndRepeat
+###
+
+## 6ag
+#Read, 202_6ag.tas, Start
+#  51
+#   1,S
+#   1,X
+#  42
+#   1,R
+#   9
+#   1,J
+#  43
+#   1,J
+#  30
+#   1,J
+#  46
+
+## 7ag
+#Read, 202_7ag.tas, Start
+#  51
+#   1,S
+#   1,X
+#  42
+#Repeat 2
+#   1,R
+#   9
+#EndRepeat
+#   1,J
+#  43
+#   1,J
+#  30
+#   1,R
+#   1,J
+#  46
+
+## 8ag
+#Read, 202_8ag.tas, Start
+#  51
+#   1,S
+#   1,X
+#  42
+#Repeat 8
+#   1,L
+#   9
+#EndRepeat
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,J
+ 304
+
+# 1bg
+Read, 202_1bg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,J
+ 304
+
+# 2bg
+Read, 202_2bg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,J
+ 304
+
+# 3bg
+Read, 202_3bg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,J
+ 304
+
+# 4bg
+Read, 202_4bg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,J
+ 304
+
+# 5bg
+Read, 202_5bg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,J
+ 304
+
+# 6bg
+Read, 202_6bg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,J
+ 304
+
+# 7bg
+Read, 202_7bg.tas, Start
+  51
+   1,S
+   1,X
+  42
+Repeat 2
+   1,R
+   9
+EndRepeat
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,R
+   1,J
+  46
+
+# 8bg
+Read, 202_8bg.tas, Start
+  51
+   1,S
+   1,X
+  42
+Repeat 8
+   1,L
+   9
+EndRepeat
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
+# 1cg
+Read, 202_1cg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
+# 2cg
+Read, 202_2cg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
+# 3cg
+Read, 202_3cg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
+# 4cg
+Read, 202_4cg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
+# 5cg
+Read, 202_5cg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
+# 6cg
+Read, 202_6cg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
+# 7cg
+Read, 202_7cg.tas, Start
+  51
+   1,S
+   1,X
+  42
+Repeat 2
+   1,R
+   9
+EndRepeat
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
+# 8cg
+Read, 202_8cg.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,N
+  60
+   1,R
+
+FileTime: 2:42:45.412(574436)
