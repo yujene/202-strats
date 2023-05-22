@@ -610,8 +610,8 @@ Read, 202_5ag.tas, Start
 #   1,J
 #  46
 ### temp
-Repeat 4
-   1,L
+Repeat 2
+   1,R
    9
 EndRepeat
 ###
@@ -637,28 +637,28 @@ EndRepeat
 #   1,S
 #   1,X
 #  42
-#Repeat 2
-#   1,R
-#   9
-#EndRepeat
-#   1,J
-#  43
-#   1,J
-#  30
-#   1,R
-#   1,J
-#  46
+Repeat 2
+   1,R
+   9
+EndRepeat
+   1,J
+  43
+   1,J
+  30
+   1,R
+   1,J
+  46
 
 ## 8ag
-#Read, 202_8ag.tas, Start
-#  51
-#   1,S
-#   1,X
-#  42
-#Repeat 8
-#   1,L
-#   9
-#EndRepeat
+Read, 202_8ag.tas, Start
+  51
+   1,S
+   1,X
+  42
+Repeat 8
+   1,L
+   9
+EndRepeat
    1,J
   43
    1,R
@@ -915,5 +915,7 @@ Read, 202_8cg.tas, Start
    1,N
   60
    1,R
+ 360
+ExitGame
 
-FileTime: 2:42:45.412(574436)
+FileTime: 2:46:07.406(586318)
