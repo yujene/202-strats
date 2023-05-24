@@ -436,14 +436,12 @@ console load Celeste/7-Summit
  169
    1,S
    1,D,Z,S,O
-   2,Z,S,O
-   1,Z,O
- 139
+ 145
 
 
 # 500m
 # b-00
-  82
+  79
    8,L,U,C,O
    1,L,C,O
    5,L
@@ -1056,14 +1054,12 @@ console load Celeste/7-Summit
  222
    2,S
    1,D,Z,S,O
-   1,Z,S,O
-   1,Z,O
- 140
+ 145
 
 
 # 1000m
 # c-00
-  82
+  79
    2,R,D,C,O
    3,R,D,J,C,O
    6,R,J
@@ -1747,12 +1743,12 @@ console load Celeste/7-Summit
  199
    3,S
    1,D,Z,O
- 142
+ 145
 
 
 # 1500m
 # d-00
-  77
+  74
    6,L,C,O
    1,C,O
    4
@@ -2641,14 +2637,12 @@ console load Celeste/7-Summit
  227
    2,S
    1,D,Z,S,O
-   1,Z,S,O
-   1,Z,O
- 140
+ 145
 
 
 # 2000m
 # e-00b
-  79
+  76
    1,R
   14,R,J
    1,R,J,C,O

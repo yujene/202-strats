@@ -1095,73 +1095,61 @@ console load Celeste/9-Core
 
 # d-08
   71,R
-   3,R,J
-  16,R
+   1,R
+   4,R,J
+  15,R
    7,R,J
   12,R
    9,R,J
-   1,R,J,C,O
-  10,R,C,O
-   2,R
-   2
-   1,L,D
-   8,L,D,C,O
-   1,L,D
-   1,R,D
-   1,R,D,G,N
-   2,R,G,N
-   4,R,J,G,N
-  12,R,G,N
-   5,R,J,G,N
-   5,R,G,N
-  11,R,J,G,N
-  16,R,G,N
-   5,R,Z,G,N,O
-   6,R,G,N
-  36,R,J,G,N
-   9,R,K,G,N
-   5,R,G,N
-   6,R
-  13,R,J
-  31,R
-# edge or coyote
-  37,R,J
-# tip
-  11,L,J
-   1,J
-  22,R,J
-   6,R,J,G,N
-   9,R,G,N
-   3,R,J,G,N
-  21,R,G,N
-   8,R,J,G,N
-  34,R,G,N
    1,R
-  18
-   6,R
-  28,R,J
-  12,R
+  12,R,C,O
+   1,R,D
+   1,L,D
+  11,L,D,C,O
+   3,R,D
+   1,R
+   4,R,J,G,N
+   9,R,G,N
+  18,R,J,G,N
+  10,R,G,N
+  34,R,J,G,N
+  11,R,J,C,G,N,O
+   1,R,J,G,N
+  15,R,G,N
+  12,R,J,G,N
+   9,R,G,N
+  26,R
+# edge or coyote
+  38,R,J
+   3,L,J
+   5,L
+  24,R
+  17,R,G,N
+   6,R,J,G,N
+  23,R,G,N
+  31
+  25,R,J
+  16,R
    4,R,J
-   5,R
+   7,R
    4,R,J
-   4,R
-   5,R,J
-   4,R
+  33,R
    3,R,J
-  29,R
-   6,R,J
-   9,R
-   7
-  19,R
+  12,R
+   2,R,D
+   8,D
+   4,R,D
+  12,R
    5,R,Z,O
    7,R
-  23,R,J
-   7,R,G,N
-   7,R,J,G,N
-  11,R,G,N
-   4,R
-   3,R,J
-  31,R
+  19,R,J
+   6,R,J,G,N
+   3,R,G,N
+   8,R,J,G,N
+  13,R,G,N
+   4,R,J,G,N
+  18,R,G,N
+  14,R
   40
 
 # d-09
@@ -1473,4 +1461,4 @@ console load Celeste/9-Core
    1,O
   31
 
-FileTime: 3:57.966(13998)
+FileTime: 3:57.065(13945)

@@ -794,13 +794,12 @@ console summitgem 4
  208
    2,S
    1,D,Z,S,O
-   3,Z,O
- 139
+ 145
 
 
 # 2500m
 # f-00
-  84
+  81
    1,R,C,O
    1,R,C,G,N,O
    3,R,J,C,G,N,O
@@ -1543,13 +1542,12 @@ console summitgem 4
  218
    2,S
    1,D,Z,S,O
-   3,Z,O
- 139
+ 145
 
 
 # 3000m
 # g-00
-  81
+  78
    2,R
    3,R,J
    4,R
@@ -1644,10 +1642,10 @@ console summitgem 4
    3,L,J,C,O
   16,L,J
    6,J
- 195
+ 234
 
 # g-00b
- 115
+  76
    7,R,U,C,O
    2,R,C,O
    5,R

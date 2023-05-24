@@ -323,10 +323,10 @@ console load Celeste/7-Summit g-00b 5
   11,R,U,J,G,N
    4,R,U,G,N
    2,U,G,N
- 199
+ 238
 
 # g-01
- 106
+  67
 # flag 19
   22,J
 # top of horiz bg
@@ -849,10 +849,10 @@ console load Celeste/7-Summit g-00b 5
    1,K
   30,L,J
    2,L
- 129
+ 168
 
 # g-02
- 108
+  69
 # flag 6
    1,Z,O
    3,L,Z,O
