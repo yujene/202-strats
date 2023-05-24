@@ -600,43 +600,39 @@ Read, 202_5ag.tas, Start
    1,S
    1,X
   42
-#   1,R
-#   9
-#   1,J
-#  43
-#   1,J
-#  30
-#   1,R
-#   1,J
-#  46
-### temp
-Repeat 2
    1,R
    9
-EndRepeat
-###
+   1,J
+  43
+   1,J
+  30
+   1,R
+   1,J
+  46
 
-## 6ag
-#Read, 202_6ag.tas, Start
-#  51
-#   1,S
-#   1,X
-#  42
-#   1,R
-#   9
-#   1,J
-#  43
-#   1,J
-#  30
-#   1,J
-#  46
+# 6ag
+Read, 202_6ag.tas, Start
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
+  30
+   1,J
+  45
+   1,J
+  32
 
-## 7ag
-#Read, 202_7ag.tas, Start
-#  51
-#   1,S
-#   1,X
-#  42
+# 7ag
+Read, 202_7ag.tas, Start
+  51
+   1,S
+   1,X
+  42
 Repeat 2
    1,R
    9
@@ -649,7 +645,7 @@ EndRepeat
    1,J
   46
 
-## 8ag
+# 8ag
 Read, 202_8ag.tas, Start
   51
    1,S
@@ -918,4 +914,4 @@ Read, 202_8cg.tas, Start
  360
 ExitGame
 
-FileTime: 2:46:07.406(586318)
+FileTime: 3:00:10.895(635935)

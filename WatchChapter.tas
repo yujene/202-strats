@@ -38,9 +38,9 @@ Play, 1afc
 #Play, 3ag
 #Play, 4ag
 #Play, 5ag
-##Play, 6ag
-##Play, 7ag
-##Play, 8ag
+#Play, 6ag
+#Play, 7ag
+#Play, 8ag
 #Play, 1bg
 #Play, 2bg
 #Play, 3bg
@@ -372,8 +372,29 @@ Play, end
 
 
 #6ag
+FileTime: 5:21.980(18940)
+
+Read, 202/202_6ag.tas
+
+Play, end
+
+
 #7ag
+FileTime: 8:42.410(30730)
+
+Read, 202/202_7ag.tas
+
+Play, end
+
+
 #8ag
+FileTime: 3:21.994(11882)
+
+Read, 202/202_8ag.tas
+
+Play, end
+
+
 #1bg
 FileTime: 1:50.840(6520)
 
