@@ -960,60 +960,65 @@ console hard Celeste/3-CelestialResort
 # aim low
    9,R,Z,G,N,O
   46,R,G,N
-   4,R,J,G,N
-   8,R,G,N
-# land left
-   5
-   2,C,O
-   8,R,D,C,O
-   4,D
-  15,D,C,O
-# exit middle
+   7,R,J,G,N
+  17,R,G,N
+   1,R,J,G,N
+   2,R,J
+   1,D,J
+   1,D
+  11,D,C,O
+   5,D
   40
 
 # end
-# buffer down dash
-   8,D,C,O
-  16,D
-# buffer instant hyper
-   2,R,D,C,O
-   3,R,D,J,C,O
-  10,R,D,J
-  34,R,J
-# right demo to land left-mid
-   7,R,J,Z,O
-# walk near right
-  26,R
-   1,D
-# down dash, buffer downright
-   9,D,C,O
-   2,D
-   2,R,D
-  11,R,D,C,O
-# hold downright into spring
-  14,R,D
-   3,D
-# buffer down dash into spring
-  13,D,C,O
-   2,R,D
-# buffer demo
-   2,R,D,Z,O
-  18,R,Z,O
+  32
+   1,C,O
+   5,R,C,O
    5,R
-  21
-   1,J
-  14,R,J
-   3,R,J,C,O
-   6,R,C,O
-   1
-   1,J
-   3,U,J
-  17,U,J,C,O
-   5,U,C,O
- 126
+  18,R,J
+   2,R,D,J
+# mid-left dust bunny
+   9,R,D,J,C,O
+   1,R,D,C,O
+   2,R,C,O
+  14,R
+# before dust bunny horizontally
+   7,R,U,Z,O
+   1,R,U
+# hold right
+  30,R
+  14,R,G,N
+# buffer on landing
+  41,R,J,G,N
+# pause high
+   6,R,K,G,S,N
+   9,R,K,G,N
+   4,R,J,G,S,N
+   5,R,J,G,N
+   5,R,K,G,S,N
+  10,R,K,G,N
+   4,R,J,G,S,N
+   5,R,J,G,N
+   5,R,K,G,S,N
+# foot bg line cue
+  11,R,K,G,N
+   5,R,J,Z,G,N
+   4,R,J,G,N
+  15,R,K,Z,G,N
+   3,R,G,N
+  16
+   1,C,O
+   1,R,C,O
+  20,R,J,C,O
+   2,R,J
+   4,J
+  16,U,J,C,O
+   2,U,C,O
+   2,U
+ 132
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 2:18.839(8167)
+FileTime: 2:20.437(8261)

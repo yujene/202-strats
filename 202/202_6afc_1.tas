@@ -84,39 +84,46 @@ console load Celeste/6-Reflection
 
 # lake
 # 00
-  32
-# go after seeing madeline
-# up, upleft, upleft
-   9,U,C,O
+  34
+   8,U,C,O
    3,U
    2,L,U
    9,L,U,C,O
-   4,L,U
-   9,L,U,C,O
-   4,L,U
-   2,L
-   3,L,C,O
-# downleft, upleft, up
-   7,L,D,C,O
-   2,L,D
-   4,L
-   1,L,C,O
-   7,L,U,C,O
-   3,L,U
-   3,U
-  18,U,C,O
-# late wallbounce
-   1,U,J
-  19,R,U,J
-   1,U,J
-# hold right until bg edge
-  13,U,J,C,O
-   3,U,J
-# hold left, buffer jump
-   2,L,J
-  29,L,K
+   6,L,U
+   8,L,U,C,O
+   6,L,U
+   8,L,U,C,O
+   7,L,U
+  10,L,U,C,O
+   1,L,C,G,N,O
+   9,L,G,N
+  25,L,J,G,N
+   7,G,N
+   3,R,G,N
+  29,R,J,G,N
+# pause when near green bg
+   7,R,K,G,S,N
+   8,R,K,G,N
+   4,R,J,G,S,N
+   4,R,J,G,N
+   5,R,K,G,S,N
+   6,R,K,G,N
+   4,R,J,G,S,N
+   4,R,J,G,N
+   6,R,K,G,S,N
+# pause until 1f into green
+   2,R,K,G,N
+   1,R,U
+   7,U
+   5,U,S
+   2,U
+   6,U,C,O
+   6,U
+   5
+  15,J
+  14,L,J
 # buffer left walljump
-  18,L,J
+  18,L,K
   40
 
 # 01
@@ -607,4 +614,4 @@ console load Celeste/6-Reflection
    1,O
   31
 
-FileTime: 1:32.174(5422)
+FileTime: 1:33.857(5521)

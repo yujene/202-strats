@@ -293,48 +293,49 @@ console load Celeste/9-Core
   40
 
 # b-07b
-  12,R,U,G,N
-# bg corner for dash buffer
-  10,R,U,C,G,N,O
+   8,R,U,G,N
+# bg corner dash buffer
+  11,R,U,C,G,N,O
    5,R,U,G,N
-  15,R,U,C,G,N,O
-   5,R,U,G,N
-  37,R,G,N
-# climbjump top of conveyor
-   8,R,J,G,N
-# buffer liftboost
-  14,R,K,G,N
-   1,K,G,N
-   3,K
-  12,J
-   1,J,G,N
-  16,R,J,G,N
-   1,R,G,N
-  31,G,N
-   1,U,G,N
-# above heart
-   8,U,C,G,N,O
-   1,C,G,N,O
-   1,J,C,G,N,O
-   1,J,G,N
-  14,L,J,G,N
-   5,J,G,N
-   3,R,U,J,G,N
-  13,R,U,J,C,G,N,O
-   3,R,U,C,G,N,O
-  11,R,U,G,N
-  13,G,N
-  36,L,G,N
+  12,R,U,C,G,N,O
+   4,R,U,G,N
+  45,R,G,N
 # top of conveyor
-  14,L,J,G,N
-   7,L,U,J,Z,G,N,O
-   1,L,U,J,G,N
-   5,L,J,G,N
-  16,L,K,G,N
+   8,R,J,G,N
+# bufferable liftboost
+   8,R,K,G,N
    1,K,G,N
+   8,L,K
+   1,K,C,O
    9,U,K,C,O
-   1,U,C,O
-   2,C,O
+   2,K,C,O
+   3,R,K,C,G,N,O
+  12,R,G,N
+  35,G,N
+# dark spot
+   3
+  11,J
+  12,R,J
+   1,R,U,J
+   1,U,J
+  10,U,J,C,O
+   1,U,J,C,G,N,O
+   2,J,C,G,N,O
+   1,R,C,G,N,O
+  27,R,G,N
+   5,G,N
+  32,L,G,N
+# head aligned top
+  16,L,J,G,N
+   2,L,U,J,G,N
+   7,L,U,J,Z,G,N,O
+   1,L,J,Z,G,N,O
+   3,L,J,G,N
+  15,L,K,G,N
+   1,K
+   1,U,K
+  11,U,K,C,O
+   1,K,C,O
   40
 
 # b-07
@@ -1094,8 +1095,7 @@ console load Celeste/9-Core
  162
 
 # d-08
-  71,R
-   1,R
+  72,R
    4,R,J
   15,R
    7,R,J
@@ -1461,4 +1461,4 @@ console load Celeste/9-Core
    1,O
   31
 
-FileTime: 3:57.065(13945)
+FileTime: 3:57.048(13944)

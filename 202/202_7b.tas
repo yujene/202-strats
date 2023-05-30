@@ -396,88 +396,94 @@ console hard Celeste/7-Summit
   40
 
 # b-03
-   1,R,D
-  11,R,D,C,O
+  12,R,D,C,O
    2,R,D
    4,R,J
   52,R
-  17,R,G,N
-  25,G,N
-   1,U,G,N
-   8,R,U,Z,G,N,O
-   1,R,U,G,N
-   8,R,G,N
+  18,R,G,N
+  26,G,N
+   1,U,Z,G,N,O
+   7,R,U,Z,G,N,O
+   6,R,U,G,N
+   5,R,G,N
    5,R,J,G,N
   26,R,K,G,N
-   5,K,G,N
-  10,J,G,N
-   6,J
-   9,K
-  12
-   2,L,D
-   6,L,D,C,O
+   1,K,G,N
+  14,J,G,N
+   2,J
+  10,K
+  13
    1,L,D
-   2
+# wait in air for opening
+   8,L,D,C,O
+   1,L,C,O
+   1
    2,R
   13,R,J
-   1,U
-  13,U,C,O
-# high wallbounce
-  19,U,J
-# corner bg
-   7,L,U,J,C,O
-   1,L,J,C,O
-   1,L,C,O
-   5,L
-  27,L,D
-  14
-  50,L,G,N
-   1,G,N
-  32,R,G,N
-  22,R,J,G,N
-   1,R,J
-   2,U,J
-   8,U,J,C,O
-   1,U,J
-   2,J
-  14,R,J
-   1,J
-  13,L,K
-   1,K
-  11,R,J
-   2,J
-  10,L,K
-   2,L,K,G,N
-   3,L,K
-   1,K
-  11,R,J
-   1,J
    2,L,J
    9,L,K
-   4,L,K,G,N
-  16,L,J,G,N
-   1,L,K,G,N
-  13,R,K,G,N
-  14,R,J,G,N
+   2,K
+  10,R,J
+   1,J
+   1,L,J
+  10,L,K
+   3,K
+  10,U,K,C,O
+   4,U,K
+   1,L,U,K
+  12,L,U,K,C,O
+   1,L,K,C,O
+  15,L,K
+   9,L
+  29
+  51,L,G,N
+   6,G,N
+  21,R,G,N
+  22,R,J,G,N
    1,R,J
+   1,U,J
+  10,U,J,C,O
+   2,J
+  11,R,J
+   1,J
    1,L,J
   12,L,K
    1,K
    1,R,K
   10,R,J
-   1,J
-   2,L,J
-  11,L,K
-   1,K
-   2,R,K
+   2,J
+   1,L,J
+   9,L,K
+   2,K
+   3,R,K
    9,R,J
+   3,J
+   1,L,J
+   6,L,K
+   8,L,K,G,N
+  21,L,J,G,N
+   1,J,G,N
+  14,R,K,G,N
+  16,R,J,G,N
+   2,L,J,G,N
+   1,L,J
+  10,L,K
+   2,K
+   1,R,K
+  10,R,J
+   2,J
+   1,L,J
+  10,L,K
+   2,K
+   2,R,K
+   8,R,J
    1,J
    3,L,J
    9,L,K
    3,K
    1,U,K
   17,U,K,C,O
-   1,K,C,O
+   2,K,C,O
    2,K
  296
 
@@ -2578,4 +2584,4 @@ console hard Celeste/7-Summit
    1,O
   31
 
-FileTime: 6:27.260(22780)
+FileTime: 6:27.787(22811)
