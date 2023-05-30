@@ -318,15 +318,12 @@ console rmx2 Celeste/7-Summit
    3,R,D
    1,R
   24,R,J
-  14,R,U,J,C,O
-   2,R,U,C,O
-   1,R,U
-   1,U
- 127
+  10,R,U,J,C,O
+  45
 #End
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 0:53.397(3141)
+FileTime: 0:52.445(3085)

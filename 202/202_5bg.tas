@@ -1154,13 +1154,11 @@ console hard Celeste/5-MirrorTemple
   14,R
    2,R,J
    4,R,U,J
-  27,R,U,J,C,O
-   1,R,U,C,O
-   1,R,C,O
- 118
+  12,R,U,J,C,O
+  45
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 2:51.751(10103)
+FileTime: 2:50.799(10047)

@@ -211,14 +211,12 @@ console rmx2 Celeste/4-GoldenRidge
   13,R
   38,R,J
   38,R,K
-  18,R,U,K,C,O
-   2,R,U,C,O
-   5,R,U
- 126
+  16,R,U,K,C,O
+  45
 #End
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 0:33.184(1952)
+FileTime: 0:32.232(1896)

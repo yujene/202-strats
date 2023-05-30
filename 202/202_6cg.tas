@@ -287,14 +287,12 @@ console rmx2 Celeste/6-Reflection
   26,R
    2,R,U
   10,R,U,C,O
-   8,R,U
-  15,R,U,C,O
-   8,R,U
- 111
+   7,R,U
+  45
 #End
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 0:51.680(3040)
+FileTime: 0:50.728(2984)

@@ -216,15 +216,12 @@ console rmx2 Celeste/1-ForsakenCity
   23,U,G,N
    9,G,N
   18,J,G,N
-  14,R,J,C,G,N,O
-   1,R,C,G,N,O
-   3,R,G,N
-   3,G,N
- 125
+  11,R,J,C,G,N,O
+  45
 #End
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 0:32.640(1920)
+FileTime: 0:31.688(1864)

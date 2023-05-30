@@ -204,14 +204,12 @@ console rmx2 Celeste/5-MirrorTemple
    2
    1,J
   32,R,J
-  26,R,J,C,O
-   1,R,C,O
-   3,R
- 111
+   6,R,J,C,O
+  45
 #End
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 0:30.804(1812)
+FileTime: 0:29.852(1756)

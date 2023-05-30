@@ -155,30 +155,12 @@ console rmx2 Celeste/2-OldSite
   69,L
    2,L,J
    4,L,K
-  27,L,K,Z,O
-   1,L,Z,O
-   2,L
-  55,L,D
-   1,D
-   6,R,D
-   7,L,D
-   3,R,D
-   2,D
-   4,L,D
-   5,R,D
-   5,L,D
-   4,R,D
-   1,D
-   5,L,D
-   4,R,D
-   1,D
-   4,L,D
-   5,R,D
-   5,L,D
+  12,L,K,Z,O
+  45
 #End
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 0:26.996(1588)
+FileTime: 0:26.044(1532)

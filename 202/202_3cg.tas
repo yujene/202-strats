@@ -207,13 +207,12 @@ console rmx2 Celeste/3-CelestialResort
   38,R,U
   11,R,U,C,O
   20,R,U
-  27,R,U,C,O
-   9,R,U
- 113
+  14,R,U,C,O
+  45
 #End
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 0:30.345(1785)
+FileTime: 0:29.393(1729)

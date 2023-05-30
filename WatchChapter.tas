@@ -139,7 +139,7 @@ Play, end
 
 
 #6afc
-FileTime: 6:23.146(22538)
+FileTime: 6:24.829(22637)
 
 Read, 202/202_6afc_1.tas
   51
@@ -156,7 +156,7 @@ Play, end
 
 
 #7afc
-FileTime: 12:15.692(43276)
+FileTime: 12:15.539(43267)
 
 Read, 202/202_7afc_1.tas
   51
@@ -180,7 +180,7 @@ Play, end
 
 
 #8afc
-FileTime: 3:57.966(13998)
+FileTime: 3:57.048(13944)
 
 Read, 202/202_8afc.tas
 
@@ -204,7 +204,7 @@ Play, end
 
 
 #3b
-FileTime: 2:18.839(8167)
+FileTime: 2:20.437(8261)
 
 Read, 202/202_3b.tas
 
@@ -236,7 +236,7 @@ Play, end
 
 
 #7b
-FileTime: 6:27.260(22780)
+FileTime: 6:27.787(22811)
 
 Read, 202/202_7b.tas
 
@@ -396,7 +396,7 @@ Play, end
 
 
 #1bg
-FileTime: 1:50.840(6520)
+FileTime: 1:49.888(6464)
 
 Read, 202/202_1bg.tas
 
@@ -404,7 +404,7 @@ Play, end
 
 
 #2bg
-FileTime: 1:44.754(6162)
+FileTime: 1:43.802(6106)
 
 Read, 202/202_2bg.tas
 
@@ -412,7 +412,7 @@ Play, end
 
 
 #3bg
-FileTime: 2:22.324(8372)
+FileTime: 2:21.372(8316)
 
 Read, 202/202_3bg.tas
 
@@ -420,7 +420,7 @@ Play, end
 
 
 #4bg
-FileTime: 3:06.201(10953)
+FileTime: 3:05.249(10897)
 
 Read, 202/202_4bg.tas
 
@@ -428,7 +428,7 @@ Play, end
 
 
 #5bg
-FileTime: 2:51.751(10103)
+FileTime: 2:50.799(10047)
 
 Read, 202/202_5bg.tas
 
@@ -436,7 +436,7 @@ Play, end
 
 
 #6bg
-FileTime: 5:00.611(17683)
+FileTime: 4:59.659(17627)
 
 Read, 202/202_6bg.tas
 
@@ -444,7 +444,7 @@ Play, end
 
 
 #7bg
-FileTime: 7:07.193(25129)
+FileTime: 7:06.241(25073)
 
 Read, 202/202_7bg.tas
 
@@ -452,7 +452,7 @@ Play, end
 
 
 #8bg
-FileTime: 4:11.549(14797)
+FileTime: 4:10.597(14741)
 
 Read, 202/202_8bg.tas
 
@@ -460,7 +460,7 @@ Play, end
 
 
 #1cg
-FileTime: 0:32.640(1920)
+FileTime: 0:31.688(1864)
 
 Read, 202/202_1cg.tas
 
@@ -468,7 +468,7 @@ Play, end
 
 
 #2cg
-FileTime: 0:26.996(1588)
+FileTime: 0:26.044(1532)
 
 Read, 202/202_2cg.tas
 
@@ -476,7 +476,7 @@ Play, end
 
 
 #3cg
-FileTime: 0:30.345(1785)
+FileTime: 0:29.393(1729)
 
 Read, 202/202_3cg.tas
 
@@ -484,7 +484,7 @@ Play, end
 
 
 #4cg
-FileTime: 0:33.184(1952)
+FileTime: 0:32.232(1896)
 
 Read, 202/202_4cg.tas
 
@@ -492,7 +492,7 @@ Play, end
 
 
 #5cg
-FileTime: 0:30.804(1812)
+FileTime: 0:29.852(1756)
 
 Read, 202/202_5cg.tas
 
@@ -500,7 +500,7 @@ Play, end
 
 
 #6cg
-FileTime: 0:51.680(3040)
+FileTime: 0:50.728(2984)
 
 Read, 202/202_6cg.tas
 
@@ -508,7 +508,7 @@ Play, end
 
 
 #7cg
-FileTime: 0:53.397(3141)
+FileTime: 0:52.445(3085)
 
 Read, 202/202_7cg.tas
 
@@ -516,7 +516,7 @@ Play, end
 
 
 #8cg
-FileTime: 1:20.750(4750)
+FileTime: 1:19.798(4694)
 
 Read, 202/202_8cg.tas
 
