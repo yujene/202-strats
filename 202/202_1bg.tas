@@ -89,54 +89,46 @@ console hard Celeste/1-ForsakenCity
 
 # 02
   11
+   1,D
+  10,R,D,C,O
+   2,R
+  18,R,J
+# buffer right jump
+  14,R,K
+# don't grab
+   9,R,J
+   4,R,J,G,N
+# right climbjump
+  15,R,K,G,N
+# don't greed this one
+   5,R,J,G,N
+   3,R,D,J,G,N
+  11,R,D,G,N
+   2,D
+  26,L,D
+   1,L
+   1
+   2,R
+# brown
+   9,R,J
+  11,R,G,N
+  23,R,U,G,N
+  15,R,G,N
+  11,R,J,G,N
+   1,R,J
+   1,U,J,C,O
+  14,U,C,O
    1,C,O
-   1,D,C,O
-   6,R,D,C,O
-   4,R,D
-   1,R
-   5,R,J
-  13,R
-   4
-# neutral at brown
-  12,J
    2,J,C,O
-   5,U,J,C,O
-   3,U,C,O
-  10
-   1,G,N
-  12,L,G,N
-  13,G,N
-   2,R,G,N
-   1,R,J,G,N
-   6,R,J
-   4,R
-  15,R,D
-  11,D
-  20,L,D
-   5,D
-   2
-# jump off brown
-   1,J
-   9,R,J,G,N
-  13,R,G,N
-  11,R,U,G,N
-  24,R,G,N
-   6,R,J,G,N
-# right climbjump to avoid liftboost issue
-  14,R,K,G,N
-   1,K,G,N
-   1,K
+   7,J
+   4,R,J
+   6,R,K
+   4,K
+   3,L,K
    9,L,J
-   3,J
-   2,R,J
-   9,R,K
-   1,K
-   4,L,K
-   9,L,J
-   5,L,J,G,N
-  14,L,K,G,N
-   9,L,J,G,N
 # exit left
+   5,L,J,G,N
+   1,L,K,G,N
   40
 
 # 02b
@@ -363,6 +355,7 @@ console hard Celeste/1-ForsakenCity
   10,R,J,G,N
   14,L,J
    1,K
+# don't grab
   15,R,K
    7,R,D,K
    8,R,D
@@ -489,7 +482,9 @@ console hard Celeste/1-ForsakenCity
    8,U,C,O
    5,C,O
    2
+# turn left
    3,L,G,N
+# wait very long before jump
   11,L,J,G,N
   11,L,K,G,N
    1,K,G,N
@@ -773,4 +768,4 @@ console hard Celeste/1-ForsakenCity
    1,O
   31
 
-FileTime: 1:49.888(6464)
+FileTime: 1:48.987(6411)
