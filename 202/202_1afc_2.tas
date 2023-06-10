@@ -57,6 +57,7 @@ Set,Everest.ShowModOptionsInGame,False
   26,L,D
    2,D
    2,R,D
+# left of spikes
   11,R,D,C,O
    2,R,C,O
    3,R
@@ -187,19 +188,21 @@ Set,Everest.ShowModOptionsInGame,False
    1,L
 # s1
   59,L,D
-   2,L,D,C,O
-   8,L,D,J,C,O
-  22,L,D
-  13,L,D,J
-   1,L,D,J,C,O
-  10,D,J,C,O
-   3,D,C,O
-  60,D
-  83
+   5,L,Z,O
+   6,L
+   1,L,J
+   1,L,D,J
+  18,L,D
+  14,L,D,J
+   2,L,D,J,C,O
+   5,D,J,C,O
+  10,D,C,O
+  30,D
+ 111
    3,S
    2,D,S
    1
    1,D,Z,O
   31
 
-FileTime: 0:24.259(1427)
+FileTime: 0:24.276(1428)

@@ -123,6 +123,7 @@ console load Celeste/1-ForsakenCity
    1,U,J,C,O
    9,U,C,O
    1,L,C,O
+# *don't buffer wallbounce
    3,L,J,C,O
    2,L,J
    1,J
@@ -239,6 +240,7 @@ console load Celeste/1-ForsakenCity
    5,L
    6,L,J
    6,L
+# slightly before wall
   11,L,Z,O
   40
 
@@ -282,38 +284,36 @@ console load Celeste/1-ForsakenCity
    8,L,K,G,N
    2,L,G,N
   11
-   1,L,D
-   7,L,D,C,O
-   3,L,D
-   2,L
-  11,L,J
-   3,J
-  10,U,J,C,O
-   3,U,C,O
+   1,L
+   7,L,Z,O
+   5,L
+   1,L,U
+   3,L,U,J
+# slightly delayed upleft
+   6,L,U,J,Z,O
+   5,L,U,J,G,N
+   9,L,U,K,G,N
   40
 
 # 7zb
-   1
-   8,R
-   1
-   2,D
-   6,L,D,C,O
-   2,L,C,O
-   4,L,G,N
+# transition neutral
+   9,J
+   2,L,D,J,C,O
+   9,L,D,C,O
+   1,L,D,C,G,N,O
+   2,L,C,G,N,O
   12,L,J,G,N
-  22,L,K,G,N
-   2,L,U,K,G,N
-  11,L,U,K,C,G,N,O
-  14,L,U,K,G,N
-  11,L,U,K,C,G,N,O
-   3,L,K,C,G,N,O
-   7,L,K,G,N
-   4,L,G,N
-   5,L
-   5,L,J
-   3,L
-   1
-   2,D
+  25,L,K,G,N
+# pole
+   9,L,U,K,C,G,N,O
+  16,L,U,K,G,N
+   9,L,U,K,C,G,N,O
+   1,L,K,C,G,N,O
+  21,L,G,N
+   6,L,J,G,N
+   3,L,G,N
+   1,G,N
+   2
   14,D,C,O
    1,D
   31
@@ -326,4 +326,4 @@ console load Celeste/1-ForsakenCity
    1,C,O
   31
 
-FileTime: 0:41.616(2448)
+FileTime: 0:41.599(2447)

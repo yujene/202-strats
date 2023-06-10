@@ -208,7 +208,7 @@ console load Celeste/1-ForsakenCity 9b
    3,L,G,N
   11,L
   78,R
-# poster
+# *after poster
    8,R,D
    2,R,D,J
   25,R,J
@@ -237,7 +237,9 @@ console load Celeste/1-ForsakenCity 9b
    9,L,J
    2,L
    1,R
+# low on wall
   19,R,J
+# right of bg tile
    3,R,U,J,C,O
    7,R,U,C,O
    2,C,O
@@ -250,8 +252,9 @@ console load Celeste/1-ForsakenCity 9b
   40
 
 # end
-  11,R,J,G,N
-   1,R,J,C,G,N,O
+# *no climbjump
+  11,R
+   1,R,C,G,N,O
   11,R,C,G,N,O
    1,R,G,N
   13,R,J,G,N
