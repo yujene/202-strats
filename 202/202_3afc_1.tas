@@ -232,90 +232,76 @@ console load Celeste/3-CelestialResort
   10,L
    1,L,D
    7,L,D,C,O
-   4,L,D
-   4,L,D,J
-   8,L,D
-   7,L,D,C,O
-   2,L,D
-   2,L
-   1,L,J
-   2,L,J,G,N
-   1,L,J,Z,G,N,O
-   6,L,U,J,Z,G,N,O
-   1,L,U,G,N
+   5,L,D
+   3,L,J
+  16,L
+   8,L,J
   40
 
 # 01-b
-   8,L,G,N
-   1,L,J,G,N
+   7,L,J
+  11,K,G,N
+   1,C,G,N,O
+   6,L,D,C,G,N,O
+   2,L,D,G,N
+   1,L,G,N
+   1,G,N
    4,J,G,N
-   8,G,N
-   1,D,G,N
-   1,D,C,G,N,O
-   6,L,D,C,G,N,O
-   4,L,D,G,N
-   3,L,D,J,G,N
-# wavedash to lantern
-   8,L,D,G,N
-   6,L,D,C,G,N,O
-   5,L,D,G,N
-# buffered wavedash
-   6,L,D,J,G,N
-   2,L,D,K,G,N
-# buffered climbjump
-  38,L,K,G,N
-  12,L,J,G,N
-# no hand -2f
-   7,L,K,G,S,N
-   7,L,K,G,N
+  10,G,N
+# lantern
+   5,L,D,C,G,N,O
+   2,L,D,G,N
+   4,L,G,N
+   7,L,J,G,N
+  41,L,K,G,N
+   3,L,J,G,N
+# pause to 3f after jump inclusive
+   4,L,J,G,S,N
+  21,L,J,G,N
+# crimson chin -1f
    5,L,J,G,S,N
    4,L,J,G,N
-# big hand -1f
-   5,L,K,G,S,N
-   6,L,K,G,N
    4,L,J,G,S,N
-   5,L,J,G,N
-   4,L,K,G,S,N
-# long head correct frame (crimson chin)
-   6,L,K,G,N
-   5,L,J,Z,G,N
-   3,L,J,G,N
-   6,L,K,Z,G,N
-   2,L,K,G,N
-   3,L,G,N
-   1,G,N
-  22
-   7,L,D,C,O
-   2,L,C,O
-   3,L
-   1,L,Z,O
-  11,L,U,Z,O
+   6,L,J,G,N
+# round head correct frame
+   4,L,K,X,G,N
+   4,L,K,G,N
+   7,L,J,Z,G,N
+   2,L,J,G,N
+  19,L,G,N
+   9,L,C,G,N,O
+   4,L,G,N
+   1,L,U,G,N
+  10,L,U,Z,G,N,O
   40
 
 # 00-b
-   7,L,G,N
-  19,L,J,G,N
-   6,L,J,Z,G,N,O
-   1,L,Z,G,N,O
-   6,L,G,N
-# late jump
-  14,L,J,G,N
-  22,L,J
-   1,L,K
-   1,K
-   8,R,K
-  18,R
-   8,R,C,O
-   3,R
-  15,R,J
+   2,L,G,N
+   5,L,J,G,N
+  20,L,K,G,N
+   5,L,K,Z,G,N,O
+   3,L,K,Z,O
+   5,L
+# late max height jump
+  23,L,J
+# left crumble
+   9,L,J,C,O
+   3,L,J
+   2,R,J
+# kinda small jump
+   5,R,K
+  23,R
+   7,R,C,O
+   4,R
+  14,R,J
    2,J
    1,U,J
-  10,U,J,C,O
+   9,U,J,C,O
    1,J,C,O
-   4,J
+   1,J,C,G,N,O
    1,J,G,N
-   4,R,J,G,N
-  13,R,K,G,N
+   9,R,J,G,N
+  11,R,K,G,N
   40
 
 # 00-c
@@ -571,8 +557,7 @@ console load Celeste/3-CelestialResort
    5,L,K
    5,L
    8
-# up demo for bonus upright frame next room
-  10,U,Z,O
+  10,U,C,O
   40
 
 # 04-b
