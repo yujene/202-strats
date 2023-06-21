@@ -989,15 +989,15 @@ console summitgem 4
   11,R
    4,R,D
   13,R,D,C,O
-  15,R,D
-# max hyper left-mid pillar
-   6,R,D,C,O
-   6,R,D,J,C,O
+  14,R,D
+# max hyper left of pillar
+   3,R,D,C,O
+   9,R,D,J,C,O
   40
 
 # f-07
    4,R,D,J
-# buffered downright
+# buffered downright out of dashcd
   13,R,D,J,C,O
    2,R,D,C,O
    6,R,D
