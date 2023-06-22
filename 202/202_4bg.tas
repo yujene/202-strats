@@ -125,6 +125,7 @@ console hard Celeste/4-GoldenRidge
    1,R,U,G,N
    8,R,U,C,G,N,O
    5,R,U,G,N
+# late climbjump
   13,R,U,J,G,N
    9,R,U,K,G,N
    2,R,K,G,N
@@ -369,7 +370,9 @@ console hard Celeste/4-GoldenRidge
    4,L,U,J,G,N
   41,L,U,G,N
    2,U,G,N
+# climb to top
   19,R,U,G,N
+# bg hole
   26,R,U,J,G,N
    4,R,U,G,N
    1,R,G,N
@@ -933,7 +936,7 @@ console hard Celeste/4-GoldenRidge
    4,D
   12,R,D,C,O
   28,R,J
-# root
+# right aligned root
   15,R,U,Z,O
   11,R
    6,R,J
