@@ -136,7 +136,7 @@ console hard Celeste/9-Core
   11,R,D,C,O
   33,R
   22,R,D
-# bg chain approach
+# before head at bg chain
    2,R,D,C,O
    8,R,D,J,C,O
    3,R,D,J
@@ -385,6 +385,7 @@ console hard Celeste/9-Core
 # b-02
   65,R,J
   14,J
+# optional pause
 # pause until feet even
    6,J,S
   10,J
@@ -574,50 +575,61 @@ console hard Celeste/9-Core
   40
 
 # b-05
-   1,R,D,C,O
+# buffer instant hyper
+   2,R,D,C,O
    4,R,D,J,C,O
-   3,R,D,J
-   5,R,J
-  14,R,U,J,C,O
-   9,R,J,C,O
-   2,R,C,O
-  13,R
-# don't buffer crystal
-  17,R,Z,O
-  13,R,U,C,O
-  10,R,U
-   9,R,U,C,O
-   3,R,U
-   2,R
-  11,R,C,O
-  42,R
-   1,R,U
-# buffer crystal
-  10,R,U,Z,O
-  20,R,U
-# upright demo when close
-   9,R,U,Z,O
-   7,R,U
-  64,R
-# hold jump second ice ball
-  43,R,J
-  39,R
-# switch
-  15,R,Z,O
-   1,R
-  14,R,U,C,O
-  17,R
-# delayed dash
-   6,R,C,O
-  58,R
-# under ice ball
-  10,R,U,Z,O
-  22,R
+  10,R,D,J
+  10,R,J
+   1,R,U,J
+# under fireball
+   9,R,U,J,Z,O
+   2,R,U,J
+   3,R,J
+# slightly not buffered dashes
+  12,R,J,C,O
+   6,R,J
+   1,R,J,C,O
+  10,R,U,J,C,O
+   6,R,U,J
+   9,R,U,J,C,O
+   6,R,U,J
+  13,R,J,C,O
+  32,R,J
+   7,J
+   1,R,J
+   3,R,U,J
+# buffered uprights
+   9,R,U,J,C,O
+   4,R,U,J
+  13,R,U,J,C,O
+  13,R,U,J
+   3,R,J
+# just hold jump
+  24,J
+  85,R,J
+  41,J
   41,R,J
-   3,R
-   2,R,G,N
-   5,R,J,G,N
-  24,R,G,N
+  10,J
+  21,R,J
+  31,J
+   3,R,U,J
+# close to centered on switch
+  10,R,U,J,C,O
+   2,R,U,J
+   4,R,J
+  11,R,J,C,O
+  27,R,J
+# demo to switch
+  16,R,J,Z,O
+   4,R,J
+   1,R,U,J
+# buffer upright
+  13,R,U,J,C,O
+   3,R,U,J
+  85,R,J
+  17,R
+   4,R,J
+  18,R
   40
 
 
@@ -1137,4 +1149,4 @@ console hard Celeste/9-Core
    1,O
   31
 
-FileTime: 3:28.641(12273)
+FileTime: 3:30.188(12364)

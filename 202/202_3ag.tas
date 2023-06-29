@@ -1594,7 +1594,7 @@ console load Celeste/3-CelestialResort
   17,L,D
   21,D
    1,L,D
-# table
+# wait to land at table
    9,L,D,C,O
    5,L,D
    5,L,D,J,C,O
@@ -1942,22 +1942,19 @@ console load Celeste/3-CelestialResort
    1,R,U
   10,R,U,C,O
   13,R
-  17,R,D
-  18,D
+  19,R,D
+  16,D
    6,R,D
    1,R,D,C,O
    4,R,D,J,C,O
    1,R,D,C,O
    7,R,D
-  13,R,D,J
-   3,R,D
-  10,R,D,C,O
-   3,R,D
-   1,R,D,J
-   3,R,D,J,C,O
-   6,R,D,C,O
-   3,R,D
-  33,R
+  23,R,D,J
+# snow pile
+  15,R,D,X
+   4,R,D
+  11,R,X
+  29,R
    2,R,U
    9,R,U,C,O
    7,R,U
@@ -2168,4 +2165,4 @@ console load Celeste/3-CelestialResort
    1,O
   31
 
-FileTime: 4:31.541(15973)
+FileTime: 4:31.660(15980)

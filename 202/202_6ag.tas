@@ -51,8 +51,9 @@ console load Celeste/6-Reflection 00
    9,R,J,G,S,N
    6,R,J,G,N
    4,X,G,N
-  23,R,J,G,N
+  24,R,J,G,N
   11,R,J,G,S,N
+# head lined up green bg can die to bad vertical subpixel
    4,R,J,G,N
    5,X,G,N
    1,R,J,G,N
@@ -60,7 +61,7 @@ console load Celeste/6-Reflection 00
    2,G,N
    6
   12,U
-# head lined up green bg
+# frame after head lined up
    4,U,S
    5,U
   10,U,C,O
@@ -2035,4 +2036,4 @@ console load Celeste/6-Reflection 00
    1,O
   31
 
-FileTime: 5:21.980(18940)
+FileTime: 5:21.997(18941)

@@ -402,20 +402,19 @@ console hard Celeste/5-MirrorTemple
   40
 
 # b-09
-  15,L,U
-# upleft and buffer jump
-  15,L,U,C,O
-   1,L,C,O
-   1,L,J
-   1,J
-  13,R,J
+  14,L,U
+# upleft, buffer jump into bubble
+  17,L,U,C,O
+  14,L,U,J,C,O
+   1,J,C,O
+   2
 # slow bubble
-  33,R
-# between or right spinner
-  11,R,C,O
-   7,R
-  29
-# slightly not buffered
+  34,R
+  14
+  15,D,X
+   3,D
+  13,U
+# wait for spinner to pass
    9,U,C,O
    2,C,O
    3
@@ -1036,4 +1035,4 @@ console hard Celeste/5-MirrorTemple
    1,O
   31
 
-FileTime: 2:21.729(8337)
+FileTime: 2:21.746(8338)

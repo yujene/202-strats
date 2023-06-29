@@ -97,7 +97,7 @@ console hard Celeste/9-Core a-00
    8,R,D,C,O
    1,R,C,O
   32,R
-# bg chain approach
+# before head at bg chain
   21,R,D
    2,R,D,C,O
    5,R,D,J,C,O
@@ -909,6 +909,7 @@ console hard Celeste/9-Core a-00
   47
    3,R
 # leniency liftboost
+# optional high climbjump for liftboost refresh
   39,R,J
   21,R,J,G,N
   13,R,K,G,N

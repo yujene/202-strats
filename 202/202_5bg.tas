@@ -535,13 +535,12 @@ console hard Celeste/5-MirrorTemple
    2
 # slow bubble
   34,R
-# between or right spinner
-   8,R,C,O
-   2,R
-  35
-# slightly not buffered
-   1,C,O
-   8,U,C,O
+  14
+  15,D,X
+   3,D
+  13,U
+# wait for spinner to pass
+   9,U,C,O
    1,C,O
    5
   41,L
