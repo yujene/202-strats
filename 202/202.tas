@@ -912,6 +912,6 @@ Read, 202_8cg.tas, Start
   60
    1,R
  360
-#ExitGame
+ExitGame
 
-FileTime: 2:59:59.301(635253)
+FileTime: 3:00:00.202(635306)
