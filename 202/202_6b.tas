@@ -814,6 +814,7 @@ console hard Celeste/6-Reflection
 # release right around crystal
    7
    1,L
+# optional paused
   10,L,Z,O
   20,L
   29,L,C,O
