@@ -7,7 +7,7 @@ Set,Everest.ShowModOptionsInGame,False
 
 # pick chapter to watch
 #Play, prologue
-#Play, 1afc
+Play, 1afc
 #Play, 2afc
 #Play, 3afc
 #Play, 4afc
@@ -47,7 +47,7 @@ Set,Everest.ShowModOptionsInGame,False
 #Play, 4bg
 #Play, 5bg
 #Play, 6bg
-Play, 7bg
+#Play, 7bg
 #Play, 8bg
 #Play, 1cg
 #Play, 2cg
@@ -180,7 +180,7 @@ Play, end
 
 
 #8afc
-FileTime: 3:57.048(13944)
+FileTime: 3:58.221(14013)
 
 Read, 202/202_8afc.tas
 

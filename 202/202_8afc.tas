@@ -256,6 +256,7 @@ console load Celeste/9-Core
   19,L,K
    1,K
   44,R,J
+# optional paused
 # left of column 1
    1,R,J,C,O
   13,R,U,J,C,O
@@ -597,30 +598,34 @@ console load Celeste/9-Core
 
 # c-03
    2,R
-   5,R,Z,O
+# non-buffered demo
+   6,R,Z,O
    8,R
-# late demohyper
+# late demohyper right pillar
   16,R,J
-# right of crystal
-  10,R,D,J,C,O
+# heart
+  11,R,D,J,C,O
+   4,R,D,J
+# just right+jump
+ 168,R,J
+# hit crystal
    1,R,J,C,O
- 118,R,J
-  15,J
-# before or after peak
-  10,R,J,C,O
-   4,R,J
-  12,R,D,J,C,O
-   3,R,D,J
- 116,R,J
+  10,R,D,J,C,O
+   6,R,D,J
+  19,R,J
+# stall
+  11,J
+  64,R,J
    1,L,J
-  10,L,J,C,O
-   1,L,J
+   9,L,J,C,O
+   2,L,J
+   3,L,U,J
+   8,L,U,J,Z,O
    1,L,U,J
-  10,L,U,J,Z,O
-   4,L,J
-   5,L,J,G,N
+   1,L,J
+   6,L,J,G,N
   10,L,K,G,N
-   7,L,J,G,N
+   4,L,J,G,N
   40,J
 
 # c-03b
@@ -654,31 +659,30 @@ console load Celeste/9-Core
   40
 
 # c-04
-   9,R,J,G,N
-  26,R,K,G,N
-  16,R,G,N
-# medium jump
   10,R,J,G,N
-  28,R,G,N
-   7,R,C,G,N,O
-   3,R,G,N
-  11,R,J,G,N
-  13,R,G,N
-   3,R
-   5,R,C,O
-  28,R
-  10,R,C,O
-   1,R
-  28,R,G,N
-  10,R,J,G,N
-  22,R,J
+  23,R,K,G,N
+  18,R,G,N
+  32,R,J,G,N
+# chain
+   8,R,J,C,G,N,O
+   6,R,J,G,N
+  31,R
+  39,R,G,N
+# jump near top of wall
+  33,R,J,G,N
+   1,R,D,J,G,N
+# downright to crystal or use bg corner
+   7,R,D,J,C,G,N,O
+   2,R,J,C,G,N,O
+  14,R,J,G,N
+   8,R,J,Z,G,N,O
+   3,R,J,G,N
+  27,R,G,N
+  19,R,J,G,N
+  12,R,J
 # heart
-  10,R,J,C,O
-  21,R
-  24,R,D
-   1,R
-   3,R,J
-  13,R
+   8,R,J,C,O
+  64,R
   40
 
 
@@ -1216,61 +1220,62 @@ console load Celeste/9-Core
   40
 
 # d-10b
-  19,R
-  12,R,J
-  37,R
-  19,R,D
-   3,R,D,C,O
-   3,R,D,J,C,O
-   3,R,J,C,O
-   1,R,C,O
-  18,R
-# after wall
-   9,U,C,O
-   3,C,O
-   1,L,C,O
-   9,L
-# don't wallbounce
-   8,R,J
-   4,R
-  32,R,D
-   6,R
-  11,R,U,C,O
-   4,R,C,O
-   1,R,J,C,O
-  15,R,J
-   2,R,J,C,O
+   2,R,J
+  14,R
+  39,R,J
+  13,R
+  24,R,D
+   2,R,D,C,O
+   5,R,D,J,C,O
+   1,R,D,C,O
+   2,R,D
+  13,R
+   1,R,U
+# pillar
+   9,R,U,C,O
+   2,R,C,O
+   7,R,G,N
+# small climbjump
+   5,R,J,G,N
+   2,R,J
+# walljump into fastfall
+  19,R,K
+  19,R,D,K
+  18,R,D
+   3,R
+   3,R,C,G,N,O
+   8,R,U,C,G,N,O
+   3,R,C,G,N,O
+  19,R,J,G,N
+   2,R,J,C,G,N,O
    8,R,C,O
-   3,R,J,C,O
-   3,R,J
-   8,R,D
-   8,D
-  16,R,D
+# super far right to hit wall high
+   2,R,J,C,O
+   2,R,J
+   2,R,D,J
+  31,R,D
    5,R
-  11,R,U,C,O
-   1,R,C,O
-  15,R
-   6,R,C,O
-   2,R,C,G,N,O
-  15,R,G,N
-   6,R,J,G,N
-  10,R,K,G,N
-   2,R,G,N
-  24,R
-   7,R,C,O
-  12,R
-  12
-  41,R
-   1,R,U
-   6,R,U,C,O
-   1,R,U
-   4,R
-  15,R,G,N
+  10,R,U,C,O
+  16,R
+   8,R,C,O
+   1,R,C,G,N,O
+  17,R,G,N
    9,R,J,G,N
-   4,R,G,N
-   9,R
-   3,R,J
-  18,R
+  11,R,K,G,N
+   7,R,K
+  21,R
+   5,R,C,O
+  11,R
+  16,R,D
+  23,R
+   4,R,U
+   7,R,U,C,O
+   1,R,C,O
+   1,R
+  12,R,G,N
+   7,R,J,G,N
+   6,R,G,N
+  25,R
   40
 
 # d-10c
@@ -1461,4 +1466,4 @@ console load Celeste/9-Core
    1,O
   31
 
-FileTime: 3:57.048(13944)
+FileTime: 3:58.221(14013)
