@@ -238,6 +238,7 @@ console load Celeste/7-Summit
   13,L,J
    1,J
    1,U,J
+# approach low
   10,U,J,C,O
    8,U,J
    5,U,J,C,O
@@ -1858,9 +1859,10 @@ console load Celeste/7-Summit
    1,L,D
    2,L
   13,L,J
+# collide wall
    2,J
   11,U,C,O
-# middle madeline bottom cobweb
+# high wallbounce
    5,U,J
    5,U,J,S
    8,U,J
@@ -2087,132 +2089,130 @@ console load Celeste/7-Summit
   40
 
 # d-03
-  12,R,D
-# head
-   8,R,D,C,O
-   6,R,D
-   9,R,D,C,O
-  17,R,D
-   3,R,D,C,O
+  13,R,D
+   6,R,D,C,O
+   7,R,D
+   7,R,D,C,O
+  19,R,D
+   4,R,D,C,O
    4,R,D,J,C,O
-   2,R,J,C,O
+   3,R,D,J
    5,R,J
    1,R,U,J
-   8,R,U,J,C,O
-   3,R,U,J
-   5,R,U,J,G,N
-   9,R,K,G,N
-   8,R,J,G,N
-   4,R,G,N
-   1,R
-  23,R,D
+   7,R,U,J,C,O
+   3,R,J
+   4,R,J,G,N
+   5,R,K,G,N
+   3,R,K,G,N
+   9,R,J,G,N
+   5,R,G,N
+   6,R
+  18,R,D
 # wait at chair
-   2,R,D,C,O
-   4,R,D,J,C,O
-   5,R,D
-   5,D
+   3,R,D,C,O
+   3,R,D,J,C,O
+   6,R,D
+   7,D
   11,L,D,C,O
-   4,L,D
-   9,D
+   6,L,D
+   1,D
+   3
+   1,C,O
+   7,R,C,O
+   2,C,O
+   2
+  18,L
+   2,L,G,N
+   7,L,Z,G,N,O
+  14,L,G,N
+  11,L,J,G,N
+   4,L,K,G,N
+   1,L,K,G,N
+   1,L,G,N
+   1,G,N
+  15
+# extended super to collect
+   8,C,O
+   6
+  13,J
+  11,K
+   2,R,K,C,O
+   8,R,K,C,O
+   1,R,C,O
+  19,R
+   3,R,Z,O
+  34,R
+   8,R,C,O
+   4,R
+   4,R,J
+  13,J
+   1,J,C,O
+   9,U,J,C,O
+   6,J
+   2,R,J
+   3,R,J,Z,O
+   6,R,Z,O
+   6
+  22,L,D
+   7,D
+   9
    1,R
    7,R,C,O
-   1,C,O
-   3
-  19,L
-   1,L,G,N
-  11,L,Z,G,N,O
-  11,L,G,N
-   6,L,J,G,N
-   7,L,K,G,N
-   1,L,G,N
-  14
-  11,J
-   4,K
-   9,R,K
-   6,R,K,C,O
-   3,R,C,O
-  21,R
-   5,R,Z,O
-  31,R
-   9,R,C,O
-   3,R
-   9,R,J
+   6,R
+  18,R,J
    4,J
-   2,U,J
+   9,U,J,C,O
+  11,U,J
    8,U,J,C,O
-   1,U,C,O
-   5
-   8,R,C,O
-   3
-  12,D
-  19,L,D
-   7,D
-   3,R,D
+   1,J,C,O
+   3,J
+   1,R,J
+   7,R,J,G,N
+  12,R,G,N
+  11,R,J,G,N
+  14,R,G,N
+  11,R,C,G,N,O
+   1,R,G,N
+  34
+   8,L
+  13
+  17,R,Z,O
+   1
+   8,U,C,O
+   3,C,O
+  14,R,J
+  15,R,J,G,N
+  10,R,G,N
+  11,G,N
+   5,J,G,N
+   4,K,G,N
+   2,K
+   3,R,K
+  13,R,D,K
+  12,R,D
    3,R,D,C,O
    2,R,D,J,C,O
-   1,R,J
-   7,R
-   5,R,J
-   6,J
-# left of window
-   1,J,C,O
-  11,U,J,C,O
-   7,U,J
-  10,U,J,C,O
-   2,J,C,O
-   1,L,J,C,O
-   4,L,J
-   9,L
-  41
-   1,U,Z,O
-   8,R,U,Z,O
-   4,R,U
-   1,R
-   8,R,C,O
-   5,R
-   8,R,C,O
-   1,C,O
-  22,D
-  10,L,D
-  18,D
-   2
-   1,R
-  14,R,Z,O
-   1,Z,O
-   2,U
-   9,U,C,O
-   5,C,O
-   1,R,C,O
-  25,R,J
-   6,R,J,G,N
-  13,R,G,N
-  10,G,N
-   4,J,G,N
-   6,K,G,N
-   1,D,K,G,N
-   1,R,D,K,G,N
-   4,R,D,K
-  22,R,D
-   2,R,D,C,O
-   5,R,D,J,C,O
-   2,R,D,J
-   2,D,J
+   5,R,D,J
   40
 
 # d-04
 # hold jump is free
-  21,D,J
-   1,R,D,J
-   3,R,D
-  15,R
-  18,R,Z,O
-   7,U,C,O
-   3,C,O
-   2
-  26,D
-  10,R,D
-   9,D
-   4,R,D
+  22,J
+  10,R,J
+   8,J
+   3,R,J
+  13,R,J,Z,O
+   2,R,J
+   1,J
+   1,U,J
+   6,U,J,C,O
+   2,U,C,O
+   2,C,O
+   6
+  14,D
+  13,R,D
+  13,D
+   2,R,D
    4,R,D,C,O
    1,R,D,J,C,O
    1,R,J,C,O
@@ -2234,7 +2234,7 @@ console load Celeste/7-Summit
    1,R,D
    1,R
    4,R,J
-   2,R
+   1,R
   40
 
 # d-05
@@ -2759,4 +2759,4 @@ console load Celeste/7-Summit
    1,O
   31
 
-FileTime: 5:55.980(20940)
+FileTime: 5:56.014(20942)

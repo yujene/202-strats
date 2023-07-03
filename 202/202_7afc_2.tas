@@ -1208,12 +1208,8 @@ console summitgem 4
    2,C,O
    3
   11,J
-   9,R,J,Z,O
-   1,R,J
-   2,R
-   4,R,D,J,C,O
-   5,R,D,C,O
-   1,R,D
+  12,R,J,C,O
+  12,R,Z,O
   40
 
 # f-08c
@@ -1640,101 +1636,122 @@ console summitgem 4
 
 # g-00b
   76
-   7,R,U,C,O
-   2,R,C,O
-   5,R
-   9,R,D,C,O
-   3,R,D
-   2,R,D,J
-   3,R,D,J,C,O
-   8,R,D,C,O
-   1,R,D
-   4,R
-   2,R,C,O
-   9,R,U,C,O
-   1,R,U
-   5,R
-   8,R,C,O
-   4,R
-   2,R,J
-   2,J
-   2,L,D,J,C,O
-# after star
-   8,L,D,C,O
-   3,L,D
-   5,L,D,J
-   3,L,D,J,C,O
-   9,L,D,C,O
-   7,L,D
-   8,L,D,C,O
-   5,L,D
-  14,L,D,C,O
-   4,L,D
-   1,L
-   7
-  11,J
-   4,R,J
-   1,K
-   7,L,K
-   5,K
-   2,U,K
-   4,U,K,C,O
-  11,U,C,O
-   2,U,J,C,O
-  16,U,J
-   3,U,J,C,O
-  12,U,C,O
-   3,C,O
-   2,J,C,O
-   8,J
-   5,L,J
-   4,J
-   1,R,K
-  18,R,K,G,N
-   9,J,G,N
-   7,K,G,N
-   4
-# only get to flag 27 to be safe
-  13,L
-   1,C,O
-   9,D,C,O
-   5,D
-  11,D,C,O
-  33,D
-   3
-   7,R
-   9,R,U,C,O
-   2,R,C,O
-   5,R
-   1,R,D
-  10,R,D,C,O
-   2,R,D
-   2,R,D,J
-   6,R,D,J,C,O
-   4,R,D,C,O
-   1,R,D
+   8,R,U,C,O
+   1,R,C,O
    5,R
    1,R,C,O
-  11,R,U,C,O
+   9,R,D,C,O
+   3,R,D
+   1,R,D,J
+   5,R,D,J,C,O
+   6,R,D,C,O
+   1,R,C,O
+   4,R
+  10,R,U,C,O
+   1,R,U
    5,R
   10,R,C,O
-   1,R
-  10,R,J
-  27
-   5,R
-  72
-# after last gem breaks
-   1,D
-   9,D,C,O
-   2,C,O
+   4,R
+   3,R,J
+   2,R
+   1
+   1,L,D
+# after star
+  11,L,D,C,O
+   2,L,D
+   5,L,D,J
+   1,L,D,J,C,O
+  10,L,D,C,O
+   6,L,D
+  10,L,D,C,O
+   4,L,D
+  15,L,D,C,O
+   3,L,D
+   2,L
    3
+  13,J
+   2,R,J
+  10,R,K
+   6,K
+   3,U,K,C,O
+   2,U,K,C,O
+  13,U,C,O
+   2,U,J,C,O
+  15,U,J
+   4,U,J,C,O
   15,U,C,O
-   2,U
- 154
+# high wallbounce
+   3,J,C,O
+   7,J
+   4,L,J
+   4,J
+   1,R,J
+   9,R,K
+   3,R,K,G,N
+   5,R,K,G,N
+   6,J,G,N
+   2,J,G,N
+   7,K,G,N
+   3,G,N
+   7
+   1,U
+   8,U,C,O
+   2,C,O
+   1,J,C,O
+   2,L,J,C,O
+  10,L,J
+   2,J
+   1,J,C,O
+   2,U,J,C,O
+   9,U,C,O
+   3,C,O
+   1,J,C,O
+  12,R,J,C,O
+   2,R
+  13
+   1,U,C,G,N,O
+   7,L,U,C,G,N,O
+   2,L,G,N
+# hold jump
+  15,L,J,G,N
+   5,L,J,Z,G,N,O
+   3,L,G,N
+   1,G,N
+   1,R,G,N
+# low demohyper
+   2,R,J,G,N
+  14,R,G,N
+   1,G,N
+   1
+   1,D
+   2,D,J
+   8,D
+# wait after neutral
+   5,D,C,O
+  68,D
+# flag top of screen
+   7,R,D,C,O
+  24,R,D
+   9,R,D,C,O
+   5,R,D
+   9,R,D,C,O
+   6,R
+  10,R,U,C,O
+   2,R,U
+   4,R
+   8,R,C,O
+   3,R
+   7,R,J
+   1,R,U,J
+  13,R,U,J,C,O
+   1,R,U,C,O
+   4,R,U
+   1,R
+ 149
    4,S
    2,D,S
    1,D
    1,O,F,180
   31
 
-FileTime: 3:47.800(13400)
+FileTime: 3:48.038(13414)

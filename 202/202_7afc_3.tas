@@ -1,76 +1,54 @@
-console load Celeste/7-Summit g-00b 5
+console load Celeste/7-Summit g-00b 1
    1
 
 #Start
   36
 
 # g-00b
-# flag 27
-   9,U,C,O
-   2,C,O
-   2,L,C,O
-# late wallbounce
-   9,L,J
-   3,J
-   3,U,J
-   3,U,J,C,O
-   5,U,C,O
-   5,C,O
-   2,R,C,O
-  11,R,J,C,O
-   2,R,C,O
-   3,R
-  10
-   7,L,U,C,O
-   4,L,C,G,N,O
-   1,L,J,C,G,N,O
-  14,L,J,G,N
 # flag 26
-   4,L,J,C,G,N,O
-   7,L,C,G,N,O
-   2,L,J,C,G,N,O
-   8,L,J,G,N
-   3,J,G,N
-   2,U,J,C,G,N,O
-   6,U,C,G,N,O
-   3,C,G,N,O
-   5,L,C,G,N,O
-   2,L,J,C,G,N,O
-   8,L,J,G,N
-   1,J,G,N
-   2,J
-   2,U,J,C,O
-   7,U,C,O
-   6,C,O
-   1,J,C,O
-  16,R,J
-   3,R,U,J,C,O
-   6,R,U,C,O
-   7,R
-  10,R,C,O
-   7,R
-   1,R,U
-  10,R,U,C,O
+  16,J
+   1,L,J
+   1,L,J,C,O
+  11,L,U,J,C,O
+   3,L,U,J
+   2,U,J
+   3,U,J,C,O
+  10,U,C,O
+   5,C,O
+   2,J,C,O
+   1,J
+   7,L,J
+   5,J
+   1,R,J
+  17,R,K
+   9,R,U,K,C,O
+   1,R,K,C,O
    6,R
-  10,R,C,O
-   3,R
-  23,R,D
-   2,D
-   7
-   3,R
-  10,R,C,O
-   3,R
-   1
+   8,R,C,O
+  10,R
+   1,R,C,O
+   7,R,U,C,O
+   4,R,U
+   5,R
+   8,R,C,O
+  34,R
+   6
+   2,R
+  11,R,C,O
+   2,R
+   2
    1,U
-   7,U,C,O
-   4,C,O
-  13,R,J
-  18,R
-   6,R,C,O
-  18,R
-   8,R,U,C,O
-   7,R,U
-  11,R,U,C,O
+  10,U,C,O
+   2,C,O
+   1,J
+   8,R,J
+  21,R
+   7,R,C,O
+  15,R
+   1,R,U
+   8,R,U,Z,O
+  12,R,U
+  10,R,U,C,O
    4,R,U
    3,R
   11,R,C,O
@@ -1256,4 +1234,4 @@ console load Celeste/7-Summit g-00b 5
    1,D,J
   18
 
-FileTime: 2:31.759(8927)
+FileTime: 2:30.467(8851)

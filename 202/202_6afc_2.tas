@@ -328,6 +328,7 @@ console load Celeste/6-Reflection 04
   12,D,C,O
    1,D
   24,L,D
+# wait a tad
    1,R,D
    8,R,D,C,O
    2,R,C,O

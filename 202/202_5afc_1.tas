@@ -441,6 +441,7 @@ console load Celeste/5-MirrorTemple
   15,J
    2,K
   13
+  10,R,D
    3,R,D,C,O
    3,R,D,J,C,O
   27,R,D
@@ -676,18 +677,10 @@ console load Celeste/5-MirrorTemple
    3,L,U
    2,L
   18
-   1,D
-   3,R,D,C,O
-   3,R,D,J,C,O
-   1,R,D,C,O
-   2,R,D
-  12,D
-   6
-   1,Z,O
-   5,R,Z,O
-   1,R
-   3
-  10,L,C,O
+  15,R,X
+  20,R,D
+  10,R,X
+   9,L,C,O
   52,L
    1,L,U
    8,L,U,C,O
@@ -1900,6 +1893,7 @@ console load Celeste/5-MirrorTemple
    4,L,C,G,N,O
    8,L,G,N
    9,L
+# before eye
    8,L,U,C,O
    2,L,C,O
    4,L
@@ -2140,4 +2134,4 @@ console load Celeste/5-MirrorTemple
    1,S,O,F,180
   31
 
-FileTime: 4:43.815(16695)
+FileTime: 4:44.087(16711)
