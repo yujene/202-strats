@@ -289,82 +289,66 @@ console load Celeste/6-Reflection 00
   19,U,G,N
    1,G,N
   18
-   2,L,D
-# at green bg
-   8,L,D,C,O
-   1,D,C,O
-   2,R,D
-   4,R,D,J
-   5,R,D,J,C,O
-   1,R,D,C,O
-   2,R,C,O
-   9,R
-   1,R,U
-# buffer upright
-  12,R,U,C,O
-  19,R
-   3
    2,D
-   1,R,D
-# small hyper
-   3,R,D,C,O
-   2,R,D,J,C,O
+  51,R,D
+# instant hyper after collide
+   2,R,D,C,O
+   8,R,D,J,C,O
+  11,R,D,J
+  11,R,J
   40
 
 # 06
-  45,R
-   9,R,C,O
-  37,R
-  22,R,U
-   7,U
-  16,L,U
-  17,L
-  12,L,Z,O
-   4,L
-   1,L,G,N
-  47,L,U,G,N
-   1,L,G,N
-   1,L
+# hold left
+  43,L
    1
-  16,R
-   8
-  10,L,G,N
-  61,G,N
-   9,D,G,N
-  11,G,N
-  38,R,G,N
-  45,R,J,G,N
-   1,R,U,J,G,N
-   8,R,U,J,C,G,N,O
-   1,R,U,C,G,N,O
-  29,R,G,N
-   6,R,J,G,N
-   2,R,G,N
-   1,G,N
-  10
-   2,D
+  42,R
+  18,R,U
+   8,U
+  23,L,U
+  10,L
+   9,L,Z,O
+  15,L
+   2,L,G,N
+  31,L,U,G,N
+   1,L,G,N
+   4
+  14,R
+   4
+  13,L,G,N
+# middle
+  85,G,N
+   6,D,G,N
+  20,G,N
+  20,R,G,N
+  48,R,J,G,N
+  10,R,U,J,C,G,N,O
+   1,R,J,C,G,N,O
+  21,R,G,N
+   7,R,J,G,N
+   6,R,G,N
+   6
+   1,D
    2,R,D
-   3,R,D,C,O
-   7,R,D,J,C,O
-   1,R,D,C,O
-   3,R,D
+   4,R,D,C,O
+   4,R,D,J,C,O
+   3,R,D,J
+   3,R,J
   40
 
 # 07
-   6,R,D
-  10,R,D,C,O
+  12,R,D,C,O
    2,R,D
-   3,R,D,J
-   3,R,D,J,C,O
-   9,R,D,C,O
-  19,R,D
-   5,R,D,J
+   4,R,D,J
+   6,R,D,J,C,O
+   6,R,D,C,O
+  16,R,D
+   9,R,D,J
    2,R,D
   10,R,D,C,O
-   4,R,D
-   1,R,D,J
-   3,R,D,J,C,O
-   2,R,D,C,O
+   3,R,D
+   5,R,D,J,C,O
+   4,R,D,C,O
   40
 
 # 08a
@@ -2036,4 +2020,4 @@ console load Celeste/6-Reflection 00
    1,O
   31
 
-FileTime: 5:21.997(18941)
+FileTime: 5:22.184(18952)

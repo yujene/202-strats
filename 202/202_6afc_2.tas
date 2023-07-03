@@ -71,78 +71,64 @@ console load Celeste/6-Reflection 04
   35,U,G,N
    1,G,N
   24
-   1,L,D
-   8,L,D,C,O
-   1,D
-   2,R,D
-   3,R,D,J
-   2,R,D,J,C,O
-   6,R,D,C,O
-   6,R,D
-   5,R
-   1,R,J
-   2,R,U,J
-   4,R,U,J,C,O
-   5,R,U,C,O
-   1,R,U
-   4,R
+   2,D
+  46,R,D
+# instant hyper after collide
+   2,R,D,C,O
+  30,R,D,J,C,O
   40
 
 # 06
-   2,R,D
-   9,R,D,C,O
-   3,R,D
-   3,R,D,J
-   3,R,D,J,C,O
-   6,R,D,C,O
-   7,R,D
-   8,R
-  34,R,U
-   6,R
-  14,R,U
-   4,U
-  22,L,U
-  11,L
-   9,L,Z,O
-   6,L
+# hold left
+  45,L
+  20,R,U
+  20,R
+  10,R,U
+   8,U
+  18,L,U
+  12,L
+   7,L,Z,O
+  17,L
   49,L,U,G,N
-   1,L
-   8
-   9,R
-   8
-  10,L,G,N
-  65,G,N
-  14,D,G,N
-  34,G,N
-   2,U,Z,G,N,O
-   3,U,Z,O
-   2,U
-   3
-   1,R
-  48,R,J
+   1,L,G,N
+   1,G,N
+   2
+  11,R
+   5
+   2,G,N
+  12,L,G,N
+   9,G,N
+   9,D,G,N
+  44,G,N
+  13,D,G,N
+  33,G,N
+   1,U,G,N
+   4,U,Z,G,N,O
+   1,U,G,N
+   4,G,N
    2,R
-   9,R,D
-   3,R,D,C,O
-   8,R,D,J,C,O
-   2,R,D,C,O
-   1,R,D
+  52,R,J
+   2,R,D,J
+   4,R,D
+   5,R,D,C,O
+  10,R,D,J,C,O
   40
 
 # 07
    1,R,D
-   9,R,D,C,O
-   3,R,D
-   4,R,D,J
-   6,R,D,J,C,O
-   5,R,D,C,O
-  19,R,D
-   8,R,D,J
-   2,R,D,J,C,O
-   6,R,D,C,O
-   5,R,D
-   4,R,D,J,C,O
-   5,R,D,C,O
+  11,R,D,C,O
+   2,R,D
+   5,R,D,J
+   9,R,D,J,C,O
+   3,R,D,C,O
+  18,R,D
+   6,R,D,J
    1,R,D
+  10,R,D,C,O
+   3,R,D
+   1,R,D,J
+   3,R,D,J,C,O
+   6,R,D,C,O
   40
 
 # 08a
@@ -1915,4 +1901,4 @@ console load Celeste/6-Reflection 04
    1,D,J
   18
 
-FileTime: 4:50.972(17116)
+FileTime: 4:51.754(17162)
