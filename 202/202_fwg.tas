@@ -834,91 +834,94 @@ console load Celeste/LostLevels
   11,L
   10
    1,L
-   6,L,J
+   4,L,J
 # left wallkick
-  10,L,K
-   7,K
+   4,L,K
+  17,K
+   9,U,K,C,O
+   8,U,K
   12,U,K,C,O
-   5,U,K
-  13,U,K,C,O
-   1,K
-  20
-   2,C,O
-   9,R,C,O
-  13,R
-  16,R,C,O
-   9,R
-  13,R,C,O
-   2,R,C,G,N,O
-  16,R,G,N
+   2,U
+  19
+  11,R,C,O
+  11,R
+  14,R,C,O
+  15
+   1,L,D
+   9,L,D,C,O
+   1
+   1,G,N
+   2,R,G,N
+  17,R,J,G,N
+   6,R,G,N
 # grab wall before falling
-   2,G,N
-   1
-  37,D
-   7
-   9,R,C,O
-   2,C,O
-   1
-  14,L
-   8,L,C,O
-   5,L
-   9,L,C,O
-  21,L
+   1,G,N
+  29
+   7,L
+# bg tile
+   5,L,Z,O
+  24,L
+# holes
+   4,L,Z,O
+  26,L
    3,L,D
    3,L,D,C,O
    2,L,D,J,C,O
-   1,L,D,J
-   7,L
-  11,L,J
-   7,L,J,Z,O
+   1,L,D
+   5,L
+  12,L,J
+   8,L,J,Z,O
    1,L,Z,O
    4,L
-   1,L,J
-   3,L,D,J,C,O
-   6,L,D,C,O
-  19,L
-   1
+   1,L,D,J
+   4,L,D,J,C,O
+   5,L,D,C,O
+   2,L,C,O
+  17,L
+   1,D
 # dash down before button
-  14,D,C,O
+  16,D,C,O
+   3,D
+   2
+   3,L
+   6,L,J
+   1,J
+   1,D
+  12,D,C,O
    2,D
-   3
-   2,L
-   7,L,J
-   1,L
-   1
-  11,D,C,O
-   2,D
-   2,L,D
-   7,L,D,C,O
-   1,D,C,O
-   1,R,C,O
+   1,L,D
+   6,L,D,C,O
+   1,C,O
+   1,R
    3,R,G,N
-  18,R,J,G,N
+  12,R,J,G,N
 # release grab as soon as you pick up
-  18,R,J
+  23,R,J
+   1,R,U,J
    1,U,J
-   6,U,J,C,O
-   1,U,C,O
-   1,C,O
-  39,R,G,N
-   1,R,D
-   7,D
+   7,U,J,C,O
+   1,J,C,O
+  35,R,J,G,N
+   1,R,G,N
+   1,R,D,G,N
+   2,D,G,N
+   6,D
    5
-   1,C,O
    7,U,C,O
-   6,U
+   3,U
    1,U,G,N
-  15,R,U,G,N
-  17,R,G,N
-   1,G,N
-  12,L,J,G,N
-   1,J,G,N
-   1,R,J,G,N
-   9,R,K,G,N
-   3,L,K,G,N
-  10,L,J,G,N
+   7,G,N
+  24,R,G,N
    2,L,G,N
-  15,G,N
+   9,L,J,G,N
+   1,J,G,N
+   2,R,J,G,N
+   8,R,K,G,N
+   2,K,G,N
+   1,L,K,G,N
+  10,L,J,G,N
+   3,L,G,N
+  14,G,N
   16,J,G,N
   40
 
@@ -1478,6 +1481,7 @@ console load Celeste/LostLevels
    1,R,U,J
    9,R,U,J,C,O
    6,R,U,J
+# late second upright
   17,R,U,J,C,O
    1,R,U,J
   20,R,J
@@ -3023,11 +3027,14 @@ console load Celeste/LostLevels
    2,C,O
    2
   49,R
+# low
   14,R,C,O
    7,R
+# late upright demo
    8,R,U,Z,O
    2,R,U
    3,R
+# roll 2 jumps
   21,R,J
    2,R
   29,R,G,N
@@ -3722,62 +3729,66 @@ console load Celeste/LostLevels
    5,G,N
    2
    7,D
-  42,R,D
+  41,R,D
 # blue spawn
-   1,R,D,C,O
+   2,R,D,C,O
    5,R,D,J,C,O
-   3,R,D,J
+   2,R,D,J
   40,J
 
 # i-02
-   9,R,D,J
-# after 2 tile
+  11,R,D,J
    2,R,D,J,C,O
+# far right
   11,R,D,C,O
-   1,R,C,O
-  31,R,J
-# slightly right of center
-   1,R,J,C,O
+   3,R,D,J
+  28,R,J
+# right of center
   17,R,U,J,C,O
-   1,R,U,J
-   5,J
-   1,J,G,N
-   8,L,J,G,N
-  10,L,K,G,N
-   1,J,G,N
-   1,R,J,G,N
+   1,R,J,C,O
+   2,J,C,O
+   1,J
+   6,L,J
+   6,L,J,G,N
+   8,L,K,G,N
+   1,K
   10,R,J
-  35,R
-   1,R,U
+  31,R
+# lined up right line
   11,R,U,C,O
-  22,R,U
-  12,R,U,J
-   9,R,U,J,C,O
-   2,R,U,C,O
-   3,R,U
-  43,R
-   7,R,C,O
-   8,R
-  10,R,C,O
-# slide until pink spawn
-  18,R
-   4
-  14,J
-  13,L,J,G,N
+   8,R,U
+# slightly delayed upright
+   9,R,U,C,O
+   2,R,U
+   1,R
+   1
+  20,L
+# buffer left walljump
+   3,L,J
+  46,R,J
+   8,R,J,C,O
+  21,R,J
+   8,R,J,C,O
+  18,R,J
+   2,J
+# neutral before turn
+  14,K
+   2,K,G,N
+  12,L,K,G,N
+  13,L,U,G,N
    1,L,G,N
-   2,G,N
-  23,U,G,N
-  14,R,G,N
-  43,R,J,G,N
-   8,R,K,G,N
-   9,R,J,G,N
-  16,R,G,N
-   3,R,J,G,N
-   5,R,G,N
-   6
-   1,D
-   9,D,C,O
-  12,D
+   1,G,N
+  18,R,G,N
+  45,R,J,G,N
+   9,R,K,G,N
+   8,R,J,G,N
+  11,R,G,N
+   2,R
+   4,R,J
+  10,R
+   5
+  10,D,C,O
+  13,D
    3,R,D
    2,R,D,C,O
    3,R,D,J,C,O
@@ -3969,12 +3980,12 @@ console load Celeste/LostLevels
 
 # reconciliation
 # j-00
-   7,R
-   1
+   5,R
+   3
    2,D
   13,D,C,O
-  14,D
-  75,R,D
+  74,D
+  15,D,X
 # go a tad after blue exists for a while
    8,R,D,C,O
    3,R,D
@@ -5781,4 +5792,4 @@ console load Celeste/LostLevels
    1,O
   31
 
-FileTime: 16:48.389(59317)
+FileTime: 16:48.066(59298)
