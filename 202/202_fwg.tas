@@ -3985,8 +3985,9 @@ console load Celeste/LostLevels
    2,D
   13,D,C,O
   74,D
+# blue spawn
   15,D,X
-# go a tad after blue exists for a while
+# buffer hyper
    8,R,D,C,O
    3,R,D
    2,R
