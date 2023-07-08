@@ -345,6 +345,7 @@ console load Celeste/1-ForsakenCity
   40
 
 # 8
+#p buffer timings
 # enter right side
   11,J,G,N
   20,G,N
@@ -575,6 +576,7 @@ console load Celeste/1-ForsakenCity
    6,R,G,N
 # max height jump right
   49,R,J,G,N
+#p not buffering
 # don't buffer jump
   30,R,K,G,N
   13,R,J,G,N
@@ -616,6 +618,7 @@ console load Celeste/1-ForsakenCity
    3,G,N
   10,R,G,N
   25,R,J,G,N
+#p buffer timing
   31,R,K,G,N
    8,R,J,G,N
    6,R,K,G,N

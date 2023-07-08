@@ -5,32 +5,31 @@ console load Celeste/1-ForsakenCity s1
   36
 
 # s1
-   1,L,D
-   9,L,D,C,O
-   1,D,C,O
-   4,R,D
-  10,R,D,C,O
-   2,R,D
-   3,R,D,J
+   1,L
+   4,L,J
+   1,L
+   1
+   1,R,D
+   9,R,D,C,O
+   1,R,D
+   3,R
+  28,R,J
+   8,R,J,C,O
+  10,R
+   8,R,D
+   4,R,D,C,O
    4,R,D,J,C,O
-   7,R,D,C,O
-   2,R,D
-   9,R,D,G,N
-  17,R,D,J,G,N
-   7,R,D,K,G,N
-  13,R,D,K,C,O
-   3,R,D,C,O
-  13,R,D
-   6,R,D,C,O
+  31,R,D
+   2,R,D,C,O
+   6,R,D,J,C,O
   40
 
 # s0
-   1,R,D
-   4,R,D,J
-   4,D
+  10,R,D
+   1,D
   11,D,C,O
   10,D
-   9,R,D
+   6,R,D
    2,R,D,J
   19,R,J
    1,R,U,J,C,O
@@ -192,6 +191,7 @@ console load Celeste/1-ForsakenCity s1
   40
 
 # 7a
+#p room
   16,R,D
 # after clearing wall
    9,R,D,C,O
@@ -355,6 +355,7 @@ console load Celeste/1-ForsakenCity s1
   12,U,C,O
 # wait to collect
   20
+#p 2 rooms
    9,L,C,O
    3,L,G,N
   10,L,J,G,N
@@ -483,6 +484,7 @@ console load Celeste/1-ForsakenCity s1
    1,R,G,N
   13,R,J,G,N
    3,R,G,N
+#p upright timing
 # late climbjump
   18,R,J,G,N
   11,R,U,J,C,G,N,O
@@ -574,4 +576,4 @@ console load Celeste/1-ForsakenCity s1
    1,O
   31
 
-FileTime: 1:14.324(4372)
+FileTime: 1:14.545(4385)

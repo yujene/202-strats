@@ -88,6 +88,7 @@ console hard Celeste/1-ForsakenCity
   40
 
 # 02
+#p strat
   11
    1,D
   10,R,D,C,O
@@ -338,6 +339,7 @@ console hard Celeste/1-ForsakenCity
   40
 
 # 06
+#p strat
    5,R,G,N
   11,R,J,G,N
    1,R,D,J,G,N
@@ -427,6 +429,7 @@ console hard Celeste/1-ForsakenCity
 
 # scrap pit
 # 08
+#p room
    3,J,G,N
    4,G,N
   10

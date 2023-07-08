@@ -153,10 +153,12 @@ console rmx2 Celeste/1-ForsakenCity
 # climb to top
   21,U,G,N
    5,G,N
+#p strat
 # small jump for bigger window
    3,J,G,N
   12,G,N
   29,L,J,G,N
+# don't buffer climbjump
   18,L,K,G,N
    2,L
    1
