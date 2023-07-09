@@ -62,6 +62,7 @@ console rmx2 Celeste/2-OldSite
    3,R,C,O
    3,R
 # hold downright into last coin
+#p strat warm
   52,R,D
 # tap grab under barricade
    5,R,D,G,N
@@ -121,6 +122,7 @@ console rmx2 Celeste/2-OldSite
   16,R
   11,R,J
   11,R
+#p strat warm
   18,R,G,N
 # climb down to bottom 2px
    6,R,D,G,N

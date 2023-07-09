@@ -171,6 +171,7 @@ console hard Celeste/2-OldSite
 
 # combination lock
 # 03
+#p room
    1,L,J,G,N
   13,L,G,N
   10,L,C,G,N,O
@@ -350,6 +351,7 @@ console hard Celeste/2-OldSite
   40
 
 # 06
+#p coin room memory
   11,R,D
    9,R,D,C,O
    4,R,D
@@ -580,6 +582,7 @@ console hard Celeste/2-OldSite
   40
 
 # 10
+#p strat awkward
    1,R,D
    9,R,D,C,O
    4,R,D

@@ -251,6 +251,7 @@ console load Celeste/2-OldSite
   40
 
 # d2
+#p strat brief
   20,L,D
    3,L
    9,L,Z,O
@@ -302,6 +303,7 @@ console load Celeste/2-OldSite
   40
 
 # d9
+#p cassette room
 # 6 down
    7,D,C,O
    7,D
@@ -525,6 +527,7 @@ console load Celeste/2-OldSite
   40
 
 # d4
+#p strat
   15,R,J,G,N
    4,R,G,N
   10,R,J,G,N
@@ -680,6 +683,7 @@ console load Celeste/2-OldSite
   40
 
 # 1
+#p strat brief
    6,R,D,J
    8,R,J
    7,R
@@ -830,6 +834,7 @@ console load Celeste/2-OldSite
   40
 
 # 5
+#p strat
   11,R,D
   11,R,D,C,O
    2,R,D
@@ -1109,6 +1114,7 @@ console load Celeste/2-OldSite
   40
 
 # 10
+#p room brief
    1,L,D
    2,L
   12,L,Z,O
@@ -1519,6 +1525,7 @@ console load Celeste/2-OldSite
   40
 
 # end_3cb
+#p until end brief
    2
   20,J
    1,U,J
