@@ -462,6 +462,7 @@ console load Celeste/4-GoldenRidge
   40
 
 # b-08
+#p room
    2,G,N
    4,J,G,N
 # climbjump high
@@ -562,6 +563,7 @@ console load Celeste/4-GoldenRidge
    2,C,O
   15,R,J
 # right buffer downright
+#p next few rooms memory
    9,R,C,O
    5,R
    1,R,D,G,N
@@ -789,6 +791,7 @@ console load Celeste/4-GoldenRidge
   40
 
 # c-09
+#p strat warm
   12,R
    1,R,D
    9,R,D,C,O
@@ -1149,6 +1152,7 @@ console load Celeste/4-GoldenRidge
   40
 
 # d-06
+#p strat warm maybe
    5,R,G,N
   21,R,J,G,N
    4,R,K,G,N
@@ -1233,6 +1237,7 @@ console load Celeste/4-GoldenRidge
   40
 
 # d-08
+#p room warm
    1,R,D
    9,R,D,C,O
    3,R,D

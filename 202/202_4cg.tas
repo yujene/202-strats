@@ -127,6 +127,7 @@ console rmx2 Celeste/4-GoldenRidge
   40
 
 # 02
+#p strat beginning
    8,R,D,C,O
    4,R,D
   11,R,D,J
@@ -203,6 +204,7 @@ console rmx2 Celeste/4-GoldenRidge
    8,R
    9,R,U,C,O
   34,R,U
+# late enough upright makes all jumps max height bufferable
    9,R,U,C,O
    7,R,U
   22,R

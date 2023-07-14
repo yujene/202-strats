@@ -348,6 +348,7 @@ console hard Celeste/3-CelestialResort
    2,R,C,O
   19,R
    2,U
+#p strat just hyper bhop
   10,U,C,O
    2,C,O
    5,L,G,N
@@ -560,6 +561,7 @@ console hard Celeste/3-CelestialResort
    3,R,G,N
    7,R
    2,R,D
+#p room
 # small hyper bhop
    3,R,D,C,O
    2,R,D,J,C,O
@@ -729,6 +731,7 @@ console hard Celeste/3-CelestialResort
   40
 
 # 17
+#p room
 # land left
    4,L,J,G,N
    6,L,G,N
@@ -982,6 +985,7 @@ console hard Celeste/3-CelestialResort
    1,D,J
    1,D
   11,D,C,O
+#p room
    5,D
   40
 

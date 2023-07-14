@@ -365,6 +365,7 @@ console hard Celeste/4-GoldenRidge
   40
 
 # b-02
+#p room
   15,L,J
    7,L,J,G,N
    4,L,U,J,G,N
@@ -444,6 +445,7 @@ console hard Celeste/4-GoldenRidge
   40
 
 # b-03
+#p room
   16,U,J
    1,U,J,C,O
   12,U,C,O
@@ -677,6 +679,7 @@ console hard Celeste/4-GoldenRidge
   40
 
 # c-02
+#p room
    2,R,J
   14,R,J,C,O
    1,R,C,O
@@ -873,7 +876,7 @@ console hard Celeste/4-GoldenRidge
    7,R,D
   15,D
    3,R,D
-# land left
+# land left - centered on left of rock thing
    3,R,D,C,O
    3,R,D,J,C,O
    1,R,D,C,O
@@ -934,6 +937,7 @@ console hard Celeste/4-GoldenRidge
   15,R
   15,L,D,C,O
    4,D
+#p strat
   12,R,D,C,O
   28,R,J
 # right aligned root

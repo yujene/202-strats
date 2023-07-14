@@ -275,6 +275,7 @@ console flag oshiro_resort_talked_3
    9,R,D,C,O
   15,R,D
   14,R
+#p room
    5,R,Z,O
    6,R
   40
@@ -667,6 +668,7 @@ console flag oshiro_resort_talked_3
   40
 
 # 06-d
+#p strat
    4,D
   11,D,C,O
   11,D
@@ -866,6 +868,7 @@ console flag oshiro_resort_talked_3
    6,C,O
    8
 # 03-b
+#p strat
   44,L,G,N
   12,L,J,G,N
    8,L,K,G,N
@@ -963,6 +966,7 @@ console flag oshiro_resort_talked_3
    5,L
    7,L,J
   19,L
+#p cassette room and exit
   15,L,U,C,O
    3,L,U
   21,L
@@ -1086,6 +1090,7 @@ console flag oshiro_resort_talked_3
 
 # 04-d
   12,L,G,N
+#p room warm
   11,L,Z,G,N,O
    2,L,G,N
   40
@@ -1257,6 +1262,7 @@ console flag oshiro_resort_talked_3
   40
 
 # roof03
+#p room
    1,R,D
    9,R,D,C,O
    4,R
@@ -1419,6 +1425,7 @@ console flag oshiro_resort_talked_3
   14,R,C,O
   13,R
    6,R,Z,O
+#p last room
    5,R
    4,R,D,J
    1,R,D,J,C,O

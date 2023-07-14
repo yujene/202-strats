@@ -385,7 +385,7 @@ console load Celeste/4-GoldenRidge
   40
 
 # a-10
-# idk this is just a hard room
+#p 2 rooms
    3,L,J,X,G,N
    9,L,X,G,N
    1,X,G,N
@@ -534,6 +534,7 @@ console load Celeste/4-GoldenRidge
   40
 
 # a-09
+#p strat
    9,D
   12,D,C,O
    3,D
@@ -1063,6 +1064,7 @@ console load Celeste/4-GoldenRidge
   40
 
 # b-secb
+#p 2 rooms
    3,R,D,J
    4,R,D,J,G,N
   13,R,D,G,N
@@ -1253,6 +1255,7 @@ console load Celeste/4-GoldenRidge
    2,R,U,K,G,N
    5,R,K,G,N
   10,R,G,N
+#p strat cpop
    5,R,D,G,N
    1,R,D
    2,R,D,X
@@ -1654,6 +1657,7 @@ console load Celeste/4-GoldenRidge
    3,R,G,N
    1,R
   11
+#p strat
    6,R,J,G,N
   27,R,K,G,N
   13,K
@@ -2084,6 +2088,7 @@ console load Celeste/4-GoldenRidge
   40
 
 # d-04
+#p room memory
    1,R,D
   11,R,D,X
    1,R,D

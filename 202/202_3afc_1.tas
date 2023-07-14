@@ -231,6 +231,7 @@ console load Celeste/3-CelestialResort
 # 02-b
   10,L
    1,L,D
+#p strat demo
    7,L,D,C,O
    5,L,D
    3,L,J
@@ -669,6 +670,7 @@ console load Celeste/3-CelestialResort
   40
 
 # 07-b
+#p strat warm
    5
 # climb up to demohyper
    5,J,G,N
@@ -721,6 +723,7 @@ console load Celeste/3-CelestialResort
    4,L,G,N
   11,L
 # land near darkness
+#p strat and backup
    9,L,C,O
    5,L
   10,L,C,O
@@ -779,6 +782,7 @@ console load Celeste/3-CelestialResort
   11,R,C,G,N,O
 # grab wall
   20,R,G,N
+#p strat jasig
    1,R,D,G,N
    6,R,D,C,G,N,O
    5,R,D,G,N
@@ -1203,6 +1207,7 @@ console load Celeste/3-CelestialResort
    4,R,D,K,C,G,N,O
    7,R,D,C,G,N,O
    4,R,D,G,N
+#p strat memory
    9,R,D,C,G,N,O
   40
 

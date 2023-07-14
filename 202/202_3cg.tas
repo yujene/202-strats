@@ -5,6 +5,7 @@ console rmx2 Celeste/3-CelestialResort
   76
 
 # 00
+#p room memory
 # buffer 2 downleft, 1 upright demo
    1,L,D
    7,L,D,C,O
@@ -45,6 +46,7 @@ console rmx2 Celeste/3-CelestialResort
   40
 
 # 01
+#p room memory
 # buffer neutral
   35,J
 # dash on landing
@@ -99,6 +101,7 @@ console rmx2 Celeste/3-CelestialResort
   40
 
 # 02
+#p room memory
    4,R
    2,R,J
    2,R,D,J
