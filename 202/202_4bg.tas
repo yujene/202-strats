@@ -713,34 +713,44 @@ console hard Celeste/4-GoldenRidge
   16,R,J
   22,R,J,C,O
    9,R
-  12
-  16,R
-   2
-   3,L
-  11,L,G,N
-   6,G,N
-   8,D,G,N
-# bottom 2px, pause if off by a little
-  73,G,N
-  10,J,G,N
-  12,K,G,N
+  13
+  15,R
+   6
    2,G,N
+   6,L,G,N
+   8,G,N
+   6,D,G,N
+# climb down safe amount
+  38,G,N
+# release when close
+  14
+   1,U,G,N
+# around horiz bg hole
+   8,R,U,Z,G,N,O
+   1,U,Z,G,N,O
+   5,Z,G,N,O
+  11,L,G,N
+   7,G,N
+   8,J,G,N
+   9,K,G,N
+   1,G,N
   30
    3,R
   31,R,J
    6,J
-   2
-  11,L,G,N
-  41,G,N
-  24,R,G,N
-   5,R,C,G,N,O
-  18,R,G,N
-   1,R
-   4,R,J
+   1,J,G,N
+  13,L,J,G,N
+   3,J,G,N
+  31,G,N
+  33,R,G,N
+  10,R,C,G,N,O
+  14,R,G,N
+   3,R,J,G,N
+   1,R,D,J,G,N
    3,R,D,J,C,O
-   8,R,D,C,O
-   9,R,D
-   7,R,D,C,O
+   6,R,D,C,O
+  12,R,D
+   5,R,D,C,O
   40
 
 # c-03
@@ -1223,4 +1233,4 @@ console hard Celeste/4-GoldenRidge
    1,O
   31
 
-FileTime: 3:05.249(10897)
+FileTime: 3:05.300(10900)
