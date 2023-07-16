@@ -156,6 +156,7 @@ console hard Celeste/5-MirrorTemple
   40
 
 # b-01
+#p strat bubsdrop
   10,R,D,C,O
    3,R,D
    7,R,D,J
@@ -244,6 +245,7 @@ console hard Celeste/5-MirrorTemple
    7,R,K,G,N
    1,K,G,N
    2,L,K,G,N
+#p room cycle
    7,L,J,G,N
   40
 
@@ -430,17 +432,17 @@ console hard Celeste/5-MirrorTemple
   11
    1,C,O
    7,U,C,O
-  17,U
-# before narrow section
+  12,U
+# bottom narrow section
    8,U,C,O
-   5,C,O
-# high wallbounce
+   2,C,O
+# buffer wallbounce
    1,J
-  10,R,J
+  24,R,J
 # 2 right climbjumps
    9,R,K,G,N
   14,R,J,G,N
-  68,R,G,N
+  58,R,G,N
   10,R,U,G,N
   21,R,G,N
   20,R,U,G,N
@@ -516,6 +518,7 @@ console hard Celeste/5-MirrorTemple
 
 # through the mirror
  207
+#p room
 # downright and delay hold right
   11,R,D,C,O
    2,R,D
@@ -898,6 +901,7 @@ console hard Celeste/5-MirrorTemple
    2
    9,D
   29,R,D
+#p room
    3,R,D,C,O
    4,R,D,J,C,O
    7,R,J,C,G,N,O
@@ -1035,4 +1039,4 @@ console hard Celeste/5-MirrorTemple
    1,O
   31
 
-FileTime: 2:21.746(8338)
+FileTime: 2:21.678(8334)

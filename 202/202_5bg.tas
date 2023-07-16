@@ -195,6 +195,7 @@ console hard Celeste/5-MirrorTemple
    2,L
 # confirm landing
    2
+#p strat
    5,R,J
   11,R
    8
@@ -286,6 +287,7 @@ console hard Celeste/5-MirrorTemple
   40
 
 # b-06
+#p strat memory
 # buffer late jump hyper
    8,L,D,C,O
    4,L,D
@@ -360,6 +362,7 @@ console hard Celeste/5-MirrorTemple
   37,R,J,G,N
   10,R,K,G,N
    2,K,G,N
+#p room cycle
    1,L,K,G,N
    1,L,K
    7,L,J
@@ -523,6 +526,7 @@ console hard Celeste/5-MirrorTemple
    4,L
   12,L,J
 # upleft into wall
+#p room cycle
   13,L,U,J,Z,O
   40
 
@@ -645,6 +649,7 @@ console hard Celeste/5-MirrorTemple
 # through the mirror
 # c-00
  207
+#p room
 # downright then neutral
   10,R,D,C,O
    1,C,O
@@ -871,6 +876,7 @@ console hard Celeste/5-MirrorTemple
 
 # mix master
 # d-00
+#p checkpoint
   19,R,J
    5,R,J,C,O
    2,R,C,O

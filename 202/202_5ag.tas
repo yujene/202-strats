@@ -8,6 +8,7 @@ console load Celeste/5-MirrorTemple
    1,S
    1,D,J
   35
+#p strat warm
 # instant super to berry
    1,R,C,O
    2,R,J,C,O
@@ -1360,6 +1361,7 @@ console load Celeste/5-MirrorTemple
 
 # rescue
 # e-00
+#p checkpoint
    8,R,D
    2,R,D,C,O
    3,R,D,J,C,O

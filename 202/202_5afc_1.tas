@@ -343,6 +343,7 @@ console load Celeste/5-MirrorTemple
 # a-06
   48
    2,L,D
+#p strat
    3,L,D,C,O
    3,L,D,J,C,O
   40
@@ -520,6 +521,7 @@ console load Celeste/5-MirrorTemple
   11,D,C,O
 # can collect 2 berries
    1,C,O
+#p rooms warm
   14,L
   40
 
@@ -546,6 +548,7 @@ console load Celeste/5-MirrorTemple
    4,L,J
    6,L,C,O
   24,L
+# *downleft early, delay jump, group jump with end movement inputs
    8,L,D,C,O
    6,L
    9,L,J
@@ -562,7 +565,7 @@ console load Celeste/5-MirrorTemple
    7,L,K
    3,L
    3,D
-# idk just be far enough to not die
+# wait longer and be higher
    8,D,C,O
    2,D
    2
@@ -827,6 +830,7 @@ console load Celeste/5-MirrorTemple
    3,L
    4,L,Z,O
   14,L
+#p strat warm
    7,L,C,O
    1,C,O
    7
@@ -1539,6 +1543,7 @@ console load Celeste/5-MirrorTemple
    2,L,J,Z
   20,L
   91,L,D
+#p strats warm to death warp
   10,L,D,C,O
    8,L,D
    2,L,D,C,O
@@ -1770,6 +1775,7 @@ console load Celeste/5-MirrorTemple
    1,L,J
   13,L,K
   12,L
+#p strat warm key
   11,L,U,C,O
    3,L,U
   40
@@ -1919,6 +1925,7 @@ console load Celeste/5-MirrorTemple
    1,L,D
   14,L,D,C,O
   13,L,D
+#p strat warm
    8,L,D,C,O
    2,D,C,O
    1,D
@@ -2054,6 +2061,7 @@ console load Celeste/5-MirrorTemple
   40
 
 # b-14
+#p strat warm heart
   16,R,D
 # bg tile
   14,R,D,C,O

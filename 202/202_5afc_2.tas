@@ -373,6 +373,7 @@ console givekey
   27,R,J
    2,R
    1,R,D
+#p strat berry
    8,R,D,C,O
   40
 
@@ -472,6 +473,7 @@ console givekey
    3,D,J
   24,D
    6
+#p strat
    1,C,O
   13,U,C,O
    1,C,O
@@ -779,6 +781,7 @@ console givekey
    5
    1,D
    3,R,D,C,O
+#p strat warm
 # full height until transition
    8,R,D,J,C,O
   40
@@ -929,6 +932,7 @@ console givekey
   40
 
 # d-13
+#p strat memory collect
 # down dash to collect
    9,D,C,O
    5,D
@@ -1178,6 +1182,7 @@ console givekey
    1,L
   10,L,C,O
    7,L
+#p strat memory
   41,L,D
 # right of block
   11,L,D,C,O
@@ -1224,6 +1229,7 @@ console givekey
   40
 
 # d-19
+#p strat
   30,L,D
 # pass ceiling, wavedash upleft to reach lock as soon as possible
    9,L,D,C,O
@@ -1596,6 +1602,7 @@ console givekey
   40
 
 # e-06
+#p room
    3,R,J,G,N
   16,R,G,N
   21,R,J,G,N
@@ -1775,6 +1782,7 @@ console givekey
    4,L,J
    1,J
    4
+#p rooms to end
    2,R,D,G,N
    9,R,D,C,G,N,O
    2,R,D,G,N
