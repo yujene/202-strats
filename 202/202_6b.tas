@@ -244,6 +244,7 @@ console hard Celeste/6-Reflection
   40
 
 # a-05
+#p strat memory
   16,R,J
    3,R
   10
@@ -801,6 +802,7 @@ console hard Celeste/6-Reflection
   40
 
 # b-08
+#p strat
   13,R,D,J
   15,R,D
    9,D
@@ -1265,6 +1267,7 @@ console hard Celeste/6-Reflection
   40
 
 # d-01
+#p rooms
    9,U
    1,R,U
   12,R,U,C,O
@@ -1472,6 +1475,7 @@ console hard Celeste/6-Reflection
   40
 
 # d-04
+#p room warm
   10,R
    3,R,J
    1,R,U,J
@@ -1551,6 +1555,7 @@ console hard Celeste/6-Reflection
   40
 
 # d-05
+#p room warm
    1,R,J,G,N
    6,R,K,G,N
    1,R,K,G,N

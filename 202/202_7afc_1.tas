@@ -95,6 +95,7 @@ console load Celeste/7-Summit
   40
 
 # a-02b
+#p strat
   13,L,J,G,N
    1,L,D,J
   10,L,D,J,C,O
@@ -210,6 +211,7 @@ console load Celeste/7-Summit
   40
 
 # a-04
+#p rooms
    2,R,D
    8,R,D,C,O
    3,R,D
@@ -250,7 +252,7 @@ console load Celeste/7-Summit
    9,R,J
   12,J
    1,R,J
-# dash low
+# dash low, head aligned green bg
    9,R,J,C,O
    1,R,C,O
   13,R
@@ -686,6 +688,7 @@ console load Celeste/7-Summit
 # land before reverse
    7,D
    1,R,D
+#p room
    8,R,D,C,O
    3,L,D
   13,L,D,J
@@ -721,6 +724,7 @@ console load Celeste/7-Summit
   40
 
 # b-02
+#p strat to winged
    6,R,D
    9,R,D,C,O
    3,R,D
@@ -951,6 +955,7 @@ console load Celeste/7-Summit
    1,R
    4
    2,G,N
+#p strat warm
   63,L,G,N
 # right of pillar 1
   28,L,C,G,N,O
@@ -1242,6 +1247,7 @@ console load Celeste/7-Summit
   13,R,K,C,O
    1,R,C,O
    7,R
+#p rooms
   23,R,G,N
    4,R,J,G,N
    5,R,K,G,N
@@ -1493,6 +1499,7 @@ console load Celeste/7-Summit
   40
 
 # c-07
+#p strat
   15,L,J
 # pole
   11,L,U,J,C,O
@@ -1609,6 +1616,7 @@ console load Celeste/7-Summit
   19,R
    4,R,Z,O
   20,R,J,Z,O
+#p strat memory
   10,R,U,J,C,O
    2,R,J,C,O
   18,R
@@ -1834,6 +1842,7 @@ console load Celeste/7-Summit
 # d-01b
   16,R,D
    1,D
+#p rooms
   11,D,C,O
    2,D
   40
@@ -1970,6 +1979,7 @@ console load Celeste/7-Summit
    6,R,D
   27,R
   14,R,J
+#p rooms cassette
    7,R,J,Z,O
    1,R,Z,O
    4,R
@@ -2089,6 +2099,7 @@ console load Celeste/7-Summit
   40
 
 # d-03
+#p room memory
   13,R,D
    6,R,D,C,O
    7,R,D
@@ -2228,6 +2239,7 @@ console load Celeste/7-Summit
   16,R
    1,R,D
    1,D
+#p room warm
    1,D,C,O
    6,L,D,C,O
    1,L,D
@@ -2287,6 +2299,7 @@ console load Celeste/7-Summit
   40
 
 # d-05b
+#p room memory
   14,R,J
    8,R
    2,R,D

@@ -6,6 +6,7 @@ console load Celeste/6-Reflection 00
 
 # lake
 # 00
+#p strat lake skip
    1,R,G,N
    5,R,J,G,N
    6,J,G,N
@@ -752,6 +753,7 @@ console load Celeste/6-Reflection 00
   40
 
 # 20
+#p strat memory
 # transition hyper to feather
   31,R,J
    2,R,D,J
@@ -1295,6 +1297,7 @@ console load Celeste/6-Reflection 00
    6,R,G,N
   29,R,D
   10,R,D,C,O
+#p room
   17,R,D
    2,R,D,C,O
   14,R,D,J,C,O
@@ -1705,6 +1708,7 @@ console load Celeste/6-Reflection 00
   10,R,C,O
    4,C,O
   24
+#p strats warm
    1,D
    3,R,D,C,O
    9,R,D,J,C,O
@@ -1919,6 +1923,7 @@ console load Celeste/6-Reflection 00
    6
   11,D,C,O
    7,D
+#p room cycle last room
    4,R,D
    3,R,D,C,O
    4,R,D,J,C,O

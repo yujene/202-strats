@@ -85,6 +85,7 @@ console load Celeste/6-Reflection
 # lake
 # 00
   34
+#p strat lake skip
    8,U,C,O
    3,U
    2,L,U
@@ -327,6 +328,7 @@ console load Celeste/6-Reflection
   15,R,G,N
   11,R,U,G,N
    9,R,G,N
+#p strat cassette
    9,R,C,G,N,O
   31,R,G,N
 # land right side
@@ -506,6 +508,7 @@ console load Celeste/6-Reflection
    6,D
    9,D,C,O
   20,D
+#p strat memory heart code
    9,D,C,O
    2
    3,L

@@ -147,6 +147,7 @@ console summitgem 4
    6,R,J,G,N
    4,R,G,N
   12
+#p rooms
    1,C,O
    8,U,C,O
    4
@@ -404,6 +405,7 @@ console summitgem 4
    8,L,C,O
    2,L
   32,L,D
+#p rooms
 # slightly extended for cb
    6,L,D,C,O
    3,L,D
@@ -990,6 +992,7 @@ console summitgem 4
    4,R,D
   13,R,D,C,O
   14,R,D
+#p strats warm
 # max hyper left of pillar
    3,R,D,C,O
    9,R,D,J,C,O
@@ -1150,6 +1153,7 @@ console summitgem 4
    2,J
    1
    2,G,N
+#p strat warm
   32,L,U,G,N
    2,L,G,N
    5,R,G,N
@@ -1636,6 +1640,7 @@ console summitgem 4
 
 # g-00b
   76
+#p strat warm heart
    8,R,U,C,O
    1,R,C,O
    5,R

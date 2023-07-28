@@ -910,6 +910,7 @@ console load Celeste/7-Summit g-00b 1
    2
    3,R
    2,R,G,N
+#p strat
 # flag 4
   15,R,J,G,N
   10,R,K,G,N

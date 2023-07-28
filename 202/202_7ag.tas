@@ -994,6 +994,7 @@ console load Celeste/7-Summit
 # 1500m
 # d-00
   27
+#p checkpoint memory
   49,L
   17,L,J
    1,L,U,J
@@ -1169,6 +1170,7 @@ console load Celeste/7-Summit
   40
 
 # d-04
+#p rooms
    3,R,D,J
    9,D,J
   16,D

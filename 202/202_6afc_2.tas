@@ -681,6 +681,7 @@ console load Celeste/6-Reflection 04
    3,D
    6,D,C,O
    8,D
+#p strat gap warm
   31,R,D
    9,R,D,C,O
    3,R,D
@@ -842,6 +843,7 @@ console load Celeste/6-Reflection 04
   11
    1,D
  212,R,D
+#p strat kevin
 # two broken pillars
    2,R,D,C,O
    3,R,D,J,C,O
@@ -1677,6 +1679,7 @@ console load Celeste/6-Reflection 04
   37,D
   10,D,C,O
    8,D
+#p room cycle last room
    2,R,D
    4,R,D,C,O
    5,R,D,J,C,O
