@@ -29,6 +29,7 @@ console rmx2 Celeste/9-Core
    8,R,D,C,G,N,O
    1,R,D,C,O
    2,R,D
+# jump before transition
    2,R,D,J
   40
 

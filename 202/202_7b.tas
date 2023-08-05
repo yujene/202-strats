@@ -332,7 +332,7 @@ console hard Celeste/7-Summit
    6,R,Z,G,N,O
    7,R
   36,R,J
-# mid gap
+# mid gap - higher better
   17,R,J,Z,O
 # up dash
    1,J,C,O
@@ -558,6 +558,7 @@ console hard Celeste/7-Summit
   40
 
 # c-00
+#p rooms warm
   17,R,G,N
 # left-mid spring
    9,R,C,G,N,O
@@ -843,6 +844,7 @@ console hard Celeste/7-Summit
    1,R
   12
    1,D
+#p room warm
    2,R,D
    3,R,D,C,O
    3,R,D,J,C,O
@@ -1386,6 +1388,7 @@ console hard Celeste/7-Summit
    1,G,N
   24
    1,D
+#p strat warm
 # small hyper
    3,R,D,C,O
    3,R,D,J,C,O
@@ -1593,6 +1596,7 @@ console hard Celeste/7-Summit
 # 3000m
 # g-00
   69
+#p checkpoint
    7,L,C,G,N,O
    6,L,G,N
    7,L,J,G,N

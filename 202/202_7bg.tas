@@ -9,6 +9,7 @@ console hard Celeste/7-Summit
 
 # a-00
   78
+#p strat memory
    2,R,C,O
    5,R,J,C,O
    6,R,J
@@ -196,14 +197,12 @@ console hard Celeste/7-Summit
 # 500m
 # b-00
   73
-   2,L,D,C,G,N,O
-   5,L,D,J,C,G,N,O
-   2,L,D,J,G,N
-   2,L,D,K,G,N
-  25,L,K,G,N
-   1,L,G,N
-# don't climb up
-  39,G,N
+# super
+   7,L,C,G,N,O
+  25,L,J,C,G,N,O
+# climb a tad
+  11,U,G,N
+  28,G,N
 # wait until stopped
   17,J,G,N
    1,U,J,G,N
@@ -326,6 +325,7 @@ console hard Celeste/7-Summit
   40
 
 # b-02
+#p room warm
   18,R,J,G,N
    1,R,U,J,G,N
    8,R,U,J,C,G,N,O
@@ -577,6 +577,7 @@ console hard Celeste/7-Summit
   40
 
 # c-00
+#p rooms
   11,R
 # downright buffer up
    8,R,D,C,O
@@ -700,6 +701,7 @@ console hard Celeste/7-Summit
   40
 
 # c-03
+#p room warm
    2,R
   10,R,J
    3,R,J,C,O
@@ -818,6 +820,7 @@ console hard Celeste/7-Summit
 # 1500m
 # d-00
   73
+#p checkpoint warm memory
   11,U,C,O
    2,U
   34,U,G,N
@@ -1197,6 +1200,7 @@ console hard Celeste/7-Summit
   16,R,U,Z,O
    1,U,Z,O
    1,U
+#p room warm
   10,U,C,O
    1,C,O
    3,J,C,O
@@ -1456,6 +1460,7 @@ console hard Celeste/7-Summit
   40
 
 # f-02
+#p rooms warm
    9,R,J,G,N
    3,R,U,J,G,N
    9,R,U,J,C,G,N,O
@@ -1655,6 +1660,7 @@ console hard Celeste/7-Summit
 # 3000m
 # g-00
   70
+#p checkpoint
    6,L,C,G,N,O
    7,L,G,N
    2,L,J,G,N
@@ -2672,6 +2678,7 @@ console hard Celeste/7-Summit
    5,S
   22
    1,D,J
+#p room warm
  145
 
 # g-03
@@ -2757,4 +2764,4 @@ console hard Celeste/7-Summit
    1,O
   31
 
-FileTime: 7:06.139(25067)
+FileTime: 7:06.054(25062)

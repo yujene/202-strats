@@ -129,6 +129,7 @@ console hard Celeste/9-Core
   40
 
 # a-02
+#p strat
 # buffer right downright
   10,R,C,O
    2,R
@@ -168,6 +169,7 @@ console hard Celeste/9-Core
   37,L
   20,L,J
    1,J
+#p room memory
    7,U,J,C,O
    5,U,J
   10,U,J,C,O
@@ -379,6 +381,7 @@ console hard Celeste/9-Core
   21,R,J,G,N
   14,R,K,G,N
   19,R,G,N
+#p strat warm
   15,R
   40
 
@@ -571,6 +574,7 @@ console hard Celeste/9-Core
    2,R,J,G,N
    7,R,K,G,N
   29,R,G,N
+#p room warm
   15,R
   40
 
@@ -847,6 +851,7 @@ console hard Celeste/9-Core
 
 # c-05
   69,R,G,N
+#p rooms
    5,R,Z,G,N,O
    5,R,G,N
    5,R,J,G,N
@@ -1027,6 +1032,7 @@ console hard Celeste/9-Core
   40
 
 # space
+#p room warm
 # dash 1
    5,R,Z,O
    7,R

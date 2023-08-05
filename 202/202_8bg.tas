@@ -5,6 +5,7 @@ console hard Celeste/9-Core a-00
   36
 
 # a-00
+#p room feel
 # high jump
   17,J
    1,J,C,O
@@ -90,6 +91,7 @@ console hard Celeste/9-Core a-00
   40
 
 # a-02
+#p strat
 # buffer right downright
    9,R,C,O
    4,R
@@ -134,6 +136,7 @@ console hard Celeste/9-Core a-00
    1,U,J
    1,J
    6,R,J,G,N
+#p room memory
   12,R,K,G,N
   40
 
@@ -573,6 +576,7 @@ console hard Celeste/9-Core a-00
    2,R,J,G,N
    2,R,J
   20,R
+#p room warm
   40
 
 # b-05
@@ -694,6 +698,7 @@ console hard Celeste/9-Core a-00
   40
 
 # c-02
+#p rooms warm
    5,R,J,G,N
   29,R,K,G,N
   10,R,J,G,N
@@ -1034,6 +1039,7 @@ console hard Celeste/9-Core a-00
   40
 
 # c-06
+#p strat position memory
   44,R,J
   10,R,U,J,C,O
    3,R,J,C,O
@@ -1073,6 +1079,7 @@ console hard Celeste/9-Core a-00
   40
 
 # c-08
+#p strat feel
 # pause 4f hyper
   12,R,D,G,S,N
    8,R,D,G,N
@@ -1197,6 +1204,7 @@ console hard Celeste/9-Core a-00
    7,R
    4,R,J
   31,R
+#p room
   40
 
 # space

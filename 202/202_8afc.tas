@@ -261,7 +261,7 @@ console load Celeste/9-Core
    1,R,J,C,O
   13,R,U,J,C,O
   61,R,U
-# bottom of screen
+# upright can be much earlier
   15,R,U,C,O
    5,R,C,O
    1,R
@@ -290,6 +290,7 @@ console load Celeste/9-Core
    1,U,K,G,N
    8,R,K,G,N
   10,R,J,G,N
+#p room
    4,R,K,G,N
   40
 
@@ -458,6 +459,7 @@ console load Celeste/9-Core
   13,L,J
    3,J
    9,U,J,C,O
+#p strat warm
    3,C,O
   42
 
@@ -555,6 +557,7 @@ console load Celeste/9-Core
   16,R,J
   10,R,D,J
   10,R,D
+#p strat feel
   25,D
    4
    3,L
@@ -593,6 +596,7 @@ console load Celeste/9-Core
    9,R,K,G,N
    8,R,J,G,N
    2,R,G,N
+#p room memory
   14,R
   40
 
@@ -1100,6 +1104,7 @@ console load Celeste/9-Core
 
 # d-08
   72,R
+#p strat memory
    4,R,J
   15,R
    7,R,J
@@ -1220,6 +1225,7 @@ console load Celeste/9-Core
   40
 
 # d-10b
+#p room warm
    2,R,J
   14,R
   39,R,J
@@ -1440,6 +1446,7 @@ console load Celeste/9-Core
    3,R,D,C,O
    7,R,D,J,C,O
   12,R,D
+#p strat warm
 # aim left side
    9,R,D,C,O
    4,R,D

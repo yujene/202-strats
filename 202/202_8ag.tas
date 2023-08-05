@@ -91,6 +91,7 @@ console load Celeste/9-Core a-00
   39,G,N
    2
   18,J
+#p rooms memory
   10,U,J,C,O
    5,U,J
   11,U,J,C,O
@@ -235,6 +236,7 @@ console load Celeste/9-Core a-00
    7,R,G,N
    2,R,J,G,N
   22,R,G,N
+#p rooms memory
    3,R
   40
 
@@ -623,6 +625,7 @@ console load Celeste/9-Core a-00
   40
 
 # d-05
+#p room memory
   32,L
    4,L,J
   18,L
@@ -924,6 +927,7 @@ console load Celeste/9-Core a-00
   40
 
 # d-10b
+#p room
   19,R
   14,R,J
   29,R
@@ -1009,6 +1013,7 @@ console load Celeste/9-Core a-00
   40
 
 # d-11
+#p room
    2,R
    4,R,J
   17,R

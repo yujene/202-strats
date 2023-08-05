@@ -65,6 +65,7 @@ console rmx2 Celeste/9-Core
   40
 
 # 01
+#p room feel
    9,R
    3
   10,J
@@ -163,6 +164,7 @@ console rmx2 Celeste/9-Core
   44,R
    2,R,J
   16,R
+#p room
   40
 
 # 02
