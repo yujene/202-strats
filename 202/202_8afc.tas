@@ -255,17 +255,28 @@ console load Celeste/9-Core
    5,K
   19,L,K
    1,K
-  44,R,J
-# optional paused
+  42,R,J
+   7,R,G,S,N
+  11,R,G,N
+   4,R,G,S,N
+   4,R,G,N
+   8,R,G,S,N
+   6,R,G,N
+   4,R,G,S,N
+   4,R,G,N
+   8,R,G,S,N
+  10,R,G,N
+   1,X,G,N
+   9,R,G,N
 # left of column 1
    1,R,J,C,O
   13,R,U,J,C,O
-  61,R,U
-# upright can be much earlier
+  37,R,U
+# these chains
   15,R,U,C,O
    5,R,C,O
    1,R
-  20,R,G,N
+  44,R,G,N
   14,R,J,G,N
    3,R,G,N
   22,R
@@ -1473,4 +1484,4 @@ console load Celeste/9-Core
    1,O
   31
 
-FileTime: 3:58.221(14013)
+FileTime: 3:59.479(14087)

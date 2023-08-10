@@ -988,8 +988,7 @@ console load Celeste/4-GoldenRidge
    1,R
    7
    1,R
-   9,R,C,O
-   3,R,J,C,O
+  12,R,C,O
   40
 
 # b-00
@@ -1001,8 +1000,8 @@ console load Celeste/4-GoldenRidge
    3,R,J,X
    1,R,J,X,G,N
   20,R,J,G,N
-  10,R,K,G,N
-  18
+  11,R,K,G,N
+  12
    8,R,D,X
    2,R,D
    2,R
@@ -1699,47 +1698,57 @@ console load Celeste/4-GoldenRidge
    7,R,X
    7,R
   11
-  10,R,D,X
-   3,R
-  18,R,J
-  10,R,J,Z
-   1,R,Z
-   3,R,D
-  13,R,D,J,Z
-  11,R,D
-   8,R,D,S
-   6,R,D
+# hyper to wall
+   2,R,D,C,G,N,O
+   3,R,D,J,C,G,N,O
+   1,R,D,J,G,N
+  20,R,J,G,N
+   2,J,G,N
+   5,G,N
+# do climbup for comfy
+  12,U,G,N
+   1,G,N
+   8
+# take time to prepare for good ultra timing
+   3,R,D,G,N
+   9,R,D,C,G,N,O
+   5,R,D,G,N
+   5,R,D,J,C,G,N,O
+   3,R,D,C,G,N,O
+  15,R,D,G,N
+# pause early
+   7,R,D,G,S,N
+   7,R,D,G,N
+   5,R,D,G,S,N
+   5,R,D,G,N
+   7,R,D,G,S,N
+  20,R,D,G,N
+   4,X,N
+   4,R,D,G,N
+   4,R,D,J,G,S,N
+   6,R,D,G,N
+   4,X,N
+   4,R,D,G,N
+   6,R,D,J,G,S,N
    5,R,D,G,N
    6,R,D,G,S,N
-   4,R,D,G,N
-   6,R,D,G,S,N
-   8,R,D,G,N
-   5,R,D,K,G,S,N
-   3,R,D,G,N
-   6,R,D,K,G,S,N
-   4,R,D,G,N
-   5,R,D,K,G,S,N
-   2,R,D,G,N
-   9,R,D,K,G,S,N
-   4,R,D,G,N
-   9,R,D,G,S,N
-  16,R,D,G,N
-  18,R,D,J,G,N
-  24,R,J,G,N
+  20,R,D,G,N
+   9,R,D,J,G,N
+  31,R,J,G,N
   13,R,K,G,N
-  11,R,J,G,N
+   9,R,J,G,N
+   2,J,G,N
    3,J
-  11,K
-   1,U,K
-   1,U,J
-   3,U,J,X
-   4,U,X
-   9,X
-   6,J,X
-   1,J,X,G,N
-   5,L,J,X,G,N
-   5,L,J,G,N
-   6,L,K,G,N
+  13,K
+   2,K,C,O
+   2,U,K,C,O
+   7,U,C,O
+   6,C,O
+   1,J,C,O
+  11,J
+   1,J,G,N
+   4,L,J,G,N
+   5,L,K,G,N
   40
 
 # c-07
@@ -2339,14 +2348,13 @@ console load Celeste/4-GoldenRidge
   19,R,X
    6,R
    1,R,U
-  11,R,U,X
-   2,R,X
-  26,R
-# demo bubble
-  12,R,Z
-   1,R,U,Z
+  11,R,X
+  20,R
+# upright demo bubble
+  11,R,U,Z
+  10,R
 # buffer upright right
-  11,R,U,X
+  10,R,U,X
    2,R,X
    2,R
   16,R,X
@@ -2387,4 +2395,4 @@ console load Celeste/4-GoldenRidge
    1,D,Z,S,O
   18
 
-FileTime: 5:04.470(17910)
+FileTime: 5:04.895(17935)

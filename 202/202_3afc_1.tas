@@ -242,38 +242,45 @@ console load Celeste/3-CelestialResort
 # 01-b
    7,L,J
   11,K,G,N
-   1,C,G,N,O
+   1,D,C,G,N,O
    6,L,D,C,G,N,O
-   2,L,D,G,N
-   1,L,G,N
-   1,G,N
-   4,J,G,N
-  10,G,N
-# lantern
-   5,L,D,C,G,N,O
-   2,L,D,G,N
-   4,L,G,N
-   7,L,J,G,N
-  41,L,K,G,N
-   3,L,J,G,N
-# pause to 3f after jump inclusive
-   4,L,J,G,S,N
-  21,L,J,G,N
-# crimson chin -1f
+   4,L,D,G,N
+   3,L,D,J,G,N
+# wavedash to lantern
+   8,L,D,G,N
+   6,L,D,C,G,N,O
+   5,L,D,G,N
+# buffered wavedash
+   6,L,D,J,G,N
+   2,L,D,K,G,N
+# buffered climbjump
+  38,L,K,G,N
+  12,L,J,G,N
+# no hand -2f
+   7,L,K,G,S,N
+   7,L,K,G,N
    5,L,J,G,S,N
    4,L,J,G,N
+# big hand -1f
+   5,L,K,G,S,N
+   6,L,K,G,N
    4,L,J,G,S,N
-   6,L,J,G,N
-# round head correct frame
-   4,L,K,X,G,N
-   4,L,K,G,N
-   7,L,J,Z,G,N
-   2,L,J,G,N
-  19,L,G,N
-   9,L,C,G,N,O
-   4,L,G,N
-   1,L,U,G,N
-  10,L,U,Z,G,N,O
+   5,L,J,G,N
+   4,L,K,G,S,N
+# long head correct frame (crimson chin)
+   6,L,K,G,N
+   5,L,J,Z,G,N
+   3,L,J,G,N
+   6,L,K,Z,G,N
+   2,L,K,G,N
+   3,L,G,N
+   1,G,N
+  22
+   7,L,D,C,O
+   2,L,C,O
+   3,L
+   1,L,Z,O
+  11,L,U,Z,O
   40
 
 # 00-b
@@ -1492,4 +1499,4 @@ console load Celeste/3-CelestialResort
    1,S,O,F,180
   31
 
-FileTime: 2:59.775(10575)
+FileTime: 2:59.656(10568)

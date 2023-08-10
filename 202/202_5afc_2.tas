@@ -1694,57 +1694,62 @@ console givekey
   40
 
 # e-07
-   4,R,G,N
-  20,R,J,G,N
+   3,R,G,N
+  19,R,J,G,N
    2,R,G,N
-   6,R
+# throw from center
+   5,R
    3,R,J
   15,R
-   4
+   8
+# land left-center
    2,D
-   6,L,D,C,O
-   1,L,D
-   1,D
-   1
-   1,R
-   4,R,J
-   1,R,J,G,N
-  29,R,G,N
-  40,R,J,G,N
+   9,D,C,O
+  20,D
+   1,D,G,N
+   2,R,D,G,N
+# hyper end of track
+   2,R,D,C,G,N,O
+   3,R,D,J,C,G,N,O
+   3,R,D,J,G,N
+  51,R,J,G,N
   40
 
 # e-08
-  14,R,G,N
-  17,R,J,G,N
-  15,R,G,N
-  17,R,J,G,N
-   4,R,J
-  12,R,U,J,C,O
+  17,R,G,N
+  22,R,J,G,N
+  10,R,G,N
+# jump right side
+  15,R,J,G,N
+# throw max height
+   5,R,J
    1,R,U,J
-   1,R,J
-   5,R
-   9
-   8,L,J
-   4,J
-   1,U,J
-   1,R,U,J,G,N
+  17,R,U,J,C,O
+   2,J,C,O
+   8
+   2,L
+   7,L,J
+   1,J
+   2,G,N
    9,R,U,C,G,N,O
-  26,R,G,N
+   1,R,C,G,N,O
+  23,R,G,N
    1,R
-  15
-   2,R,D,G,N
+  16
+   1,D,G,N
+   3,R,D,G,N
    2,R,D,C,G,N,O
-   7,R,D,J,C,G,N,O
-   4,R,D,G,N
-  29,R,G,N
-   9,G,N
-  21,R,G,N
-  13
+   9,R,D,J,C,G,N,O
+   1,R,D,C,G,N,O
+  33,R,D,G,N
+# release down before landing
+  26,R,G,N
+  19
    1,G,N
-   5,R,Z,G,N,O
-   6,R,G,N
-  23,R,J,G,N
-  21,R,G,N
+   4,R,Z,G,N,O
+   4,R,G,N
+  29,R,J,G,N
+  13,R,G,N
   40
 
 # e-09
@@ -1790,7 +1795,7 @@ console givekey
    4,R,D,J,C,G,N,O
    6,R,D,C,G,N,O
    4,R,D,G,N
-  22,R,G,N
+  23,R,G,N
   40
 
 # e-10
@@ -1890,4 +1895,4 @@ console givekey
 
 # offset for file start setup
 #0:04.913(289)
-FileTime: 4:02.284(14252)
+FileTime: 4:02.403(14259)

@@ -105,7 +105,7 @@ Play, end
 
 
 #3afc
-FileTime: 6:10.940(21820)
+FileTime: 6:10.821(21813)
 
 Read, 202/202_3afc_1.tas
   14
@@ -118,7 +118,7 @@ Play, end
 
 
 #4afc
-FileTime: 5:04.470(17910)
+FileTime: 5:04.895(17935)
 
 Read, 202/202_4afc.tas
 
@@ -126,7 +126,7 @@ Play, end
 
 
 #5afc
-FileTime: 8:40.846(30638)
+FileTime: 8:40.965(30645)
 
 Read, 202/202_5afc_1.tas
   14
@@ -180,7 +180,7 @@ Play, end
 
 
 #8afc
-FileTime: 3:58.221(14013)
+FileTime: 3:59.479(14087)
 
 Read, 202/202_8afc.tas
 
@@ -364,7 +364,7 @@ Play, end
 
 
 #5ag
-FileTime: 4:09.373(14669)
+FileTime: 4:07.928(14584)
 
 Read, 202/202_5ag.tas
 

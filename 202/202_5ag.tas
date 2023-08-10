@@ -1782,56 +1782,43 @@ console load Celeste/5-MirrorTemple
    7,R,G,N
   48,R,J,G,N
    1,R,G,N
-   4,R
-   8,R,Z,O
-   5,R
+   6
+# demo far left after theo through
+   1,Z,O
+   5,R,Z,G,N,O
+   5,R,G,N
   40
 
 # e-11
-   5,R,J
-   3,R,D
-  10,R,D,C,O
-   1,R,D
-  12,R,D,J
-  10,R,D,C,O
-   5,R,D,J,C,O
-   4,R,D,J
-   9,R,D
-   8,R,D,C,O
-   4,R,D
-  13,R,D,J
-   1,R,D
-   9,R,D,C,O
-   1,R,D
-  14,R,D,J
-   2,R,D
-   9,R,D,C,O
-   2,R,D
-  15,R,D,J
-   6,R,D
-   7,R,D,C,O
-   5,R,D
-  23,R,D,J
-   3,R,D
-   8,R,D,C,O
-   2,R,D
-   9,R,D,J
-   3,R,J
-   8,R,J,C,O
-   6,R
-  16
-   1,C,O
-   2,R,C,O
-   5,R,J,C,O
-   9,R
-   2,R,D
-   2,R,D,C,O
-   4,R,D,J,C,O
-   3,R,D
-  31
+   2,R,D,J,G,N
+   7,R,D,J,C,G,N,O
+   6,R,D,C,G,N,O
+  10,R,G,N
+  11,R,J,G,N
+# backboost left-mid column
+   3,L,J
+   1,L,D,J,C,O
+   7,R,D,J,C,G,N,O
+   5,R,D,G,N
+   2,R,G,N
+   4,R,J,G,N
+# full height cb, hold second jump
+  33,R,K,G,N
+  12,R,J,G,N
+  11,R,D,J,C,G,N,O
+   5,R,D,J,G,N
+# aim for this column
+  13,R,D,K,G,N
+  10,R,D,K,C,G,N,O
+   8,R,D,K,G,N
+   1,R,K,G,N
+# aiming for this column makes this free
+  15,R,J,G,N
+   2,G,N
+  21
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 4:09.373(14669)
+FileTime: 4:07.928(14584)
