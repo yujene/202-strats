@@ -1479,6 +1479,7 @@ console load Celeste/9-Core
 # buffer heart
   15,R,D,C,O
  124
+#End
    1,S
    1,U,J
    1,O

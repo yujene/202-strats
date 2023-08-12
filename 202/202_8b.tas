@@ -1137,6 +1137,8 @@ console hard Celeste/9-Core
    9,D,C,O
    1,C,O
    4
+   3,U
+# don't buffer up dash
   11,U,C,O
    1,C,O
    5
@@ -1149,10 +1151,11 @@ console hard Celeste/9-Core
   11,R,D,C,O
   11,R,D
    1,D
- 117
+ 118
+#End
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 3:30.188(12364)
+FileTime: 3:30.256(12368)

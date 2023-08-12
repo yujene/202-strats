@@ -267,6 +267,7 @@ console load Celeste/1-ForsakenCity 9b
    1,R,D,G,N
    2,R,G,N
    2,R
+#End
    1,R,S
    2,S
    1,D,Z,S,O

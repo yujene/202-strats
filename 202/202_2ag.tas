@@ -717,6 +717,7 @@ console load Celeste/2-OldSite
 # 13
   15,R
   25
+#End
 # wait until you see collect
    1,S
    1,U,J
