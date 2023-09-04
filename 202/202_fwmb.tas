@@ -383,6 +383,7 @@ console load Celeste/LostLevels
    8,R,U,G,N
   19,R,G,N
   19,R,J,G,N
+#p room
   11,R,J,Z,G,N,O
   40
 
@@ -1356,6 +1357,7 @@ console load Celeste/LostLevels
    2,R,U
    1,R
   13
+#p room
   10,R
    9,R,D
    6,R,D,C,O
@@ -1465,6 +1467,7 @@ console load Celeste/LostLevels
 # right edge
   13,R,J,C,O
    1,R,J
+#p room
   82
    7,Z,O
    7
@@ -1867,6 +1870,7 @@ console load Celeste/LostLevels
   40
 
 # f-06
+#p rooms bino clip
    1,R
    5,R,Z,O
    7,R
@@ -2248,6 +2252,7 @@ console load Celeste/LostLevels
   61
 
 # g-04
+#p rooms
   20,R
   14,R,C,O
    4,R
@@ -2440,6 +2445,7 @@ console load Celeste/LostLevels
   41,R
    4,R,D
   48,R
+#p strat feel
    6,R,C,O
    5,R
    8,R,C,O
@@ -2575,6 +2581,7 @@ console load Celeste/LostLevels
    2,R,U,C,O
    4,R,U
   25,R
+#p strat memory
    7,R,Z,O
    5,R
    4,R,J
@@ -2739,6 +2746,7 @@ console load Celeste/LostLevels
    2,R,K,G,N
    4,R,K
    7,R
+#p rooms
   11,R,D,C,O
    5,R,D,J,C,O
   40
@@ -2896,15 +2904,15 @@ console load Celeste/LostLevels
    2,C,O
    2
   49,R
-  14,R,C,O
+# low
+  14,R,Z,O
    7,R
+# late upright demo
    8,R,U,Z,O
    2,R,U
-   3,R
-  21,R,J
-   2,R
-  29,R,G,N
-  23,R,U,G,N
+  26,R
+  30,R,G,N
+  27,R,U,G,N
   19,R,G,N
    5
   29,J
@@ -3112,6 +3120,7 @@ console load Celeste/LostLevels
    8,R,D,C,O
    8,R,D
    8,D
+#p strat windsprings
    1,R,D
    3,R,D,C,O
    3,R,D,J,C,O
@@ -6100,4 +6109,4 @@ console load Celeste/LostLevels
    1,O
   31
 
-FileTime: 17:03.162(60186)
+FileTime: 17:03.247(60191)

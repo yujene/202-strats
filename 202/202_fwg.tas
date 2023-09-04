@@ -27,6 +27,7 @@ console load Celeste/LostLevels
   23,R,D,J
    2,R,D
    5,R
+#p pausing
    5,S
    6
    4,S,N
@@ -37,6 +38,7 @@ console load Celeste/LostLevels
    4
   11,J
  871
+#p dts
 # hold right on bounce 10
   67,R
 # skip on bounce 11
@@ -306,6 +308,7 @@ console load Celeste/LostLevels
    8,G,N
 # climb up
   12,U,G,N
+#p strat memory
    9,G,N
    3,C,G,N,O
    5,J,C,G,N,O
@@ -794,6 +797,7 @@ console load Celeste/LostLevels
   40
 
 # d-00
+#p hub and skip
    4,S
    2
    1,D,Z,O
@@ -1456,6 +1460,7 @@ console load Celeste/LostLevels
    7,R,J,G,N
   12,R,K,G,N
    1,R,D,K,G,N
+#p room demo
    9,R,D,C,G,N,O
    1,R,D,J,C,O
    2,R,J
@@ -1514,6 +1519,7 @@ console load Celeste/LostLevels
   40
 
 # e-08
+#p room sus downright
   17,R,J
 # bg floaty
    1,R,J,C,O
@@ -1821,6 +1827,7 @@ console load Celeste/LostLevels
    2,R,U
   16,R
    6,R,D
+#p room conveyor
    2,R,D,C,O
    8,R,D,J,C,O
   40
@@ -1880,6 +1887,7 @@ console load Celeste/LostLevels
   11,R,K,G,N
    6,R,J,G,N
   13,R,G,N
+#p room bino demo
    1,R,C,G,N,O
   10,R,U,C,G,N,O
    1,R,C,G,N,O
@@ -1932,13 +1940,13 @@ console load Celeste/LostLevels
    7,R,J,Z,G,N
    3,R,G,N
    2,G,N
-  70,L,G,N
+  66,L,G,N
    1,L,U,G,N
-# under spinner
+# middle
    7,L,U,C,G,N,O
    1,L,C,G,N,O
    5,L,G,N
-  30,L,J,G,N
+  34,L,J,G,N
   13,L,K,G,N
   11,L,J,G,N
    9,L,K,G,N
@@ -2231,6 +2239,7 @@ console load Celeste/LostLevels
    8,L
    8,R,J
    5,R,K,G,N
+#p rooms dream blocks
   40
 
 # g-03
@@ -2336,6 +2345,7 @@ console load Celeste/LostLevels
   61
 
 # g-04
+#p strat memory comb
   20,R
   14,R,C,O
    4,R
@@ -2438,6 +2448,7 @@ console load Celeste/LostLevels
    7,G,N
    9,R,D,C,G,N,O
   20,R,D,G,N
+#p room memory
    2,R,D,C,G,N,O
   13,R,D,J,C,G,N,O
    1,R,D,C,G,N,O
@@ -2848,6 +2859,7 @@ console load Celeste/LostLevels
   40
 
 # h-03b
+#p room
 # buffered downrights
   10,R,D,C,O
    5,R,D
@@ -3012,6 +3024,7 @@ console load Celeste/LostLevels
    2,G,N
    6
    7,D
+#p strat
   65,R,D
 # bg thing
    1,R,D,C,O
@@ -3028,17 +3041,14 @@ console load Celeste/LostLevels
    2
   49,R
 # low
-  14,R,C,O
+  14,R,Z,O
    7,R
 # late upright demo
    8,R,U,Z,O
    2,R,U
-   3,R
-# roll 2 jumps
-  21,R,J
-   2,R
-  29,R,G,N
-  23,R,U,G,N
+  26,R
+  30,R,G,N
+  27,R,U,G,N
   19,R,G,N
    5
   29,J
@@ -3453,6 +3463,7 @@ console load Celeste/LostLevels
   10,U,C,O
    9
   29,L,D
+#p room cycle
    1,D,C,O
    8,R,D,C,O
    5,R,D
@@ -3471,7 +3482,7 @@ console load Celeste/LostLevels
   34,R,K,G,N
    2,R,K
   88,R
-# center gaps to be slow
+# go slightly fast and expect to adjust slightly
    6,R,D
   25,R
   13,R,U
@@ -3729,6 +3740,7 @@ console load Celeste/LostLevels
    5,G,N
    2
    7,D
+#p room cycle
   41,R,D
 # blue spawn
    2,R,D,C,O
@@ -3895,6 +3907,7 @@ console load Celeste/LostLevels
   40
 
 # i-05
+#p room feel
   11,R,J
   10,R
    2
@@ -4317,6 +4330,7 @@ console load Celeste/LostLevels
   40
 
 # j-05
+#p next room memory
   10,R,D,C,O
    3,R,D
   12,R,D,J
@@ -5002,6 +5016,7 @@ console load Celeste/LostLevels
   13,R,J,C,G,N,O
   10,R,G,N
 # demohyper cb exit
+#p strat chokefish
    6,R,Z,G,N,O
    7,R,G,N
    3,R,J,G,N
@@ -5225,6 +5240,7 @@ console load Celeste/LostLevels
 
 # farewell
 # j-16
+#p fwfw
   20,R
    7
 # late pause
@@ -5356,6 +5372,7 @@ console load Celeste/LostLevels
    6,R,U,C,O
    2,R,U,C,G,N,O
   62,R,U,G,N
+#p fwfw upwind
 # take your time
   38,U,G,N
    7,R,U,G,N
@@ -5419,26 +5436,30 @@ console load Celeste/LostLevels
    1,R,U,G,N
   15,U,G,N
    4,L,U,G,N
- 139,U,G,N
-  15,R,U,G,N
-  54,U,G,N
-  23,G,N
-  21,L,G,N
-  13,G,N
-  17,U,G,N
+#p fwfw fish chimney
+ 150,U,G,N
   20,G,N
+  17,R,G,N
+  10,G,N
+   6,L,G,N
+  14,G,N
+   4,L,G,N
+  36,G,N
+  24,L,G,N
+  14,G,N
+   8,R,G,N
+  11,G,N
+   8,R,G,N
+  31,G,N
   29,R,G,N
-  40,U,G,N
-   3,R,U,G,N
-  32,U,G,N
-  47,G,N
-  12,L,G,N
-  12,L,D,G,N
-  11,L,G,N
-   4,G,N
-  16,U,G,N
-   3,R,U,G,N
-  47,U,G,N
+  25,G,N
+   4,L,G,N
+  33,G,N
+  24,U,G,N
+  68,G,N
+  36,L,G,N
+  29,G,N
+  52,U,G,N
    8,R,U,G,N
   13,U,G,N
   28,R,U,G,N
@@ -5541,12 +5562,12 @@ console load Celeste/LostLevels
   13,G,N
 # boost
    1,R,G,N
-  43,R,U,G,N
+  46,R,U,G,N
   17,R,U,C,G,N,O
   20,R,U,G,N
 # release
   19,G,N
-  20,R,G,N
+  22,R,G,N
    8,R,U,C,G,N,O
   17,R,U,G,N
   55,R,G,N
@@ -5563,8 +5584,8 @@ console load Celeste/LostLevels
   68,R,U,G,N
    8,R,U,C,G,N,O
    9,R,U,G,N
-  19,R,G,N
-   5,R,J,G,N
+  21,R,G,N
+  11,R,J,G,N
    5,R,K,G,N
    4,R,G,N
    2,G,N
@@ -5583,7 +5604,7 @@ console load Celeste/LostLevels
    2
  100,R
    1
-  30,U
+  28,U
   12,U,C,O
    1,U
    1
@@ -5793,4 +5814,4 @@ console load Celeste/LostLevels
    1,O
   31
 
-FileTime: 16:48.066(59298)
+FileTime: 16:49.953(59409)

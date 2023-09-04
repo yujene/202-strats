@@ -952,12 +952,10 @@ console hard Celeste/6-Reflection
   11,R
    1,R,C,O
   10,R,U,C,O
-  36,R,U
-  63,R
-   9,R,D
-  27,R
-   6,R,U
-  10,R
+  50,R
+   7,R,U
+# right above spinners
+  95,R
    7,R,Z,O
    6,R
    4,R,J
