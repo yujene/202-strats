@@ -1275,58 +1275,57 @@ console load Celeste/LostLevels
   40
 
 # e-04
-  32,R,G,N
-  17,R,D,G,N
-  37,R,G,N
-  13
-   1,G,N
-   1,U,G,N
-   7,U,C,G,N,O
-   4,U,G,N
-  17,G,N
-  34,R,G,N
-  20,R,D,G,N
+  36,R,G,N
+  19,R,D,G,N
   31,R,G,N
-  14
-   1,G,N
-   2,U,G,N
-   7,U,C,G,N,O
-   3,U,G,N
-  20,G,N
-  62,R,G,N
-  29,G,N
-  12,R,G,N
-  12,G,N
-# try to be centered
-   4,L,G,N
-  22,G,N
-# throw low spinner
-   4
-   1,G,N
-  13,R,G,N
-  23,R,D,G,N
-   1,D,G,N
-   2,G,N
-  30,L,J,G,N
-   4,L,J
-   1,J
-  27,R,J
-   1,J
-  10,U,J,C,O
-   1,U,J
-   3,U,J,G,N
-  13,U,G,N
-  37,R,U,G,N
-  50,R,G,N
-  19,R
-   7,R,C,O
-  15,R
-  20
    2,R
+  10
+   1,U
+   1,U,G,N
+   9,U,C,G,N,O
+   4,U,G,N
+   5,G,N
+  38,R,G,N
+  20,R,D,G,N
+  32,R,G,N
+  10
+   2,U,G,N
+   9,U,C,G,N,O
+   9,U,G,N
+   3,G,N
+  52,R,G,N
+  20,R,D,G,N
+   5,G,N
+# try to be centered
+   8,L,G,N
+   2,G,N
+# throw low spinner
+  14
+   1,R
+   4,R,G,N
+  19,R,D,G,N
+   4,D,G,N
+   2,L,D,G,N
+   1,L,G,N
+  16,L,J,G,N
+  16,L,J
+  32,R,J
+   1,R,U,J
+   5,U,J,C,O
+   5,U,J,C,G,N,O
+   1,U,C,G,N,O
+   3,U,G,N
+   2,R,U,G,N
+  70,R,G,N
+   2,L,G,N
+   5,L
+  27,R
+   9,R,C,O
+  24,R
 # grounded ultra to kill speed
-   5,R,Z,O
-   7,R
-   4,R,J
+   9,R,Z,O
+   4,R
+   5,R,J
   40
 
 # e-05
@@ -1816,14 +1815,10 @@ console load Celeste/LostLevels
    7,R,J
   27,R,J,G,N
 # don't hold jump
-  71,R,G,N
+  72,R,G,N
 # pause early
    5,R,G,S,N
   10,R,G,N
-   3,R,G,S,N
-   5,R,G,N
-   6,R,G,S,N
-   9,R,G,N
    4,R,G,S,N
    5,R,G,N
    5,R,G,S,N
@@ -4457,36 +4452,20 @@ console load Celeste/LostLevels
   24,L,D
    1,L
    4
-  23,R,G,N
-# climb to top
-  73,R,U,G,N
-# pause 3 climbjumps
-   8,R,U,J,G,S,N
-   8,R,U,G,N
-   4,R,U,J,G,S,N
-   5,R,U,G,N
-   5,R,U,J,G,S,N
-   6,R,U,G,N
-   4,R,U,J,G,S,N
-   4,R,U,G,N
-   5,R,U,J,G,S,N
-   7,R,U,G,N
-   4,R,U,J,G,S,N
-   5,R,U,G,N
-   8,R,U,J,G,S,N
-   8,R,U,G,N
-# unpause with jump held
-  23,R,U,J,G,N
-   7,R,J,G,N
-   9,R,J,C,G,N,O
-  13,R,J,G,N
+  75,R,G,N
+   8,J,G,N
+  11,G,N
+  23,R,J,G,N
+  15,R,X
+   7,R
+   2,R,J,G,N
    9,R,U,J,C,G,N,O
    1,R,U,J,G,N
   14,R,J,G,N
   17,R,J,C,G,N,O
    8,R,J,G,N
   18,R,G,N
-   3,R,U,G,N
+   3,R,D,G,N
   62,R,G,N
    8,R,U,G,N
    5,U,G,N
@@ -4800,12 +4779,8 @@ console load Celeste/LostLevels
   23,R,G,N
   20,R,J,G,N
   16,R,G,N
-  41,R,J,G,N
+  43,R,J,G,N
 # pause early on all
-   7,R,K,G,S,N
-   9,R,K,G,N
-   3,R,J,G,S,N
-   5,R,J,G,N
    5,R,K,G,S,N
   13,R,K,G,N
    3,R,J,G,S,N
@@ -4830,11 +4805,7 @@ console load Celeste/LostLevels
 # upright immediately
    7,R,U,J,Z,G,N,O
    1,R,U,J,G,N
-  38,R,J,G,N
-   7,R,K,G,S,N
-   9,R,K,G,N
-   3,R,J,G,S,N
-   5,R,J,G,N
+  40,R,J,G,N
    5,R,K,G,S,N
   13,R,K,G,N
    3,R,J,G,S,N
@@ -6104,9 +6075,10 @@ console load Celeste/LostLevels
   15,L,J
   13,J
  100
+#End
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 17:03.247(60191)
+FileTime: 16:59.048(59944)
